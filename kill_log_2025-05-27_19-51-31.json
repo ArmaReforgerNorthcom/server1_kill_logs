@@ -5316,3 +5316,9 @@
 {"timestamp":"2025-05-28T01:45:55Z","killer_uid":"7aefe75b-711c-487a-be12-3a4efc878449","killer_name":"God_Life_1","killer_faction":"SCR_CampaignFaction<0x00000206D734A8D0>","action":"suicide","victim_uid":"7aefe75b-711c-487a-be12-3a4efc878449","victim_name":"God_Life_1","victim_faction":"SCR_CampaignFaction<0x00000206D734A8D0>"}
 ,
 {"timestamp":"2025-05-28T01:46:13Z","killer_uid":"2437d1b3-195a-4250-ab4e-801dea9fcee8","killer_name":"Chuckle","killer_faction":"SCR_CampaignFaction<0x00000206D734A8D0>","action":"teamkill","victim_uid":"b683ddd5-63e7-4823-affa-2235c7c82f67","victim_name":"Bussylint76","victim_faction":"SCR_CampaignFaction<0x00000206D734A8D0>"}
+,
+{"timestamp":"2025-05-28T01:46:45Z","killer_uid":"b683ddd5-63e7-4823-affa-2235c7c82f67","killer_name":"Bussylint76","killer_faction":"SCR_CampaignFaction<0x00000206D734A8D0>","action":"teamkill","victim_uid":"2437d1b3-195a-4250-ab4e-801dea9fcee8","victim_name":"Chuckle","victim_faction":"SCR_CampaignFaction<0x00000206D734A8D0>"}
+,
+{"timestamp":"2025-05-28T01:47:13Z","killer_uid":"b683ddd5-63e7-4823-affa-2235c7c82f67","killer_name":"Bussylint76","killer_faction":"SCR_CampaignFaction<0x00000206D734A8D0>","action":"kill","victim_uid":"30746dc4-f4a5-425d-ae04-30a006730295","victim_name":"villiskuli","victim_faction":"SCR_CampaignFaction<0x00000206D734A730>"}
+,
+{"timestamp":"2025-05-28T01:47:16Z","killer_uid":"2cb88ead-b9ae-4c92-b2a7-d74b62260bd1","killer_name":"PaulieWalnuts142","killer_faction":"SCR_CampaignFaction<0x00000206D734A730>","action":"kill","victim_uid":"b683ddd5-63e7-4823-affa-2235c7c82f67","victim_name":"Bussylint76","victim_faction":"SCR_CampaignFaction<0x00000206D734A8D0>"}
