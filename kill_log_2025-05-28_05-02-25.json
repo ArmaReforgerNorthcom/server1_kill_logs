@@ -104,3 +104,5 @@
 {"timestamp":"2025-05-28T13:10:44Z","killer_uid":"54879fd9-2d16-4d0e-90b8-f945561f041a","killer_name":"Vins93p","killer_faction":"SCR_CampaignFaction<0x000001E23B5E28D0>","action":"kill","victim_uid":"afee9640-4110-4b74-a1ed-1b60a7bb27be","victim_name":"TKN-aronnora","victim_faction":"SCR_CampaignFaction<0x000001E23B5E2730>"}
 ,
 {"timestamp":"2025-05-28T13:12:07Z","killer_uid":"5db85244-5b60-4403-b352-a327ea60a960","killer_name":"Loslobo9","killer_faction":"SCR_CampaignFaction<0x000001E23B5E28D0>","action":"kill","victim_uid":"34b0c8d3-d749-4232-8709-acd52c651022","victim_name":"Knøfahgginarëbagz™","victim_faction":"SCR_CampaignFaction<0x000001E23B5E2730>"}
+,
+{"timestamp":"2025-05-28T13:22:09Z","killer_uid":"cc1555ae-c4b9-46ec-951c-f29c17cf3c32","killer_name":"Evolva","killer_faction":"SCR_CampaignFaction<0x000001E23B5E28D0>","action":"suicide","victim_uid":"cc1555ae-c4b9-46ec-951c-f29c17cf3c32","victim_name":"Evolva","victim_faction":"SCR_CampaignFaction<0x000001E23B5E28D0>"}
