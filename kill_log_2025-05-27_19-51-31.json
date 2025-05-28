@@ -5414,3 +5414,13 @@
 {"timestamp":"2025-05-28T01:57:20Z","killer_uid":"2437d1b3-195a-4250-ab4e-801dea9fcee8","killer_name":"Chuckle","killer_faction":"SCR_CampaignFaction<0x00000206D734A8D0>","action":"kill","victim_uid":"8190b0be-0b39-4178-a1b3-798debad5def","victim_name":"Touchmychomp","victim_faction":"SCR_CampaignFaction<0x00000206D734A730>"}
 ,
 {"timestamp":"2025-05-28T01:57:54Z","killer_uid":"23039bf7-4a4f-460d-ac0c-e52e18fc4840","killer_name":"MAMAS_JUICE","killer_faction":"SCR_CampaignFaction<0x00000206D734A730>","action":"kill","victim_uid":"7aefe75b-711c-487a-be12-3a4efc878449","victim_name":"God_Life_1","victim_faction":"SCR_CampaignFaction<0x00000206D734A8D0>"}
+,
+{"timestamp":"2025-05-28T01:58:14Z","killer_uid":"f499540c-958b-49c5-9100-2d9becee581c","killer_name":"Spartacuss_94","killer_faction":"SCR_CampaignFaction<0x00000206D734A730>","action":"kill","victim_uid":"5a4552c7-c582-4982-9ca9-6b9af03b570a","victim_name":"Raptor_calcis72","victim_faction":"SCR_CampaignFaction<0x00000206D734A8D0>"}
+,
+{"timestamp":"2025-05-28T01:58:18Z","killer_uid":"2cb88ead-b9ae-4c92-b2a7-d74b62260bd1","killer_name":"PaulieWalnuts142","killer_faction":"SCR_CampaignFaction<0x00000206D734A730>","action":"suicide","victim_uid":"2cb88ead-b9ae-4c92-b2a7-d74b62260bd1","victim_name":"PaulieWalnuts142","victim_faction":"SCR_CampaignFaction<0x00000206D734A730>"}
+,
+{"timestamp":"2025-05-28T01:58:19Z","killer_uid":"2cb88ead-b9ae-4c92-b2a7-d74b62260bd1","killer_name":"PaulieWalnuts142","killer_faction":"SCR_CampaignFaction<0x00000206D734A730>","action":"teamkill","victim_uid":"c86bb04c-91f3-48e0-a395-1ad649ca16e0","victim_name":"Ghoul","victim_faction":"SCR_CampaignFaction<0x00000206D734A730>"}
+,
+{"timestamp":"2025-05-28T01:58:21Z","killer_uid":"f499540c-958b-49c5-9100-2d9becee581c","killer_name":"Spartacuss_94","killer_faction":"SCR_CampaignFaction<0x00000206D734A730>","action":"kill","victim_uid":"c1559651-3bf6-40f1-815e-3312d5b79f6b","victim_name":"xavr23","victim_faction":"SCR_CampaignFaction<0x00000206D734A8D0>"}
+,
+{"timestamp":"2025-05-28T01:58:47Z","killer_uid":"b683ddd5-63e7-4823-affa-2235c7c82f67","killer_name":"Bussylint76","killer_faction":"SCR_CampaignFaction<0x00000206D734A8D0>","action":"kill","victim_uid":"d4f57b6d-96fc-4912-943d-fe094f0f9c24","victim_name":"clipper1707","victim_faction":"SCR_CampaignFaction<0x00000206D734A730>"}
