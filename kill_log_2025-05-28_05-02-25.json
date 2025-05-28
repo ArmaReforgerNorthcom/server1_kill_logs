@@ -32,3 +32,5 @@
 {"timestamp":"2025-05-28T10:05:22Z","killer_uid":"8e14e3e2-7527-4510-9bb4-7992170a1ea6","killer_name":"zRuthlessRoyal","killer_faction":"SCR_CampaignFaction<0x000001E23B5E28D0>","action":"suicide","victim_uid":"8e14e3e2-7527-4510-9bb4-7992170a1ea6","victim_name":"zRuthlessRoyal","victim_faction":"SCR_CampaignFaction<0x000001E23B5E28D0>"}
 ,
 {"timestamp":"2025-05-28T10:18:18Z","killer_uid":"579cc3e0-3e30-4ed9-8754-131c2e1a901e","killer_name":"itzAro--","killer_faction":"SCR_CampaignFaction<0x000001E23B5E28D0>","action":"teamkill","victim_uid":"8e14e3e2-7527-4510-9bb4-7992170a1ea6","victim_name":"zRuthlessRoyal","victim_faction":"SCR_CampaignFaction<0x000001E23B5E28D0>"}
+,
+{"timestamp":"2025-05-28T10:50:07Z","killer_uid":"102a3997-7f55-411a-83aa-eaaaefe89c46","killer_name":"Brighton-007-non","killer_faction":"SCR_CampaignFaction<0x000001E23B5E2730>","action":"suicide","victim_uid":"102a3997-7f55-411a-83aa-eaaaefe89c46","victim_name":"Brighton-007-non","victim_faction":"SCR_CampaignFaction<0x000001E23B5E2730>"}
