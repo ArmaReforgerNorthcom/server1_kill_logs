@@ -2,3 +2,7 @@
 {"timestamp":"2025-05-28T07:06:28Z","killer_uid":"5701c6ed-57b8-4fa9-bf70-1db661af426b","killer_name":"Stig","killer_faction":"SCR_CampaignFaction<0x000001E23B5E2730>","action":"suicide","victim_uid":"5701c6ed-57b8-4fa9-bf70-1db661af426b","victim_name":"Stig","victim_faction":"SCR_CampaignFaction<0x000001E23B5E2730>"}
 ,
 {"timestamp":"2025-05-28T07:12:24Z","killer_uid":"cc1555ae-c4b9-46ec-951c-f29c17cf3c32","killer_name":"Evolva","killer_faction":"SCR_CampaignFaction<0x000001E23B5E28D0>","action":"suicide","victim_uid":"cc1555ae-c4b9-46ec-951c-f29c17cf3c32","victim_name":"Evolva","victim_faction":"SCR_CampaignFaction<0x000001E23B5E28D0>"}
+,
+{"timestamp":"2025-05-28T07:27:32Z","killer_uid":"5701c6ed-57b8-4fa9-bf70-1db661af426b","killer_name":"Stig","killer_faction":"SCR_CampaignFaction<0x000001E23B5E2730>","action":"suicide","victim_uid":"5701c6ed-57b8-4fa9-bf70-1db661af426b","victim_name":"Stig","victim_faction":"SCR_CampaignFaction<0x000001E23B5E2730>"}
+,
+{"timestamp":"2025-05-28T07:33:48Z","killer_uid":"cc1555ae-c4b9-46ec-951c-f29c17cf3c32","killer_name":"Evolva","killer_faction":"SCR_CampaignFaction<0x000001E23B5E28D0>","action":"suicide","victim_uid":"cc1555ae-c4b9-46ec-951c-f29c17cf3c32","victim_name":"Evolva","victim_faction":"SCR_CampaignFaction<0x000001E23B5E28D0>"}
