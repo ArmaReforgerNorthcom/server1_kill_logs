@@ -5848,3 +5848,7 @@
 {"timestamp":"2025-05-28T03:52:25Z","killer_uid":"dc9193e7-380c-473b-b8a9-bcfe3dfbebff","killer_name":"Binary","killer_faction":"SCR_CampaignFaction<0x00000206D734A730>","action":"kill","victim_uid":"c034068e-5183-40fa-8d08-60fef19a61af","victim_name":"Unreal_DxrkFN","victim_faction":"SCR_CampaignFaction<0x00000206D734A8D0>"}
 ,
 {"timestamp":"2025-05-28T03:52:30Z","killer_uid":"4c42ec09-faaf-457f-b0b6-e6bdb6596506","killer_name":"engine69head","killer_faction":"SCR_CampaignFaction<0x00000206D734A8D0>","action":"teamkill","victim_uid":"cae92b3f-5b01-4f6e-b611-e769ee62f26d","victim_name":"gabber-paul","victim_faction":"SCR_CampaignFaction<0x00000206D734A8D0>"}
+,
+{"timestamp":"2025-05-28T03:59:01Z","killer_uid":"079a8505-c104-43b2-8482-d2eb6427ed93","killer_name":"Kresnik","killer_faction":"SCR_CampaignFaction<0x00000206D734A8D0>","action":"suicide","victim_uid":"079a8505-c104-43b2-8482-d2eb6427ed93","victim_name":"Kresnik","victim_faction":"SCR_CampaignFaction<0x00000206D734A8D0>"}
+,
+{"timestamp":"2025-05-28T04:03:16Z","killer_uid":"cae92b3f-5b01-4f6e-b611-e769ee62f26d","killer_name":"gabber-paul","killer_faction":"SCR_CampaignFaction<0x00000206D734A8D0>","action":"teamkill","victim_uid":"c034068e-5183-40fa-8d08-60fef19a61af","victim_name":"Unreal_DxrkFN","victim_faction":"SCR_CampaignFaction<0x00000206D734A8D0>"}
