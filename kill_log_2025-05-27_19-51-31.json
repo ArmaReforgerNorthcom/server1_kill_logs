@@ -5312,3 +5312,7 @@
 {"timestamp":"2025-05-28T01:44:14Z","killer_uid":"4c42ec09-faaf-457f-b0b6-e6bdb6596506","killer_name":"engine69head","killer_faction":"SCR_CampaignFaction<0x00000206D734A8D0>","action":"suicide","victim_uid":"4c42ec09-faaf-457f-b0b6-e6bdb6596506","victim_name":"engine69head","victim_faction":"SCR_CampaignFaction<0x00000206D734A8D0>"}
 ,
 {"timestamp":"2025-05-28T01:44:56Z","killer_uid":"23039bf7-4a4f-460d-ac0c-e52e18fc4840","killer_name":"MAMAS_JUICE","killer_faction":"SCR_CampaignFaction<0x00000206D734A730>","action":"suicide","victim_uid":"23039bf7-4a4f-460d-ac0c-e52e18fc4840","victim_name":"MAMAS_JUICE","victim_faction":"SCR_CampaignFaction<0x00000206D734A730>"}
+,
+{"timestamp":"2025-05-28T01:45:55Z","killer_uid":"7aefe75b-711c-487a-be12-3a4efc878449","killer_name":"God_Life_1","killer_faction":"SCR_CampaignFaction<0x00000206D734A8D0>","action":"suicide","victim_uid":"7aefe75b-711c-487a-be12-3a4efc878449","victim_name":"God_Life_1","victim_faction":"SCR_CampaignFaction<0x00000206D734A8D0>"}
+,
+{"timestamp":"2025-05-28T01:46:13Z","killer_uid":"2437d1b3-195a-4250-ab4e-801dea9fcee8","killer_name":"Chuckle","killer_faction":"SCR_CampaignFaction<0x00000206D734A8D0>","action":"teamkill","victim_uid":"b683ddd5-63e7-4823-affa-2235c7c82f67","victim_name":"Bussylint76","victim_faction":"SCR_CampaignFaction<0x00000206D734A8D0>"}
