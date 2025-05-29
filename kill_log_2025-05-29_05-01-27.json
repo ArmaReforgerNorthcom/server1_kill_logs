@@ -22,3 +22,15 @@
 {"timestamp":"2025-05-29T09:11:31Z","killer_uid":"d6645dec-c05c-4e60-b512-13abc36504c4","killer_name":"lombow62","killer_faction":"SCR_CampaignFaction<0x0000019CBC4BA730>","action":"kill","victim_uid":"3da78493-c4f1-47f8-9148-1a5d40bc69f7","victim_name":"Mumpitz","victim_faction":"SCR_CampaignFaction<0x0000019CBC4BA8D0>"}
 ,
 {"timestamp":"2025-05-29T09:12:22Z","killer_uid":"3da78493-c4f1-47f8-9148-1a5d40bc69f7","killer_name":"Mumpitz","killer_faction":"SCR_CampaignFaction<0x0000019CBC4BA8D0>","action":"kill","victim_uid":"d6645dec-c05c-4e60-b512-13abc36504c4","victim_name":"lombow62","victim_faction":"SCR_CampaignFaction<0x0000019CBC4BA730>"}
+,
+{"timestamp":"2025-05-29T09:16:55Z","killer_uid":"bffd40b8-1679-48bd-afcb-77a83433532a","killer_name":"Tristan_Cartyer","killer_faction":"SCR_CampaignFaction<0x0000019CBC4BA730>","action":"suicide","victim_uid":"bffd40b8-1679-48bd-afcb-77a83433532a","victim_name":"Tristan_Cartyer","victim_faction":"SCR_CampaignFaction<0x0000019CBC4BA730>"}
+,
+{"timestamp":"2025-05-29T09:17:29Z","killer_uid":"8e0a6441-4f3c-4c21-8bb8-2a466accde13","killer_name":"verentr","killer_faction":"SCR_CampaignFaction<0x0000019CBC4BA730>","action":"suicide","victim_uid":"8e0a6441-4f3c-4c21-8bb8-2a466accde13","victim_name":"verentr","victim_faction":"SCR_CampaignFaction<0x0000019CBC4BA730>"}
+,
+{"timestamp":"2025-05-29T09:21:05Z","killer_uid":"811a12d8-12b5-484c-851a-9020cd76e61a","killer_name":"Kameleon123345","killer_faction":"SCR_CampaignFaction<0x0000019CBC4BA730>","action":"suicide","victim_uid":"811a12d8-12b5-484c-851a-9020cd76e61a","victim_name":"Kameleon123345","victim_faction":"SCR_CampaignFaction<0x0000019CBC4BA730>"}
+,
+{"timestamp":"2025-05-29T09:21:14Z","killer_uid":"d0770f51-730e-4e77-a3dd-797888f5f602","killer_name":"Rennug","killer_faction":"SCR_CampaignFaction<0x0000019CBC4BA8D0>","action":"suicide","victim_uid":"d0770f51-730e-4e77-a3dd-797888f5f602","victim_name":"Rennug","victim_faction":"SCR_CampaignFaction<0x0000019CBC4BA8D0>"}
+,
+{"timestamp":"2025-05-29T09:24:07Z","killer_uid":"","killer_name":"","killer_faction":"NULL","action":"kill","victim_uid":"f884dda7-dcfe-4c92-b304-c5e1c97f2677","victim_name":"Bobzinatorz9999","victim_faction":"SCR_CampaignFaction<0x0000019CBC4BA8D0>"}
+,
+{"timestamp":"2025-05-29T09:25:10Z","killer_uid":"","killer_name":"","killer_faction":"NULL","action":"kill","victim_uid":"f884dda7-dcfe-4c92-b304-c5e1c97f2677","victim_name":"Bobzinatorz9999","victim_faction":"SCR_CampaignFaction<0x0000019CBC4BA8D0>"}
