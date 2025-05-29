@@ -16,3 +16,5 @@
 {"timestamp":"2025-05-29T08:26:51Z","killer_uid":"8e0a6441-4f3c-4c21-8bb8-2a466accde13","killer_name":"verentr","killer_faction":"SCR_CampaignFaction<0x0000019CBC4BA8D0>","action":"suicide","victim_uid":"8e0a6441-4f3c-4c21-8bb8-2a466accde13","victim_name":"verentr","victim_faction":"SCR_CampaignFaction<0x0000019CBC4BA8D0>"}
 ,
 {"timestamp":"2025-05-29T08:45:52Z","killer_uid":"a7d63f46-85c6-4384-9122-ed17e1654e71","killer_name":"MrLazzgwy","killer_faction":"SCR_CampaignFaction<0x0000019CBC4BA8D0>","action":"suicide","victim_uid":"a7d63f46-85c6-4384-9122-ed17e1654e71","victim_name":"MrLazzgwy","victim_faction":"SCR_CampaignFaction<0x0000019CBC4BA8D0>"}
+,
+{"timestamp":"2025-05-29T09:02:32Z","killer_uid":"5c841916-bc60-4e93-aa57-877ca40b2e57","killer_name":"tv/hvntxd","killer_faction":"SCR_CampaignFaction<0x0000019CBC4BA730>","action":"kill","victim_uid":"e1e9925f-c25d-43cc-901d-2d8fcc7c1c86","victim_name":"funkyT1000","victim_faction":"SCR_CampaignFaction<0x0000019CBC4BA8D0>"}
