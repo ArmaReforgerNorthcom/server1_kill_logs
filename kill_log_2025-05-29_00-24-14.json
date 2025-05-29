@@ -518,3 +518,7 @@
 {"timestamp":"2025-05-29T03:30:28Z","killer_uid":"079a8505-c104-43b2-8482-d2eb6427ed93","killer_name":"Kresnik","killer_faction":"SCR_CampaignFaction<0x000001C8B48768D0>","action":"suicide","victim_uid":"079a8505-c104-43b2-8482-d2eb6427ed93","victim_name":"Kresnik","victim_faction":"SCR_CampaignFaction<0x000001C8B48768D0>"}
 ,
 {"timestamp":"2025-05-29T03:38:39Z","killer_uid":"b065dd1d-d44f-4724-b4bd-5191a771502b","killer_name":"Hiyabtw","killer_faction":"SCR_CampaignFaction<0x000001C8B48768D0>","action":"suicide","victim_uid":"b065dd1d-d44f-4724-b4bd-5191a771502b","victim_name":"Hiyabtw","victim_faction":"SCR_CampaignFaction<0x000001C8B48768D0>"}
+,
+{"timestamp":"2025-05-29T03:52:04Z","killer_uid":"8e0a6441-4f3c-4c21-8bb8-2a466accde13","killer_name":"verentr","killer_faction":"SCR_CampaignFaction<0x000001C8B48768D0>","action":"suicide","victim_uid":"8e0a6441-4f3c-4c21-8bb8-2a466accde13","victim_name":"verentr","victim_faction":"SCR_CampaignFaction<0x000001C8B48768D0>"}
+,
+{"timestamp":"2025-05-29T03:52:23Z","killer_uid":"b065dd1d-d44f-4724-b4bd-5191a771502b","killer_name":"Hiyabtw","killer_faction":"SCR_CampaignFaction<0x000001C8B48768D0>","action":"suicide","victim_uid":"b065dd1d-d44f-4724-b4bd-5191a771502b","victim_name":"Hiyabtw","victim_faction":"SCR_CampaignFaction<0x000001C8B48768D0>"}
