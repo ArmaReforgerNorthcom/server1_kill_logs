@@ -534,3 +534,19 @@
 {"timestamp":"2025-05-29T04:25:38Z","killer_uid":"fcbdf11f-6093-4439-a56b-5f790f60c08d","killer_name":"nuklearwurst69","killer_faction":"SCR_CampaignFaction<0x000001C8B48768D0>","action":"teamkill","victim_uid":"a2fe4a5a-c4d2-4a89-84ef-c9ac3a13c9c5","victim_name":"Proud Indian","victim_faction":"SCR_CampaignFaction<0x000001C8B48768D0>"}
 ,
 {"timestamp":"2025-05-29T04:28:54Z","killer_uid":"b065dd1d-d44f-4724-b4bd-5191a771502b","killer_name":"Hiyabtw","killer_faction":"SCR_CampaignFaction<0x000001C8B48768D0>","action":"kill","victim_uid":"9d73cba4-a9ea-45a6-8084-616a7d997f3f","victim_name":"LOGANWALKER8920","victim_faction":"SCR_CampaignFaction<0x000001C8B4876730>"}
+,
+{"timestamp":"2025-05-29T04:37:15Z","killer_uid":"a2fe4a5a-c4d2-4a89-84ef-c9ac3a13c9c5","killer_name":"Proud Indian","killer_faction":"SCR_CampaignFaction<0x000001C8B4876730>","action":"kill","victim_uid":"b065dd1d-d44f-4724-b4bd-5191a771502b","victim_name":"Hiyabtw","victim_faction":"SCR_CampaignFaction<0x000001C8B48768D0>"}
+,
+{"timestamp":"2025-05-29T04:38:45Z","killer_uid":"fcbdf11f-6093-4439-a56b-5f790f60c08d","killer_name":"nuklearwurst69","killer_faction":"SCR_CampaignFaction<0x000001C8B48768D0>","action":"kill","victim_uid":"a2fe4a5a-c4d2-4a89-84ef-c9ac3a13c9c5","victim_name":"Proud Indian","victim_faction":"SCR_CampaignFaction<0x000001C8B4876730>"}
+,
+{"timestamp":"2025-05-29T04:39:20Z","killer_uid":"8e0a6441-4f3c-4c21-8bb8-2a466accde13","killer_name":"verentr","killer_faction":"SCR_CampaignFaction<0x000001C8B48768D0>","action":"suicide","victim_uid":"8e0a6441-4f3c-4c21-8bb8-2a466accde13","victim_name":"verentr","victim_faction":"SCR_CampaignFaction<0x000001C8B48768D0>"}
+,
+{"timestamp":"2025-05-29T04:43:12Z","killer_uid":"fcbdf11f-6093-4439-a56b-5f790f60c08d","killer_name":"nuklearwurst69","killer_faction":"SCR_CampaignFaction<0x000001C8B48768D0>","action":"kill","victim_uid":"a2fe4a5a-c4d2-4a89-84ef-c9ac3a13c9c5","victim_name":"Proud Indian","victim_faction":"SCR_CampaignFaction<0x000001C8B4876730>"}
+,
+{"timestamp":"2025-05-29T04:43:28Z","killer_uid":"9d73cba4-a9ea-45a6-8084-616a7d997f3f","killer_name":"LOGANWALKER8920","killer_faction":"SCR_CampaignFaction<0x000001C8B4876730>","action":"suicide","victim_uid":"9d73cba4-a9ea-45a6-8084-616a7d997f3f","victim_name":"LOGANWALKER8920","victim_faction":"SCR_CampaignFaction<0x000001C8B4876730>"}
+,
+{"timestamp":"2025-05-29T04:44:12Z","killer_uid":"9d73cba4-a9ea-45a6-8084-616a7d997f3f","killer_name":"LOGANWALKER8920","killer_faction":"SCR_CampaignFaction<0x000001C8B4876730>","action":"kill","victim_uid":"b065dd1d-d44f-4724-b4bd-5191a771502b","victim_name":"Hiyabtw","victim_faction":"SCR_CampaignFaction<0x000001C8B48768D0>"}
+,
+{"timestamp":"2025-05-29T04:44:23Z","killer_uid":"fcbdf11f-6093-4439-a56b-5f790f60c08d","killer_name":"nuklearwurst69","killer_faction":"SCR_CampaignFaction<0x000001C8B48768D0>","action":"kill","victim_uid":"9d73cba4-a9ea-45a6-8084-616a7d997f3f","victim_name":"LOGANWALKER8920","victim_faction":"SCR_CampaignFaction<0x000001C8B4876730>"}
+,
+{"timestamp":"2025-05-29T04:44:28Z","killer_uid":"a2fe4a5a-c4d2-4a89-84ef-c9ac3a13c9c5","killer_name":"Proud Indian","killer_faction":"SCR_CampaignFaction<0x000001C8B4876730>","action":"kill","victim_uid":"fcbdf11f-6093-4439-a56b-5f790f60c08d","victim_name":"nuklearwurst69","victim_faction":"SCR_CampaignFaction<0x000001C8B48768D0>"}
