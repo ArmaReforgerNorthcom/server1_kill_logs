@@ -516,3 +516,5 @@
 {"timestamp":"2025-05-29T03:25:00Z","killer_uid":"41f25ddd-407c-49c9-bf18-7b0dcc112d37","killer_name":"Lewis_0113_-","killer_faction":"SCR_CampaignFaction<0x000001C8B48768D0>","action":"kill","victim_uid":"9d73cba4-a9ea-45a6-8084-616a7d997f3f","victim_name":"LOGANWALKER8920","victim_faction":"SCR_CampaignFaction<0x000001C8B4876730>"}
 ,
 {"timestamp":"2025-05-29T03:30:28Z","killer_uid":"079a8505-c104-43b2-8482-d2eb6427ed93","killer_name":"Kresnik","killer_faction":"SCR_CampaignFaction<0x000001C8B48768D0>","action":"suicide","victim_uid":"079a8505-c104-43b2-8482-d2eb6427ed93","victim_name":"Kresnik","victim_faction":"SCR_CampaignFaction<0x000001C8B48768D0>"}
+,
+{"timestamp":"2025-05-29T03:38:39Z","killer_uid":"b065dd1d-d44f-4724-b4bd-5191a771502b","killer_name":"Hiyabtw","killer_faction":"SCR_CampaignFaction<0x000001C8B48768D0>","action":"suicide","victim_uid":"b065dd1d-d44f-4724-b4bd-5191a771502b","victim_name":"Hiyabtw","victim_faction":"SCR_CampaignFaction<0x000001C8B48768D0>"}
