@@ -242,3 +242,14 @@
 {"timestamp":"2025-05-29T11:12:24Z","killer_uid":"75fe9cb2-2335-4cdb-b266-3f58262259c6","killer_name":"FUNNKYXX","killer_faction":"SCR_CampaignFaction<0x0000019CBC4BA8D0>","action":"kill","victim_uid":"5c841916-bc60-4e93-aa57-877ca40b2e57","victim_name":"tv/hvntxd","victim_faction":"SCR_CampaignFaction<0x0000019CBC4BA730>"}
 ,
 {"timestamp":"2025-05-29T11:14:18Z","killer_uid":"95f79931-6aac-41ee-a5d2-22fa2888fdc6","killer_name":"Dutch_forces1665","killer_faction":"SCR_CampaignFaction<0x0000019CBC4BA8D0>","action":"kill","victim_uid":"e57e4754-b6da-4e81-abf1-9c05d819068d","victim_name":"Papa__OT","victim_faction":"SCR_CampaignFaction<0x0000019CBC4BA730>"}
+,
+{"timestamp":"2025-05-29T11:17:19Z","killer_uid":"8d72921e-b59a-4466-9bab-8ce49b556d3c","killer_name":"sirWardaddy201","killer_faction":"SCR_CampaignFaction<0x0000019CBC4BA730>","action":"kill","victim_uid":"95f79931-6aac-41ee-a5d2-22fa2888fdc6","victim_name":"Dutch_forces1665","victim_faction":"SCR_CampaignFaction<0x0000019CBC4BA8D0>"}
+,
+{"timestamp":"2025-05-29T11:17:21Z","killer_uid":"75fe9cb2-2335-4cdb-b266-3f58262259c6","killer_name":"FUNNKYXX","killer_faction":"SCR_CampaignFaction<0x0000019CBC4BA8D0>","action":"kill","victim_uid":"8d72921e-b59a-4466-9bab-8ce49b556d3c","victim_name":"sirWardaddy201","victim_faction":"SCR_CampaignFaction<0x0000019CBC4BA730>"}
+,
+{"timestamp":"2025-05-29T11:18:14Z","killer_uid":"75fe9cb2-2335-4cdb-b266-3f58262259c6","killer_name":"FUNNKYXX","killer_faction":"SCR_CampaignFaction<0x0000019CBC4BA8D0>","action":"kill","victim_uid":"cb50d67a-4d88-4da8-9849-64de3ee1040c","victim_name":"Osman980g","victim_faction":"SCR_CampaignFaction<0x0000019CBC4BA730>"}
+,
+{"timestamp":"2025-05-29T11:21:17Z","killer_uid":"102a3997-7f55-411a-83aa-eaaaefe89c46","killer_name":"Brighton-007-non","killer_faction":"SCR_CampaignFaction<0x0000019CBC4BA8D0>","action":"suicide","victim_uid":"102a3997-7f55-411a-83aa-eaaaefe89c46","victim_name":"Brighton-007-non","victim_faction":"SCR_CampaignFaction<0x0000019CBC4BA8D0>"}
+,
+{"timestamp":"2025-05-29T11:21:26Z","killer_uid":"51e5bd3b-e385-4343-91b5-3749607dbe46","killer_name":"malovEn98247","killer_faction":"SCR_CampaignFaction<0x0000019CBC4BA730>","action":"kill","victim_uid":"75fe9cb2-2335-4cdb-b266-3f58262259c6","victim_name":"FUNNKYXX","victim_faction":"SCR_CampaignFaction<0x0000019CBC4BA8D0>"}
+]
