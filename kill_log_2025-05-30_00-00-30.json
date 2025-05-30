@@ -1120,3 +1120,5 @@
 {"timestamp":"2025-05-30T04:16:24Z","killer_uid":"a3c48241-37c6-456b-8587-4d6b2cf09d9b","killer_name":"EdekWymiatacz","killer_faction":"SCR_CampaignFaction<0x000002865A6BA8D0>","action":"suicide","victim_uid":"a3c48241-37c6-456b-8587-4d6b2cf09d9b","victim_name":"EdekWymiatacz","victim_faction":"SCR_CampaignFaction<0x000002865A6BA8D0>"}
 ,
 {"timestamp":"2025-05-30T04:25:19Z","killer_uid":"cae92b3f-5b01-4f6e-b611-e769ee62f26d","killer_name":"gabber-paul","killer_faction":"SCR_CampaignFaction<0x000002865A6BA8D0>","action":"suicide","victim_uid":"cae92b3f-5b01-4f6e-b611-e769ee62f26d","victim_name":"gabber-paul","victim_faction":"SCR_CampaignFaction<0x000002865A6BA8D0>"}
+,
+{"timestamp":"2025-05-30T04:32:19Z","killer_uid":"cae92b3f-5b01-4f6e-b611-e769ee62f26d","killer_name":"gabber-paul","killer_faction":"SCR_CampaignFaction<0x000002865A6BA8D0>","action":"suicide","victim_uid":"cae92b3f-5b01-4f6e-b611-e769ee62f26d","victim_name":"gabber-paul","victim_faction":"SCR_CampaignFaction<0x000002865A6BA8D0>"}
