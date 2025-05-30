@@ -1088,3 +1088,9 @@
 {"timestamp":"2025-05-30T03:33:06Z","killer_uid":"312315e6-a7ab-44e4-bcfd-479c53e40bf7","killer_name":"ghostriderdirk","killer_faction":"SCR_CampaignFaction<0x000002865A6BA8D0>","action":"suicide","victim_uid":"312315e6-a7ab-44e4-bcfd-479c53e40bf7","victim_name":"ghostriderdirk","victim_faction":"SCR_CampaignFaction<0x000002865A6BA8D0>"}
 ,
 {"timestamp":"2025-05-30T03:33:19Z","killer_uid":"deeda973-ec42-4aac-a4e9-427cc6305c27","killer_name":"drako6900","killer_faction":"SCR_CampaignFaction<0x000002865A6BA730>","action":"kill","victim_uid":"c034068e-5183-40fa-8d08-60fef19a61af","victim_name":"Unreal_DxrkFN","victim_faction":"SCR_CampaignFaction<0x000002865A6BA8D0>"}
+,
+{"timestamp":"2025-05-30T03:38:35Z","killer_uid":"9e375b83-fa0c-4a99-a57d-a89834d3d0db","killer_name":"Shafeen3091","killer_faction":"SCR_CampaignFaction<0x000002865A6BA730>","action":"suicide","victim_uid":"9e375b83-fa0c-4a99-a57d-a89834d3d0db","victim_name":"Shafeen3091","victim_faction":"SCR_CampaignFaction<0x000002865A6BA730>"}
+,
+{"timestamp":"2025-05-30T03:41:06Z","killer_uid":"714b9a6c-888c-4e44-882b-0ee365c62457","killer_name":"GoNnAcRy7823","killer_faction":"SCR_CampaignFaction<0x000002865A6BA730>","action":"kill","victim_uid":"c034068e-5183-40fa-8d08-60fef19a61af","victim_name":"Unreal_DxrkFN","victim_faction":"SCR_CampaignFaction<0x000002865A6BA8D0>"}
+,
+{"timestamp":"2025-05-30T03:44:21Z","killer_uid":"c034068e-5183-40fa-8d08-60fef19a61af","killer_name":"Unreal_DxrkFN","killer_faction":"SCR_CampaignFaction<0x000002865A6BA8D0>","action":"suicide","victim_uid":"c034068e-5183-40fa-8d08-60fef19a61af","victim_name":"Unreal_DxrkFN","victim_faction":"SCR_CampaignFaction<0x000002865A6BA8D0>"}
