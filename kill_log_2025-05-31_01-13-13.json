@@ -14,3 +14,13 @@
 {"timestamp":"2025-05-31T01:20:50Z","killer_uid":"6af49113-3930-4dfd-ab14-428c25a86796","killer_name":"Senku--Ishigami","killer_faction":"SCR_CampaignFaction<0x000002569ABA6730>","action":"suicide","victim_uid":"6af49113-3930-4dfd-ab14-428c25a86796","victim_name":"Senku--Ishigami","victim_faction":"SCR_CampaignFaction<0x000002569ABA6730>"}
 ,
 {"timestamp":"2025-05-31T01:23:31Z","killer_uid":"101f97b0-15f9-4226-bf64-3fbacc4b10f8","killer_name":"Dark De'mora","killer_faction":"SCR_CampaignFaction<0x000002569ABA68D0>","action":"kill","victim_uid":"c456f971-548c-457f-a2b9-768e6f05b148","victim_name":"Bob Hortant","victim_faction":"SCR_CampaignFaction<0x000002569ABA6730>"}
+,
+{"timestamp":"2025-05-31T01:27:51Z","killer_uid":"c8485343-d205-4f97-bcc7-a32bc9c24ca7","killer_name":"Hans","killer_faction":"SCR_CampaignFaction<0x000002569ABA68D0>","action":"kill","victim_uid":"c456f971-548c-457f-a2b9-768e6f05b148","victim_name":"Bob Hortant","victim_faction":"SCR_CampaignFaction<0x000002569ABA6730>"}
+,
+{"timestamp":"2025-05-31T01:30:07Z","killer_uid":"d2f11c88-0c4f-4d18-8100-b9e4b84b9eca","killer_name":"nookie","killer_faction":"SCR_CampaignFaction<0x000002569ABA68D0>","action":"suicide","victim_uid":"d2f11c88-0c4f-4d18-8100-b9e4b84b9eca","victim_name":"nookie","victim_faction":"SCR_CampaignFaction<0x000002569ABA68D0>"}
+,
+{"timestamp":"2025-05-31T01:30:07Z","killer_uid":"d2f11c88-0c4f-4d18-8100-b9e4b84b9eca","killer_name":"nookie","killer_faction":"SCR_CampaignFaction<0x000002569ABA68D0>","action":"teamkill","victim_uid":"41f25ddd-407c-49c9-bf18-7b0dcc112d37","victim_name":"Lewis_0113_-","victim_faction":"SCR_CampaignFaction<0x000002569ABA68D0>"}
+,
+{"timestamp":"2025-05-31T01:30:07Z","killer_uid":"d2f11c88-0c4f-4d18-8100-b9e4b84b9eca","killer_name":"nookie","killer_faction":"SCR_CampaignFaction<0x000002569ABA68D0>","action":"teamkill","victim_uid":"c8485343-d205-4f97-bcc7-a32bc9c24ca7","victim_name":"Hans","victim_faction":"SCR_CampaignFaction<0x000002569ABA68D0>"}
+,
+{"timestamp":"2025-05-31T01:30:07Z","killer_uid":"d2f11c88-0c4f-4d18-8100-b9e4b84b9eca","killer_name":"nookie","killer_faction":"SCR_CampaignFaction<0x000002569ABA68D0>","action":"teamkill","victim_uid":"60047c0d-9577-41a8-b4f9-97924e86ab8b","victim_name":"gooseisflyin_ttv","victim_faction":"SCR_CampaignFaction<0x000002569ABA68D0>"}
