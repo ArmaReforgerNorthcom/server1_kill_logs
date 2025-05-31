@@ -24,3 +24,9 @@
 {"timestamp":"2025-05-31T01:30:07Z","killer_uid":"d2f11c88-0c4f-4d18-8100-b9e4b84b9eca","killer_name":"nookie","killer_faction":"SCR_CampaignFaction<0x000002569ABA68D0>","action":"teamkill","victim_uid":"c8485343-d205-4f97-bcc7-a32bc9c24ca7","victim_name":"Hans","victim_faction":"SCR_CampaignFaction<0x000002569ABA68D0>"}
 ,
 {"timestamp":"2025-05-31T01:30:07Z","killer_uid":"d2f11c88-0c4f-4d18-8100-b9e4b84b9eca","killer_name":"nookie","killer_faction":"SCR_CampaignFaction<0x000002569ABA68D0>","action":"teamkill","victim_uid":"60047c0d-9577-41a8-b4f9-97924e86ab8b","victim_name":"gooseisflyin_ttv","victim_faction":"SCR_CampaignFaction<0x000002569ABA68D0>"}
+,
+{"timestamp":"2025-05-31T01:36:42Z","killer_uid":"079a8505-c104-43b2-8482-d2eb6427ed93","killer_name":"Kresnik","killer_faction":"SCR_CampaignFaction<0x000002569ABA68D0>","action":"suicide","victim_uid":"079a8505-c104-43b2-8482-d2eb6427ed93","victim_name":"Kresnik","victim_faction":"SCR_CampaignFaction<0x000002569ABA68D0>"}
+,
+{"timestamp":"2025-05-31T01:37:07Z","killer_uid":"079a8505-c104-43b2-8482-d2eb6427ed93","killer_name":"Kresnik","killer_faction":"SCR_CampaignFaction<0x000002569ABA68D0>","action":"suicide","victim_uid":"079a8505-c104-43b2-8482-d2eb6427ed93","victim_name":"Kresnik","victim_faction":"SCR_CampaignFaction<0x000002569ABA68D0>"}
+,
+{"timestamp":"2025-05-31T01:37:42Z","killer_uid":"fba75285-4642-46c3-8e5f-d612322452b0","killer_name":"Bapo2388","killer_faction":"SCR_CampaignFaction<0x000002569ABA68D0>","action":"suicide","victim_uid":"fba75285-4642-46c3-8e5f-d612322452b0","victim_name":"Bapo2388","victim_faction":"SCR_CampaignFaction<0x000002569ABA68D0>"}
