@@ -32,3 +32,5 @@
 {"timestamp":"2025-05-31T09:04:20Z","killer_uid":"2c3138cc-6248-4cca-bd5a-c34da5592f37","killer_name":"it-triggermlt","killer_faction":"SCR_CampaignFaction<0x0000019040F4A730>","action":"kill","victim_uid":"348c8df1-a1e7-49ae-888b-9c75d4fa45f2","victim_name":"silverblazzin95","victim_faction":"SCR_CampaignFaction<0x0000019040F4A8D0>"}
 ,
 {"timestamp":"2025-05-31T09:09:27Z","killer_uid":"98b45acf-8447-47ab-8024-b6518772a136","killer_name":"paukku_spede","killer_faction":"SCR_CampaignFaction<0x0000019040F4A730>","action":"suicide","victim_uid":"98b45acf-8447-47ab-8024-b6518772a136","victim_name":"paukku_spede","victim_faction":"SCR_CampaignFaction<0x0000019040F4A730>"}
+,
+{"timestamp":"2025-05-31T09:24:24Z","killer_uid":"bdcb3f98-a85a-4361-9e61-99659e145594","killer_name":"MERK-DILLZ","killer_faction":"SCR_CampaignFaction<0x0000019040F4A730>","action":"suicide","victim_uid":"bdcb3f98-a85a-4361-9e61-99659e145594","victim_name":"MERK-DILLZ","victim_faction":"SCR_CampaignFaction<0x0000019040F4A730>"}
