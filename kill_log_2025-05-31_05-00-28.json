@@ -8,3 +8,7 @@
 {"timestamp":"2025-05-31T06:36:29Z","killer_uid":"348c8df1-a1e7-49ae-888b-9c75d4fa45f2","killer_name":"silverblazzin95","killer_faction":"SCR_CampaignFaction<0x0000019040F4A8D0>","action":"suicide","victim_uid":"348c8df1-a1e7-49ae-888b-9c75d4fa45f2","victim_name":"silverblazzin95","victim_faction":"SCR_CampaignFaction<0x0000019040F4A8D0>"}
 ,
 {"timestamp":"2025-05-31T08:04:04Z","killer_uid":"afee9640-4110-4b74-a1ed-1b60a7bb27be","killer_name":"TKN-aronnora","killer_faction":"SCR_CampaignFaction<0x0000019040F4A8D0>","action":"suicide","victim_uid":"afee9640-4110-4b74-a1ed-1b60a7bb27be","victim_name":"TKN-aronnora","victim_faction":"SCR_CampaignFaction<0x0000019040F4A8D0>"}
+,
+{"timestamp":"2025-05-31T08:19:45Z","killer_uid":"348c8df1-a1e7-49ae-888b-9c75d4fa45f2","killer_name":"silverblazzin95","killer_faction":"SCR_CampaignFaction<0x0000019040F4A8D0>","action":"kill","victim_uid":"8d5070f5-91fe-462b-a5cf-2ce2e17196f1","victim_name":"Chellie_1830","victim_faction":"SCR_CampaignFaction<0x0000019040F4A730>"}
+,
+{"timestamp":"2025-05-31T08:19:46Z","killer_uid":"348c8df1-a1e7-49ae-888b-9c75d4fa45f2","killer_name":"silverblazzin95","killer_faction":"SCR_CampaignFaction<0x0000019040F4A8D0>","action":"kill","victim_uid":"ff21f889-90fe-4fa4-b3a1-341311bf77e4","victim_name":"White-Mamba-hu","victim_faction":"SCR_CampaignFaction<0x0000019040F4A730>"}
