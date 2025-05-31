@@ -34,3 +34,13 @@
 {"timestamp":"2025-05-31T09:09:27Z","killer_uid":"98b45acf-8447-47ab-8024-b6518772a136","killer_name":"paukku_spede","killer_faction":"SCR_CampaignFaction<0x0000019040F4A730>","action":"suicide","victim_uid":"98b45acf-8447-47ab-8024-b6518772a136","victim_name":"paukku_spede","victim_faction":"SCR_CampaignFaction<0x0000019040F4A730>"}
 ,
 {"timestamp":"2025-05-31T09:24:24Z","killer_uid":"bdcb3f98-a85a-4361-9e61-99659e145594","killer_name":"MERK-DILLZ","killer_faction":"SCR_CampaignFaction<0x0000019040F4A730>","action":"suicide","victim_uid":"bdcb3f98-a85a-4361-9e61-99659e145594","victim_name":"MERK-DILLZ","victim_faction":"SCR_CampaignFaction<0x0000019040F4A730>"}
+,
+{"timestamp":"2025-05-31T09:27:05Z","killer_uid":"ff21f889-90fe-4fa4-b3a1-341311bf77e4","killer_name":"White-Mamba-hu","killer_faction":"SCR_CampaignFaction<0x0000019040F4A730>","action":"kill","victim_uid":"57ab1f00-0433-40c6-a1a6-08c1ae9933f3","victim_name":"Star_Commander34","victim_faction":"SCR_CampaignFaction<0x0000019040F4A8D0>"}
+,
+{"timestamp":"2025-05-31T09:27:26Z","killer_uid":"5f715ad2-da9f-49c9-a708-438d3163c461","killer_name":"HaiLuxSkyWalker","killer_faction":"SCR_CampaignFaction<0x0000019040F4A730>","action":"teamkill","victim_uid":"ff21f889-90fe-4fa4-b3a1-341311bf77e4","victim_name":"White-Mamba-hu","victim_faction":"SCR_CampaignFaction<0x0000019040F4A730>"}
+,
+{"timestamp":"2025-05-31T09:28:58Z","killer_uid":"57ab1f00-0433-40c6-a1a6-08c1ae9933f3","killer_name":"Star_Commander34","killer_faction":"SCR_CampaignFaction<0x0000019040F4A8D0>","action":"suicide","victim_uid":"57ab1f00-0433-40c6-a1a6-08c1ae9933f3","victim_name":"Star_Commander34","victim_faction":"SCR_CampaignFaction<0x0000019040F4A8D0>"}
+,
+{"timestamp":"2025-05-31T09:31:11Z","killer_uid":"bdcb3f98-a85a-4361-9e61-99659e145594","killer_name":"MERK-DILLZ","killer_faction":"SCR_CampaignFaction<0x0000019040F4A730>","action":"suicide","victim_uid":"bdcb3f98-a85a-4361-9e61-99659e145594","victim_name":"MERK-DILLZ","victim_faction":"SCR_CampaignFaction<0x0000019040F4A730>"}
+,
+{"timestamp":"2025-05-31T09:31:57Z","killer_uid":"bdcb3f98-a85a-4361-9e61-99659e145594","killer_name":"MERK-DILLZ","killer_faction":"SCR_CampaignFaction<0x0000019040F4A730>","action":"kill","victim_uid":"f884dda7-dcfe-4c92-b304-c5e1c97f2677","victim_name":"Bobzinatorz9999","victim_faction":"SCR_CampaignFaction<0x0000019040F4A8D0>"}
