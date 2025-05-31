@@ -56,3 +56,13 @@
 {"timestamp":"2025-05-31T02:31:53Z","killer_uid":"079a8505-c104-43b2-8482-d2eb6427ed93","killer_name":"Kresnik","killer_faction":"SCR_CampaignFaction<0x000002569ABA68D0>","action":"teamkill","victim_uid":"cae92b3f-5b01-4f6e-b611-e769ee62f26d","victim_name":"gabber-paul","victim_faction":"SCR_CampaignFaction<0x000002569ABA68D0>"}
 ,
 {"timestamp":"2025-05-31T02:32:52Z","killer_uid":"fba75285-4642-46c3-8e5f-d612322452b0","killer_name":"Bapo2388","killer_faction":"SCR_CampaignFaction<0x000002569ABA68D0>","action":"suicide","victim_uid":"fba75285-4642-46c3-8e5f-d612322452b0","victim_name":"Bapo2388","victim_faction":"SCR_CampaignFaction<0x000002569ABA68D0>"}
+,
+{"timestamp":"2025-05-31T02:35:59Z","killer_uid":"e1538e43-4a48-4f45-838e-c81e5189a8b9","killer_name":"WhiteXmamba2","killer_faction":"SCR_CampaignFaction<0x000002569ABA68D0>","action":"teamkill","victim_uid":"60047c0d-9577-41a8-b4f9-97924e86ab8b","victim_name":"gooseisflyin_ttv","victim_faction":"SCR_CampaignFaction<0x000002569ABA68D0>"}
+,
+{"timestamp":"2025-05-31T02:37:52Z","killer_uid":"079a8505-c104-43b2-8482-d2eb6427ed93","killer_name":"Kresnik","killer_faction":"SCR_CampaignFaction<0x000002569ABA68D0>","action":"suicide","victim_uid":"079a8505-c104-43b2-8482-d2eb6427ed93","victim_name":"Kresnik","victim_faction":"SCR_CampaignFaction<0x000002569ABA68D0>"}
+,
+{"timestamp":"2025-05-31T02:40:21Z","killer_uid":"03a4e9d9-cc5a-46e0-a9f4-600411f9e34b","killer_name":"Sterbehilfe_Mic","killer_faction":"SCR_CampaignFaction<0x000002569ABA68D0>","action":"suicide","victim_uid":"03a4e9d9-cc5a-46e0-a9f4-600411f9e34b","victim_name":"Sterbehilfe_Mic","victim_faction":"SCR_CampaignFaction<0x000002569ABA68D0>"}
+,
+{"timestamp":"2025-05-31T02:41:16Z","killer_uid":"fba75285-4642-46c3-8e5f-d612322452b0","killer_name":"Bapo2388","killer_faction":"SCR_CampaignFaction<0x000002569ABA68D0>","action":"suicide","victim_uid":"fba75285-4642-46c3-8e5f-d612322452b0","victim_name":"Bapo2388","victim_faction":"SCR_CampaignFaction<0x000002569ABA68D0>"}
+,
+{"timestamp":"2025-05-31T02:43:46Z","killer_uid":"cae92b3f-5b01-4f6e-b611-e769ee62f26d","killer_name":"gabber-paul","killer_faction":"SCR_CampaignFaction<0x000002569ABA68D0>","action":"suicide","victim_uid":"cae92b3f-5b01-4f6e-b611-e769ee62f26d","victim_name":"gabber-paul","victim_faction":"SCR_CampaignFaction<0x000002569ABA68D0>"}
