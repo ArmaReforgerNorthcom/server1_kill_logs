@@ -1,0 +1,5842 @@
+{
+  "d16fa5bf-9bdd-4eff-acf1-1110915738ea": {
+    "name": "Kes.exe",
+    "aliases": [
+      "Kes.exe"
+    ],
+    "kill": 5,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 5
+  },
+  "811a12d8-12b5-484c-851a-9020cd76e61a": {
+    "name": "Kameleon123345",
+    "aliases": [
+      "Kameleon123345"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 3
+  },
+  "6f1be3c5-797e-4cd8-b27b-49bbe86802c6": {
+    "name": "King Krush",
+    "aliases": [
+      "King Krush"
+    ],
+    "kill": 34,
+    "teamkill": 7,
+    "suicide": 3,
+    "death": 26
+  },
+  "12bf18fa-f8e6-4ab1-b5c2-ca6054558413": {
+    "name": "Oakley1207",
+    "aliases": [
+      "Oakley1207"
+    ],
+    "kill": 13,
+    "teamkill": 0,
+    "suicide": 4,
+    "death": 19
+  },
+  "d600fae0-6474-4697-b47a-8c1c57d0c261": {
+    "name": "Petroskis",
+    "aliases": [
+      "Petroskis"
+    ],
+    "kill": 16,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 9
+  },
+  "f941572b-f2ad-4fd5-91a5-c964bf531c59": {
+    "name": "xabjectx",
+    "aliases": [
+      "xabjectx"
+    ],
+    "kill": 45,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 17
+  },
+  "e57e4754-b6da-4e81-abf1-9c05d819068d": {
+    "name": "Papa__OT",
+    "aliases": [
+      "Papa__OT"
+    ],
+    "kill": 10,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 16
+  },
+  "102a3997-7f55-411a-83aa-eaaaefe89c46": {
+    "name": "Brighton-007-non",
+    "aliases": [
+      "Brighton-007-non"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 4
+  },
+  "66de2ad3-3d45-4a00-9625-c06f623bb770": {
+    "name": "xTunguzka",
+    "aliases": [
+      "xTunguzka"
+    ],
+    "kill": 72,
+    "teamkill": 2,
+    "suicide": 1,
+    "death": 31
+  },
+  "51e5bd3b-e385-4343-91b5-3749607dbe46": {
+    "name": "malovEn98247",
+    "aliases": [
+      "malovEn98247"
+    ],
+    "kill": 4,
+    "teamkill": 2,
+    "suicide": 8,
+    "death": 28
+  },
+  "5f715ad2-da9f-49c9-a708-438d3163c461": {
+    "name": "HaiLuxSkyWalker",
+    "aliases": [
+      "HaiLuxSkyWalker"
+    ],
+    "kill": 75,
+    "teamkill": 4,
+    "suicide": 12,
+    "death": 34
+  },
+  "8d72921e-b59a-4466-9bab-8ce49b556d3c": {
+    "name": "sirWardaddy201",
+    "aliases": [
+      "sirWardaddy201"
+    ],
+    "kill": 22,
+    "teamkill": 2,
+    "suicide": 0,
+    "death": 22
+  },
+  "d0770f51-730e-4e77-a3dd-797888f5f602": {
+    "name": "Rennug",
+    "aliases": [
+      "Rennug"
+    ],
+    "kill": 17,
+    "teamkill": 1,
+    "suicide": 2,
+    "death": 30
+  },
+  "39718a6d-3313-468d-9ece-d66a0257013f": {
+    "name": "Sinko Pekka",
+    "aliases": [
+      "Sinko Pekka"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "83987e5d-a367-46ea-b088-fba2da573640": {
+    "name": "NYFE\u2122",
+    "aliases": [
+      "NYFE\u2122"
+    ],
+    "kill": 14,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 10
+  },
+  "8190b0be-0b39-4178-a1b3-798debad5def": {
+    "name": "Touchmychomp",
+    "aliases": [
+      "Touchmychomp"
+    ],
+    "kill": 52,
+    "teamkill": 5,
+    "suicide": 3,
+    "death": 8
+  },
+  "eb44cd1a-59e5-44eb-a91c-a2a87b3592a4": {
+    "name": "eSoteria_",
+    "aliases": [
+      "eSoteria_"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 6
+  },
+  "f884dda7-dcfe-4c92-b304-c5e1c97f2677": {
+    "name": "Bobzinatorz9999",
+    "aliases": [
+      "Bobzinatorz9999"
+    ],
+    "kill": 40,
+    "teamkill": 4,
+    "suicide": 4,
+    "death": 18
+  },
+  "dbd58405-5a2e-4671-aadb-a42c0c19df74": {
+    "name": "Mrdinklepick",
+    "aliases": [
+      "Mrdinklepick"
+    ],
+    "kill": 20,
+    "teamkill": 2,
+    "suicide": 0,
+    "death": 30
+  },
+  "cb50d67a-4d88-4da8-9849-64de3ee1040c": {
+    "name": "Osman980g",
+    "aliases": [
+      "Osman980g"
+    ],
+    "kill": 41,
+    "teamkill": 2,
+    "suicide": 9,
+    "death": 56
+  },
+  "1e028fc3-70a6-4c7d-80bb-2a2122056348": {
+    "name": "ArcticPeach",
+    "aliases": [
+      "ArcticPeach"
+    ],
+    "kill": 42,
+    "teamkill": 7,
+    "suicide": 0,
+    "death": 14
+  },
+  "a73da248-1b0a-4579-b441-055438ff4fd6": {
+    "name": "Oddball_E8",
+    "aliases": [
+      "Oddball_E8"
+    ],
+    "kill": 15,
+    "teamkill": 2,
+    "suicide": 0,
+    "death": 7
+  },
+  "afee9640-4110-4b74-a1ed-1b60a7bb27be": {
+    "name": "TKN-aronnora",
+    "aliases": [
+      "TKN-aronnora"
+    ],
+    "kill": 11,
+    "teamkill": 0,
+    "suicide": 13,
+    "death": 51
+  },
+  "ef47cb0c-4581-4626-ac1c-79dc010a6891": {
+    "name": "Xemnas",
+    "aliases": [
+      "Xemnas"
+    ],
+    "kill": 16,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 22
+  },
+  "db061a8f-21fe-4a3d-8b41-cd405280d968": {
+    "name": "jarski112",
+    "aliases": [
+      "jarski112"
+    ],
+    "kill": 46,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 53
+  },
+  "98550beb-869f-4f35-b632-a3710f9f9860": {
+    "name": "whiteladder61",
+    "aliases": [
+      "whiteladder61"
+    ],
+    "kill": 12,
+    "teamkill": 0,
+    "suicide": 3,
+    "death": 34
+  },
+  "fc23c547-0eec-4666-9154-f42ceef7c505": {
+    "name": "sBouwman",
+    "aliases": [
+      "sBouwman"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 11,
+    "death": 34
+  },
+  "2b1d97a8-89c8-44a9-ad24-de90afc0a0b2": {
+    "name": "NocturnoDemonio",
+    "aliases": [
+      "NocturnoDemonio"
+    ],
+    "kill": 14,
+    "teamkill": 0,
+    "suicide": 4,
+    "death": 27
+  },
+  "89350d58-d1d7-460e-9eea-5ced4dd00d13": {
+    "name": "Loooneboy",
+    "aliases": [
+      "Loooneboy"
+    ],
+    "kill": 72,
+    "teamkill": 14,
+    "suicide": 4,
+    "death": 52
+  },
+  "3da78493-c4f1-47f8-9148-1a5d40bc69f7": {
+    "name": "Mumpitz",
+    "aliases": [
+      "Mumpitz"
+    ],
+    "kill": 59,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 38
+  },
+  "880ac51b-90f8-4323-9b60-5d67ae7de54c": {
+    "name": "ZerosEnd020",
+    "aliases": [
+      "ZerosEnd020"
+    ],
+    "kill": 75,
+    "teamkill": 15,
+    "suicide": 7,
+    "death": 61
+  },
+  "45e7b4ce-aaa6-4ff6-b553-9fd4fddcc46b": {
+    "name": "JAGERThe2nd",
+    "aliases": [
+      "JAGERThe2nd"
+    ],
+    "kill": 11,
+    "teamkill": 1,
+    "suicide": 4,
+    "death": 25
+  },
+  "502faef0-29da-4e55-98b5-9c11594c48d7": {
+    "name": "B127032",
+    "aliases": [
+      "B127032"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 17
+  },
+  "95e339e2-8f65-4524-a3ff-0cc26a618475": {
+    "name": "KingCantwellRFC",
+    "aliases": [
+      "KingCantwellRFC"
+    ],
+    "kill": 1,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 8
+  },
+  "bffd40b8-1679-48bd-afcb-77a83433532a": {
+    "name": "Tristan_Cartyer",
+    "aliases": [
+      "Tristan_Cartyer"
+    ],
+    "kill": 9,
+    "teamkill": 2,
+    "suicide": 4,
+    "death": 36
+  },
+  "e5ba9644-0e78-4e69-b06f-6f4dcb7069b6": {
+    "name": "IwillSiege4Life",
+    "aliases": [
+      "IwillSiege4Life"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "b1ce868e-267f-4a6e-9f22-52fb0e13b5b0": {
+    "name": "IIIIIII-_-2nd",
+    "aliases": [
+      "IIIIIII-_-2nd"
+    ],
+    "kill": 7,
+    "teamkill": 2,
+    "suicide": 2,
+    "death": 12
+  },
+  "e042e57f-7d16-4302-8033-8f653eb45ea7": {
+    "name": "Floepus",
+    "aliases": [
+      "Floepus"
+    ],
+    "kill": 4,
+    "teamkill": 1,
+    "suicide": 4,
+    "death": 19
+  },
+  "c01d17e1-f040-4e33-b374-f52950b0e115": {
+    "name": "The_RAGER_10",
+    "aliases": [
+      "The_RAGER_10"
+    ],
+    "kill": 3,
+    "teamkill": 3,
+    "suicide": 13,
+    "death": 18
+  },
+  "4a5afd2a-336a-41e2-9d47-174969d49c80": {
+    "name": "ogge090",
+    "aliases": [
+      "ogge090"
+    ],
+    "kill": 9,
+    "teamkill": 0,
+    "suicide": 4,
+    "death": 28
+  },
+  "cd0f29ca-2dba-400b-84bf-f08bf56246bd": {
+    "name": "SNOKE999",
+    "aliases": [
+      "SNOKE999"
+    ],
+    "kill": 25,
+    "teamkill": 0,
+    "suicide": 3,
+    "death": 20
+  },
+  "75479d16-3b20-4942-8e2b-f2e5e69cfec7": {
+    "name": "REDRUBY14",
+    "aliases": [
+      "REDRUBY14"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 11
+  },
+  "3a71398c-145a-4694-927e-6aa24630b5ad": {
+    "name": "dylan-weed1342",
+    "aliases": [
+      "dylan-weed1342"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "a5318387-ffe0-47fa-a102-46f5eace30c4": {
+    "name": "Mr.Pink",
+    "aliases": [
+      "Mr.Pink"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 3
+  },
+  "2c987208-bebd-4d65-b8d8-53c442b261f1": {
+    "name": "Ca1-2470_",
+    "aliases": [
+      "Ca1-2470_"
+    ],
+    "kill": 0,
+    "teamkill": 4,
+    "suicide": 14,
+    "death": 20
+  },
+  "44bbb72f-4ce4-4740-b614-3d13d75f168f": {
+    "name": "KnockYoSoxOf",
+    "aliases": [
+      "KnockYoSoxOf"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 9
+  },
+  "e67c8880-c89e-427d-9c85-95a0a56223c3": {
+    "name": "=AFFE= HermannKrieg",
+    "aliases": [
+      "=AFFE= HermannKrieg"
+    ],
+    "kill": 15,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 22
+  },
+  "1edd9b59-0096-4a88-a948-85b418a9f7fc": {
+    "name": "pensioner2.0",
+    "aliases": [
+      "pensioner2.0"
+    ],
+    "kill": 12,
+    "teamkill": 0,
+    "suicide": 3,
+    "death": 35
+  },
+  "0b2b8053-8377-46dd-a4a6-8a97822e46be": {
+    "name": "Fredrick",
+    "aliases": [
+      "Fredrick"
+    ],
+    "kill": 87,
+    "teamkill": 2,
+    "suicide": 0,
+    "death": 14
+  },
+  "a7eedc9e-3b6d-49b1-b247-cc1fd78d3aaf": {
+    "name": "Kafka",
+    "aliases": [
+      "Kafka"
+    ],
+    "kill": 31,
+    "teamkill": 1,
+    "suicide": 4,
+    "death": 11
+  },
+  "f4c223e7-b14f-4e0a-b8fe-4852cd3458bb": {
+    "name": "Kilted_Colossus",
+    "aliases": [
+      "Kilted_Colossus"
+    ],
+    "kill": 7,
+    "teamkill": 3,
+    "suicide": 0,
+    "death": 6
+  },
+  "88d6aa64-b216-436e-bc32-0b8a69d4b984": {
+    "name": "\u041a\u0442\u043e-\u0442\u043e",
+    "aliases": [
+      "\u041a\u0442\u043e-\u0442\u043e"
+    ],
+    "kill": 7,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 4
+  },
+  "b54de9b7-3dda-4abf-b967-36e9b9804319": {
+    "name": "Milosh",
+    "aliases": [
+      "Milosh"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "5e497092-d374-425a-a7e8-35bbc0bd0123": {
+    "name": "icedyournan",
+    "aliases": [
+      "icedyournan"
+    ],
+    "kill": 10,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 3
+  },
+  "ae558b50-54f3-4150-9789-3fe546a06cbb": {
+    "name": "benrosebury12",
+    "aliases": [
+      "benrosebury12"
+    ],
+    "kill": 14,
+    "teamkill": 18,
+    "suicide": 25,
+    "death": 68
+  },
+  "78c965bc-07da-4683-addd-84f029e32b84": {
+    "name": "RandyFetus69",
+    "aliases": [
+      "RandyFetus69"
+    ],
+    "kill": 23,
+    "teamkill": 2,
+    "suicide": 5,
+    "death": 52
+  },
+  "be42a8c5-8955-4536-8714-85ba9141d394": {
+    "name": "THEOWENATOR",
+    "aliases": [
+      "THEOWENATOR"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "7dc74c6e-b27c-4480-9981-4acb040860d1": {
+    "name": "Nice cock",
+    "aliases": [
+      "Nice cock"
+    ],
+    "kill": 25,
+    "teamkill": 0,
+    "suicide": 3,
+    "death": 29
+  },
+  "a7d63f46-85c6-4384-9122-ed17e1654e71": {
+    "name": "MrLazzgwy",
+    "aliases": [
+      "MrLazzgwy"
+    ],
+    "kill": 63,
+    "teamkill": 1,
+    "suicide": 5,
+    "death": 30
+  },
+  "e3ece0cf-28dc-4df9-9600-ea39dc9982c7": {
+    "name": "firetiger057",
+    "aliases": [
+      "firetiger057"
+    ],
+    "kill": 4,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 15
+  },
+  "569dad0e-9a43-4826-ae49-89088a9fa65e": {
+    "name": "JupitersLaw",
+    "aliases": [
+      "JupitersLaw"
+    ],
+    "kill": 8,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 4
+  },
+  "b9e3c32a-2d7c-446f-8ea8-45abc30288a5": {
+    "name": "PSZ-PL-",
+    "aliases": [
+      "PSZ-PL-"
+    ],
+    "kill": 37,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 32
+  },
+  "eb2574af-f313-43cb-9f5d-dfdc9969cdc2": {
+    "name": "torca1981",
+    "aliases": [
+      "torca1981"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 5
+  },
+  "11c8cdc5-ec06-432c-91a9-868ce2b4481f": {
+    "name": "SL Joke [POXF]",
+    "aliases": [
+      "SL Joke [POXF]"
+    ],
+    "kill": 5,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 0
+  },
+  "d72f2eab-f6aa-4179-a53f-46b5845acc85": {
+    "name": "soniic--soniic",
+    "aliases": [
+      "soniic--soniic"
+    ],
+    "kill": 13,
+    "teamkill": 3,
+    "suicide": 0,
+    "death": 7
+  },
+  "4bf5ae88-6708-49da-ab0c-27d46e2b2795": {
+    "name": "hakai_shinobi",
+    "aliases": [
+      "hakai_shinobi"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 2
+  },
+  "1f0b5490-ef7f-440a-bb71-57d2436c9f24": {
+    "name": "heltsikkert",
+    "aliases": [
+      "heltsikkert"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "233971dd-8bd3-4aa5-8bf5-b79c67d469d0": {
+    "name": "Ninja2011jld1",
+    "aliases": [
+      "Ninja2011jld1"
+    ],
+    "kill": 4,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 4
+  },
+  "5c4df3ca-4833-4348-ab75-745dcdc55f8b": {
+    "name": "OnlyforFUn",
+    "aliases": [
+      "OnlyforFUn"
+    ],
+    "kill": 30,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 37
+  },
+  "fc7b9171-d4a6-46f2-851f-9bf738fb4cf7": {
+    "name": "Iceman71---",
+    "aliases": [
+      "Iceman71---"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "72265600-8b63-4090-bcde-1c0b85f2929b": {
+    "name": "EMDK1972",
+    "aliases": [
+      "EMDK1972"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 3
+  },
+  "6fabfff9-ccec-46f4-8b1b-88d0c1468111": {
+    "name": "SmellyFingr",
+    "aliases": [
+      "SmellyFingr"
+    ],
+    "kill": 56,
+    "teamkill": 1,
+    "suicide": 3,
+    "death": 27
+  },
+  "ff5ad072-b8ca-4d7d-bd2b-f875b20d1136": {
+    "name": "Baki TDS",
+    "aliases": [
+      "Baki TDS"
+    ],
+    "kill": 75,
+    "teamkill": 4,
+    "suicide": 4,
+    "death": 41
+  },
+  "57ab1f00-0433-40c6-a1a6-08c1ae9933f3": {
+    "name": "Star_Commander34",
+    "aliases": [
+      "Star_Commander34"
+    ],
+    "kill": 10,
+    "teamkill": 1,
+    "suicide": 2,
+    "death": 8
+  },
+  "3486782d-11cf-457f-be4a-c815312abce4": {
+    "name": "pandafu07",
+    "aliases": [
+      "pandafu07"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 17
+  },
+  "6a866f47-a73b-411d-bf0c-afb3e6135273": {
+    "name": "!\\Sir.Marcarco/!",
+    "aliases": [
+      "!\\Sir.Marcarco/!"
+    ],
+    "kill": 17,
+    "teamkill": 1,
+    "suicide": 3,
+    "death": 13
+  },
+  "": {
+    "name": "",
+    "aliases": [
+      ""
+    ],
+    "kill": 44,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 0
+  },
+  "a11c7b4c-4cbb-4138-8244-1c64593709af": {
+    "name": "KoenigsTigereric",
+    "aliases": [
+      "KoenigsTigereric"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 6
+  },
+  "de31619c-b1fc-46c5-a5c5-079d296788d3": {
+    "name": "Lightyearr8770",
+    "aliases": [
+      "Lightyearr8770"
+    ],
+    "kill": 6,
+    "teamkill": 3,
+    "suicide": 8,
+    "death": 17
+  },
+  "d6645dec-c05c-4e60-b512-13abc36504c4": {
+    "name": "lombow62",
+    "aliases": [
+      "lombow62"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 3
+  },
+  "21f6bf7d-833c-4c88-a222-ded886694ed2": {
+    "name": "KingSleepZZZ",
+    "aliases": [
+      "KingSleepZZZ"
+    ],
+    "kill": 0,
+    "teamkill": 2,
+    "suicide": 2,
+    "death": 4
+  },
+  "a8a604bf-0962-4d38-802b-e1349ef612fb": {
+    "name": "Kleine Henk",
+    "aliases": [
+      "Kleine Henk"
+    ],
+    "kill": 17,
+    "teamkill": 1,
+    "suicide": 6,
+    "death": 19
+  },
+  "735789d5-3d00-44e9-bdcb-4d25129c66c2": {
+    "name": "AzorPT003",
+    "aliases": [
+      "AzorPT003"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "c08f3668-40d3-4971-834b-f5443b7620c2": {
+    "name": "Jaxbonnier",
+    "aliases": [
+      "Jaxbonnier"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "ff2a1a8a-6d4f-4ade-bf88-da28e43d6609": {
+    "name": "Lukeyychops",
+    "aliases": [
+      "Lukeyychops"
+    ],
+    "kill": 48,
+    "teamkill": 1,
+    "suicide": 3,
+    "death": 47
+  },
+  "6c3904e1-f398-4260-bcbf-fc1cd7134c02": {
+    "name": "BRIAN PUMPER",
+    "aliases": [
+      "BRIAN PUMPER"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 5
+  },
+  "881e241b-087c-40ab-8567-92a3a6476694": {
+    "name": "Big Wang",
+    "aliases": [
+      "Big Wang"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 4
+  },
+  "911e73c5-6b6e-4677-b1ed-40e2f9650fce": {
+    "name": "SenTora2013",
+    "aliases": [
+      "SenTora2013"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 3
+  },
+  "a1ea9e75-567f-47af-be3f-e803062c96dc": {
+    "name": "Robzd",
+    "aliases": [
+      "Robzd"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "7279e77d-b8f3-42b3-a82c-3a60dc299468": {
+    "name": "Lallati-",
+    "aliases": [
+      "Lallati-"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 5
+  },
+  "d56eaafa-de95-4344-97d5-48545d744f2f": {
+    "name": "Kuniko",
+    "aliases": [
+      "Kuniko"
+    ],
+    "kill": 23,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 18
+  },
+  "62e71ddb-6c90-480c-a56f-d7d8889112b5": {
+    "name": "Kewolsky",
+    "aliases": [
+      "Kewolsky"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 2
+  },
+  "5300b864-a231-4a1f-9fbb-3c4309552e6e": {
+    "name": "gunnerboyrick",
+    "aliases": [
+      "gunnerboyrick"
+    ],
+    "kill": 55,
+    "teamkill": 3,
+    "suicide": 10,
+    "death": 50
+  },
+  "456d3f22-1940-4de4-806d-96881fc0531c": {
+    "name": "kaldmignitro",
+    "aliases": [
+      "kaldmignitro"
+    ],
+    "kill": 17,
+    "teamkill": 2,
+    "suicide": 1,
+    "death": 13
+  },
+  "73479a9c-28f6-4e50-be1e-ad5daf9a279d": {
+    "name": "J:W",
+    "aliases": [
+      "J:W"
+    ],
+    "kill": 6,
+    "teamkill": 1,
+    "suicide": 4,
+    "death": 11
+  },
+  "205b716d-f561-4135-a037-fe6a5044bd85": {
+    "name": "RobrewBFD",
+    "aliases": [
+      "RobrewBFD"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 3
+  },
+  "086e8288-bcb4-4f32-a1c1-61bffd773bc3": {
+    "name": "vcarlosv1991",
+    "aliases": [
+      "vcarlosv1991"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 3
+  },
+  "fba75285-4642-46c3-8e5f-d612322452b0": {
+    "name": "Bapo2388",
+    "aliases": [
+      "Bapo2388"
+    ],
+    "kill": 7,
+    "teamkill": 1,
+    "suicide": 11,
+    "death": 40
+  },
+  "944ecd51-e152-4de1-8fec-dbfd1dd71810": {
+    "name": "MickC05",
+    "aliases": [
+      "MickC05"
+    ],
+    "kill": 10,
+    "teamkill": 2,
+    "suicide": 2,
+    "death": 9
+  },
+  "f4f9dc4e-4b81-4ae1-9bf5-b31fd48a72dc": {
+    "name": "Genialer Stein",
+    "aliases": [
+      "Genialer Stein"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 13
+  },
+  "348c8df1-a1e7-49ae-888b-9c75d4fa45f2": {
+    "name": "silverblazzin95",
+    "aliases": [
+      "silverblazzin95"
+    ],
+    "kill": 7,
+    "teamkill": 2,
+    "suicide": 1,
+    "death": 21
+  },
+  "1834978c-db14-4f2f-a890-4da4a0d39f4b": {
+    "name": "Syntetisk-bass",
+    "aliases": [
+      "Syntetisk-bass"
+    ],
+    "kill": 3,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 6
+  },
+  "929d5611-fe51-4b63-99ce-60887c858be7": {
+    "name": "VirtualGxd",
+    "aliases": [
+      "VirtualGxd"
+    ],
+    "kill": 2,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 7
+  },
+  "e33f20fb-bd76-4f8f-9c6e-17352673cb70": {
+    "name": "Sweazy x EU",
+    "aliases": [
+      "Sweazy x EU"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "620eaa35-b536-4dd6-81d8-7979aee8add7": {
+    "name": "LUPUS",
+    "aliases": [
+      "LUPUS"
+    ],
+    "kill": 5,
+    "teamkill": 0,
+    "suicide": 3,
+    "death": 9
+  },
+  "558da238-d569-4adf-a927-b8aa0d176961": {
+    "name": "Talleyrand",
+    "aliases": [
+      "Talleyrand"
+    ],
+    "kill": 14,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 7
+  },
+  "92114067-a0a2-4e69-a873-f680f4fc91ec": {
+    "name": "IGotTheSquirts",
+    "aliases": [
+      "IGotTheSquirts"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 3,
+    "death": 3
+  },
+  "4f7cad7d-17b5-47b2-924c-d3e51346e693": {
+    "name": "Addibass69",
+    "aliases": [
+      "Addibass69"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 3,
+    "death": 7
+  },
+  "16ac5bc8-12fc-44ee-b57a-a80706e599a9": {
+    "name": "Nezifi114",
+    "aliases": [
+      "Nezifi114"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 8
+  },
+  "4676a5ee-8a78-4078-ac23-acaa2f1f8e8c": {
+    "name": "Wolfsauge",
+    "aliases": [
+      "Wolfsauge"
+    ],
+    "kill": 27,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 21
+  },
+  "88cedf15-38fc-42b7-8f13-c8fb6f1faf75": {
+    "name": "Marco",
+    "aliases": [
+      "Marco"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "80eae6de-9fdb-4f22-ac20-de8918dad292": {
+    "name": "erenyea0",
+    "aliases": [
+      "erenyea0"
+    ],
+    "kill": 4,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 0
+  },
+  "c79d7705-bc8b-4c77-bbb5-79c0b6fef1c2": {
+    "name": "Bigsmoker420364",
+    "aliases": [
+      "Bigsmoker420364"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 3
+  },
+  "5473f8d5-1629-4ba3-83e4-a51076bbd858": {
+    "name": "George0892",
+    "aliases": [
+      "George0892"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 4
+  },
+  "0572b62b-9fb1-457b-b757-4e319839b775": {
+    "name": "ImperialBastard",
+    "aliases": [
+      "ImperialBastard"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "5a938de1-316d-4c35-a049-10625464f3cc": {
+    "name": "A_Preaching_Goat",
+    "aliases": [
+      "A_Preaching_Goat"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 3
+  },
+  "1e7ce5b8-d7c6-42fe-af69-7c0133de69af": {
+    "name": "Rolf",
+    "aliases": [
+      "Rolf"
+    ],
+    "kill": 10,
+    "teamkill": 0,
+    "suicide": 7,
+    "death": 15
+  },
+  "6f116a07-9fbe-4dd2-b922-d3cad8c96826": {
+    "name": "Kieran",
+    "aliases": [
+      "Kieran"
+    ],
+    "kill": 5,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 3
+  },
+  "c96b6b0d-92ec-4397-94e8-80e2d58e2d17": {
+    "name": "uchar",
+    "aliases": [
+      "uchar"
+    ],
+    "kill": 1,
+    "teamkill": 1,
+    "suicide": 3,
+    "death": 12
+  },
+  "a975c691-199b-45eb-ae99-3967883aec15": {
+    "name": "GamingGorillaHD",
+    "aliases": [
+      "GamingGorillaHD"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 0
+  },
+  "f499540c-958b-49c5-9100-2d9becee581c": {
+    "name": "Spartacuss_94",
+    "aliases": [
+      "Spartacuss_94"
+    ],
+    "kill": 53,
+    "teamkill": 1,
+    "suicide": 9,
+    "death": 28
+  },
+  "bf747c0a-2a04-4c11-b0c3-3aa5b7d20e08": {
+    "name": "SPIKE-08-13",
+    "aliases": [
+      "SPIKE-08-13"
+    ],
+    "kill": 0,
+    "teamkill": 3,
+    "suicide": 1,
+    "death": 4
+  },
+  "d88d21da-9c48-4fe1-a421-f5dbd543f6b0": {
+    "name": "masja01",
+    "aliases": [
+      "masja01"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 5
+  },
+  "610b7758-50ce-4337-9f16-284eab3593e5": {
+    "name": "sus",
+    "aliases": [
+      "sus"
+    ],
+    "kill": 8,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 10
+  },
+  "eae177bc-e367-4e6b-b0aa-f764669713ff": {
+    "name": "akillica_fiil",
+    "aliases": [
+      "akillica_fiil"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "05976db6-69bc-40d1-91a6-ae0d7175f932": {
+    "name": "lanrim",
+    "aliases": [
+      "lanrim"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 4,
+    "death": 5
+  },
+  "2d0fbe45-fa14-4e35-a0fc-21e9cafed6b7": {
+    "name": "\ud835\udc0a\ud835\udc11\ud835\udc00\ud835\udc12\ud835\udc07",
+    "aliases": [
+      "\ud835\udc0a\ud835\udc11\ud835\udc00\ud835\udc12\ud835\udc07"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 0
+  },
+  "4bb59ddf-0f35-4efd-a784-b71d2430ea25": {
+    "name": "Superfazboy",
+    "aliases": [
+      "Superfazboy"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 4,
+    "death": 14
+  },
+  "3aec4755-fa5c-472c-9820-c24228eabff5": {
+    "name": "Holy C",
+    "aliases": [
+      "Holy C"
+    ],
+    "kill": 19,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 10
+  },
+  "d8ae609d-085a-464e-bfa3-e859001d856f": {
+    "name": "Slehter",
+    "aliases": [
+      "Slehter"
+    ],
+    "kill": 8,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 5
+  },
+  "1bc3549e-261b-44aa-a4ad-6b4f7582d7f3": {
+    "name": "gavinparadise",
+    "aliases": [
+      "gavinparadise"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 6
+  },
+  "5ee307bb-1eff-46f5-89b8-7dc4165aac7f": {
+    "name": "BAGET",
+    "aliases": [
+      "BAGET"
+    ],
+    "kill": 100,
+    "teamkill": 3,
+    "suicide": 7,
+    "death": 61
+  },
+  "97a93943-fc7e-4f5e-9d71-38359028db69": {
+    "name": "Ah, Milk",
+    "aliases": [
+      "Ah, Milk"
+    ],
+    "kill": 12,
+    "teamkill": 2,
+    "suicide": 1,
+    "death": 21
+  },
+  "7c4db956-aec5-42fb-9de6-1b2315b15001": {
+    "name": "TwzYSW",
+    "aliases": [
+      "TwzYSW"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 5
+  },
+  "7685ef53-e613-4d5c-b87e-f71ccd13ca22": {
+    "name": "Frank Underwood",
+    "aliases": [
+      "Frank Underwood"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 2
+  },
+  "24e9a1d9-df08-4bcf-8f94-e83cbc7ffa91": {
+    "name": "SilentMK",
+    "aliases": [
+      "SilentMK"
+    ],
+    "kill": 17,
+    "teamkill": 2,
+    "suicide": 7,
+    "death": 9
+  },
+  "afeb5adf-76df-48e1-8d88-8b00ad639b50": {
+    "name": "genster_style",
+    "aliases": [
+      "genster_style"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 3
+  },
+  "41f25ddd-407c-49c9-bf18-7b0dcc112d37": {
+    "name": "Lewis_0113_-",
+    "aliases": [
+      "Lewis_0113_-"
+    ],
+    "kill": 9,
+    "teamkill": 3,
+    "suicide": 4,
+    "death": 37
+  },
+  "da710760-1669-449b-bf5e-295c9e62a8a9": {
+    "name": "Vito-DiDonato",
+    "aliases": [
+      "Vito-DiDonato"
+    ],
+    "kill": 43,
+    "teamkill": 3,
+    "suicide": 7,
+    "death": 49
+  },
+  "45050ef1-d934-4013-be2a-5eb921ca9151": {
+    "name": "Caz",
+    "aliases": [
+      "Caz"
+    ],
+    "kill": 17,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 6
+  },
+  "89163445-a8ba-4f04-86ee-625da48e66c4": {
+    "name": "Sunnaille",
+    "aliases": [
+      "Sunnaille"
+    ],
+    "kill": 6,
+    "teamkill": 1,
+    "suicide": 2,
+    "death": 7
+  },
+  "c2a4114b-551b-4896-8d0e-a1294e47a6b8": {
+    "name": "systemic-rapper9",
+    "aliases": [
+      "systemic-rapper9"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 1
+  },
+  "73d0bd4b-1c52-4fb6-a4e4-38e3adda4967": {
+    "name": "OneWithGames0",
+    "aliases": [
+      "OneWithGames0"
+    ],
+    "kill": 6,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "e448051e-91e9-480b-90ba-b3017ee40b98": {
+    "name": "BRO_NOSKILLS",
+    "aliases": [
+      "BRO_NOSKILLS"
+    ],
+    "kill": 12,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 34
+  },
+  "0c99aa3e-4ddd-440a-bff1-cc87121e3c56": {
+    "name": "DaV4sTaTiioNz",
+    "aliases": [
+      "DaV4sTaTiioNz"
+    ],
+    "kill": 1,
+    "teamkill": 23,
+    "suicide": 6,
+    "death": 30
+  },
+  "ad0b8a6f-0a39-462c-a833-269309256c7e": {
+    "name": "ertuu052",
+    "aliases": [
+      "ertuu052"
+    ],
+    "kill": 4,
+    "teamkill": 32,
+    "suicide": 2,
+    "death": 31
+  },
+  "caf171ad-3888-44d8-aabe-e6798058857e": {
+    "name": "Mikele!",
+    "aliases": [
+      "Mikele!"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 4
+  },
+  "995e769d-67e8-4b94-a793-0fdd70564329": {
+    "name": "FIashDrivee",
+    "aliases": [
+      "FIashDrivee"
+    ],
+    "kill": 4,
+    "teamkill": 0,
+    "suicide": 3,
+    "death": 7
+  },
+  "592e60c3-770e-4aae-99c7-c680fb17ad23": {
+    "name": "I_h8_fat_girls",
+    "aliases": [
+      "I_h8_fat_girls"
+    ],
+    "kill": 5,
+    "teamkill": 3,
+    "suicide": 1,
+    "death": 22
+  },
+  "23c70bf8-e6cb-4362-9778-2f06a76a4f12": {
+    "name": "WarDog535",
+    "aliases": [
+      "WarDog535"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 4
+  },
+  "e71a44f9-84b3-4322-af07-dd676fbf7424": {
+    "name": "Max Fragg",
+    "aliases": [
+      "Max Fragg"
+    ],
+    "kill": 4,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 10
+  },
+  "507573ff-cfe9-4481-be8b-9e5614072d05": {
+    "name": "Dogan-5252",
+    "aliases": [
+      "Dogan-5252"
+    ],
+    "kill": 1,
+    "teamkill": 21,
+    "suicide": 8,
+    "death": 27
+  },
+  "93bd6c49-85b0-4692-a59b-3981a8e515e1": {
+    "name": "x223hj",
+    "aliases": [
+      "x223hj"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "ad9f57e5-ba8e-43f3-a1b1-43d99fe82979": {
+    "name": "HiEsH",
+    "aliases": [
+      "HiEsH"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 8
+  },
+  "e631ea66-910f-4720-a769-2cf5cb7ea581": {
+    "name": "Sam",
+    "aliases": [
+      "Sam"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 1
+  },
+  "57253e1c-382e-413a-b410-2ed7e7e46078": {
+    "name": "Meow",
+    "aliases": [
+      "Meow"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "beae5f2f-645f-49c2-94b0-13e2d2b6b638": {
+    "name": "Shinz\u014d Abe",
+    "aliases": [
+      "Shinz\u014d Abe"
+    ],
+    "kill": 12,
+    "teamkill": 0,
+    "suicide": 8,
+    "death": 24
+  },
+  "0039ce56-bdea-4838-968d-2c4e0aea9013": {
+    "name": "BeetleJuice",
+    "aliases": [
+      "BeetleJuice"
+    ],
+    "kill": 54,
+    "teamkill": 2,
+    "suicide": 0,
+    "death": 34
+  },
+  "f5b9592f-9761-4d73-bbf0-ead32cc229e4": {
+    "name": "momedo-1702",
+    "aliases": [
+      "momedo-1702"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 2
+  },
+  "ef5d01cf-99e8-4fbb-85d7-bc53b09ff77a": {
+    "name": "jjoosshh17",
+    "aliases": [
+      "jjoosshh17"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 17
+  },
+  "8e14e3e2-7527-4510-9bb4-7992170a1ea6": {
+    "name": "zRuthlessRoyal",
+    "aliases": [
+      "zRuthlessRoyal"
+    ],
+    "kill": 6,
+    "teamkill": 2,
+    "suicide": 7,
+    "death": 23
+  },
+  "ebcc4f2e-91f3-44e7-9aaf-a5f9d06154be": {
+    "name": "Soda",
+    "aliases": [
+      "Soda"
+    ],
+    "kill": 11,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 10
+  },
+  "23f4f5d2-5778-4db5-829c-d44e1eb80b18": {
+    "name": "TRiGLAZ-420",
+    "aliases": [
+      "TRiGLAZ-420"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "579cc3e0-3e30-4ed9-8754-131c2e1a901e": {
+    "name": "itzAro--",
+    "aliases": [
+      "itzAro--"
+    ],
+    "kill": 10,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 22
+  },
+  "4f8f90de-d57e-470b-bbb9-b91bfb6a013c": {
+    "name": "Wu_tAsOs",
+    "aliases": [
+      "Wu_tAsOs"
+    ],
+    "kill": 6,
+    "teamkill": 0,
+    "suicide": 3,
+    "death": 14
+  },
+  "c5dcba44-3b74-4e00-8eee-27163575c975": {
+    "name": "Dionn_7",
+    "aliases": [
+      "Dionn_7"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 4
+  },
+  "a1e6cc19-9033-4234-95cc-9ff849e62ae1": {
+    "name": "mattc4131",
+    "aliases": [
+      "mattc4131"
+    ],
+    "kill": 2,
+    "teamkill": 1,
+    "suicide": 3,
+    "death": 18
+  },
+  "ae33e5ba-8a8a-4dba-a1e6-4597e1afd45a": {
+    "name": "JULEEAA123",
+    "aliases": [
+      "JULEEAA123"
+    ],
+    "kill": 9,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 20
+  },
+  "5794d2fd-b7aa-4c76-b15a-2b6391d458b1": {
+    "name": "L4rs",
+    "aliases": [
+      "L4rs"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 4
+  },
+  "64e5375c-4428-418a-ab4f-767b71f1e6c7": {
+    "name": "JavierJordon",
+    "aliases": [
+      "JavierJordon"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "f6919e5a-2e1b-454b-bd27-3d14a64aa08b": {
+    "name": "Vartanin",
+    "aliases": [
+      "Vartanin"
+    ],
+    "kill": 17,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 10
+  },
+  "a4fe9dfb-a620-464f-9554-a83395836c52": {
+    "name": "CossackSmoke",
+    "aliases": [
+      "CossackSmoke"
+    ],
+    "kill": 4,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "20e9624a-5d94-4d27-8952-0a72ebea5d01": {
+    "name": "nathand2498",
+    "aliases": [
+      "nathand2498"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 7
+  },
+  "0035465c-a22c-4249-b8fc-191079c3cd01": {
+    "name": "Squirt9790PC",
+    "aliases": [
+      "Squirt9790PC"
+    ],
+    "kill": 4,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 6
+  },
+  "6ebef2cd-9ad1-46d2-b22d-04f3c0063dee": {
+    "name": "zion333-",
+    "aliases": [
+      "zion333-"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "f7474edf-d187-4ead-a90d-161dda3524c6": {
+    "name": "Cope Destroyer",
+    "aliases": [
+      "Cope Destroyer"
+    ],
+    "kill": 38,
+    "teamkill": 1,
+    "suicide": 4,
+    "death": 18
+  },
+  "89e01502-b91b-44cd-b17a-6a498916044a": {
+    "name": "NoNameFMR",
+    "aliases": [
+      "NoNameFMR"
+    ],
+    "kill": 13,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 4
+  },
+  "efbcbc84-0c35-440c-8945-1f69b602eaed": {
+    "name": "lord heinrich",
+    "aliases": [
+      "lord heinrich"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 3
+  },
+  "04c97873-1b11-4d72-8aa7-17a8750888ae": {
+    "name": "RaWmacDaMessiaH",
+    "aliases": [
+      "RaWmacDaMessiaH"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "10f72ced-b7ee-4cb6-ae23-63f676a9f390": {
+    "name": "puremurta16",
+    "aliases": [
+      "puremurta16"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 3
+  },
+  "0a609f97-51b7-4706-863d-cc1b06f4f81b": {
+    "name": "frazzeldazzel69",
+    "aliases": [
+      "frazzeldazzel69"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 7
+  },
+  "98638265-7ce2-418e-b83f-41499a3681d9": {
+    "name": "PHILTR0UT",
+    "aliases": [
+      "PHILTR0UT"
+    ],
+    "kill": 8,
+    "teamkill": 2,
+    "suicide": 2,
+    "death": 20
+  },
+  "a1d33aad-2953-4f31-b22f-a447b32c3a48": {
+    "name": "GDYX-ll",
+    "aliases": [
+      "GDYX-ll"
+    ],
+    "kill": 40,
+    "teamkill": 10,
+    "suicide": 4,
+    "death": 37
+  },
+  "d577d528-16dc-471c-9dcc-409c62b7f4ab": {
+    "name": "thelastjediutube",
+    "aliases": [
+      "thelastjediutube"
+    ],
+    "kill": 11,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 15
+  },
+  "d1de1a87-182e-43a8-a7a6-a5f688f55182": {
+    "name": "machinegunkerry5",
+    "aliases": [
+      "machinegunkerry5"
+    ],
+    "kill": 3,
+    "teamkill": 2,
+    "suicide": 2,
+    "death": 10
+  },
+  "e212cc21-95e4-4d90-aa9e-199508e8995c": {
+    "name": "migwest23",
+    "aliases": [
+      "migwest23"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 3,
+    "death": 12
+  },
+  "a8be8681-1d2a-42e8-a96e-873f079163b1": {
+    "name": "SpitfireGinga07",
+    "aliases": [
+      "SpitfireGinga07"
+    ],
+    "kill": 13,
+    "teamkill": 1,
+    "suicide": 2,
+    "death": 9
+  },
+  "c1e1aa3d-b295-4977-a7f3-d9d36a2b4911": {
+    "name": "mayor of blinkerton",
+    "aliases": [
+      "mayor of blinkerton"
+    ],
+    "kill": 7,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 16
+  },
+  "0fb811e9-65fa-4275-943d-54f0c246855a": {
+    "name": "Mr.clueless",
+    "aliases": [
+      "Mr.clueless"
+    ],
+    "kill": 4,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 9
+  },
+  "cb025cc8-6c11-4b5e-8c5e-d120b46d923b": {
+    "name": "ZBULL_154",
+    "aliases": [
+      "ZBULL_154"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "7673ad44-d8c0-48a1-942c-f3085c51d900": {
+    "name": "Saucy2204",
+    "aliases": [
+      "Saucy2204"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 1
+  },
+  "a2d3d6df-b50a-4912-90a4-9ad83a06d799": {
+    "name": "ForlornToaster0",
+    "aliases": [
+      "ForlornToaster0"
+    ],
+    "kill": 5,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 12
+  },
+  "3f1a132c-afd2-4177-bf33-1cb9605265cf": {
+    "name": "Pureshka__",
+    "aliases": [
+      "Pureshka__"
+    ],
+    "kill": 9,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 11
+  },
+  "7324a364-5dea-4b45-a533-c736f5bbb2c7": {
+    "name": "ThieuSon",
+    "aliases": [
+      "ThieuSon"
+    ],
+    "kill": 45,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 26
+  },
+  "d29e15d8-4e17-447e-9db9-a911f176b287": {
+    "name": "agent flens",
+    "aliases": [
+      "agent flens"
+    ],
+    "kill": 1,
+    "teamkill": 6,
+    "suicide": 4,
+    "death": 17
+  },
+  "f88110c3-7134-4847-bd05-398148c6178c": {
+    "name": "katanac_na_jajce",
+    "aliases": [
+      "katanac_na_jajce"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 3,
+    "death": 3
+  },
+  "255b320b-ba06-4709-8235-d6b5d663e14b": {
+    "name": "cryp cholo",
+    "aliases": [
+      "cryp cholo"
+    ],
+    "kill": 9,
+    "teamkill": 5,
+    "suicide": 3,
+    "death": 17
+  },
+  "d2ddb2cb-fc0e-4518-9336-dc958509e9be": {
+    "name": "\u041a\u043e\u043c\u043c\u0443\u043d\u0438\u0441\u0442",
+    "aliases": [
+      "\u041a\u043e\u043c\u043c\u0443\u043d\u0438\u0441\u0442"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 5,
+    "death": 14
+  },
+  "8536d04e-0c19-471f-8476-1fe7f1f3fea9": {
+    "name": "Ivan Brin",
+    "aliases": [
+      "Ivan Brin"
+    ],
+    "kill": 18,
+    "teamkill": 2,
+    "suicide": 9,
+    "death": 57
+  },
+  "029784e0-a2d5-4f59-b44d-d3d2b7491b9d": {
+    "name": "sedgbeer91",
+    "aliases": [
+      "sedgbeer91"
+    ],
+    "kill": 1,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 4
+  },
+  "b044e915-ca5b-4e1f-b75d-0a622e995ac1": {
+    "name": "KAMIKAZE HITLER T-REXX JIHAD",
+    "aliases": [
+      "KAMIKAZE HITLER T-REXX JIHAD"
+    ],
+    "kill": 16,
+    "teamkill": 3,
+    "suicide": 3,
+    "death": 10
+  },
+  "f020741f-a756-4b36-98b9-1674dbbfebcb": {
+    "name": "pizza_tuga",
+    "aliases": [
+      "pizza_tuga"
+    ],
+    "kill": 6,
+    "teamkill": 6,
+    "suicide": 5,
+    "death": 37
+  },
+  "a42c6191-36c2-4401-a881-ef54a049d5dd": {
+    "name": "Loso_Banditoso",
+    "aliases": [
+      "Loso_Banditoso"
+    ],
+    "kill": 4,
+    "teamkill": 0,
+    "suicide": 6,
+    "death": 20
+  },
+  "71c76a32-840f-4da4-9177-1efccae0c9b9": {
+    "name": "ArchangeL16",
+    "aliases": [
+      "ArchangeL16"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "3764a447-233a-4dc4-b56a-8605514936c4": {
+    "name": "TechnoViking",
+    "aliases": [
+      "TechnoViking"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 5
+  },
+  "f9dc8281-49dd-4231-8103-9b5c7c0e9aa3": {
+    "name": "TheRioTRose",
+    "aliases": [
+      "TheRioTRose"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 11
+  },
+  "991f0809-f50e-487a-a203-09e71de933c3": {
+    "name": "AndersTheAvenger",
+    "aliases": [
+      "AndersTheAvenger"
+    ],
+    "kill": 7,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 9
+  },
+  "b2b9bad8-65f2-429c-9499-035dda7a2e58": {
+    "name": "danne",
+    "aliases": [
+      "danne"
+    ],
+    "kill": 8,
+    "teamkill": 3,
+    "suicide": 4,
+    "death": 16
+  },
+  "85156cb4-9654-4793-97a3-5ed362c40c8e": {
+    "name": "GoldenBlunt_03",
+    "aliases": [
+      "GoldenBlunt_03"
+    ],
+    "kill": 5,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 16
+  },
+  "2f577a9c-6dcc-4468-9d8c-5f310661e71d": {
+    "name": "Cummy",
+    "aliases": [
+      "Cummy"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 5
+  },
+  "7c0bd23a-d521-4d80-828e-f0184fcca810": {
+    "name": "\u0432\u0456\u0442\u044f",
+    "aliases": [
+      "\u0432\u0456\u0442\u044f"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 4
+  },
+  "256cc399-ef64-49b8-91b2-a3e222615b12": {
+    "name": "SrryForHeadshot",
+    "aliases": [
+      "SrryForHeadshot"
+    ],
+    "kill": 15,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 8
+  },
+  "352b412d-9bd2-41b0-8ce2-496fdeddc2a0": {
+    "name": "MasAaAlkHayr",
+    "aliases": [
+      "MasAaAlkHayr"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "196087b4-3fbe-4310-be8a-9e5f56dcceb5": {
+    "name": "sashaodessa",
+    "aliases": [
+      "sashaodessa"
+    ],
+    "kill": 15,
+    "teamkill": 0,
+    "suicide": 5,
+    "death": 31
+  },
+  "18255237-fb4f-4a7a-8fde-e7a97dcd14dc": {
+    "name": "Trevor-Ritchie",
+    "aliases": [
+      "Trevor-Ritchie"
+    ],
+    "kill": 5,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 12
+  },
+  "4df2377c-21bf-46cf-a655-38c2418fc3ff": {
+    "name": "pzfaddict420",
+    "aliases": [
+      "pzfaddict420"
+    ],
+    "kill": 25,
+    "teamkill": 5,
+    "suicide": 14,
+    "death": 39
+  },
+  "844bb3e2-ab87-4fcf-8611-f948b902bc55": {
+    "name": "Avent",
+    "aliases": [
+      "Avent"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 6
+  },
+  "217a6fb9-e682-4b0d-81af-f1ccf3aeb30f": {
+    "name": "driekus2014",
+    "aliases": [
+      "driekus2014"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 3
+  },
+  "28dac6d6-49b5-432c-8491-d5cdbd2e89a5": {
+    "name": "\u267f\ufe0f500Rads\u267f",
+    "aliases": [
+      "\u267f\ufe0f500Rads\u267f"
+    ],
+    "kill": 14,
+    "teamkill": 0,
+    "suicide": 3,
+    "death": 12
+  },
+  "2d6b5f1e-f937-47d9-9d6d-330e6f34c460": {
+    "name": "JoshA951",
+    "aliases": [
+      "JoshA951"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 2
+  },
+  "1969abee-9023-4266-a326-724db76da4a6": {
+    "name": "Scarfaceeezzz",
+    "aliases": [
+      "Scarfaceeezzz"
+    ],
+    "kill": 0,
+    "teamkill": 3,
+    "suicide": 0,
+    "death": 5
+  },
+  "20d17e78-b8c2-4acf-a7bf-db8221275bbe": {
+    "name": "Vivio",
+    "aliases": [
+      "Vivio"
+    ],
+    "kill": 5,
+    "teamkill": 0,
+    "suicide": 3,
+    "death": 8
+  },
+  "fe8017b9-4e06-4f86-9f87-f5f61f5bce9e": {
+    "name": "Booba",
+    "aliases": [
+      "Booba"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 4
+  },
+  "8ae2d50c-db15-4af7-aa0c-cc2408a8e20f": {
+    "name": "DatAssOfficial",
+    "aliases": [
+      "DatAssOfficial"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 2
+  },
+  "02863edf-45ae-4928-ae43-77b8281b3a7d": {
+    "name": "KingGhillie1824",
+    "aliases": [
+      "KingGhillie1824"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 2
+  },
+  "977e6d2b-cda1-46dc-bdf5-bab7ad1e7683": {
+    "name": "Hal0Man666",
+    "aliases": [
+      "Hal0Man666"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 5
+  },
+  "d0583331-5524-4cf0-961b-d1cffa1f8b36": {
+    "name": "RCG_1104",
+    "aliases": [
+      "RCG_1104"
+    ],
+    "kill": 3,
+    "teamkill": 2,
+    "suicide": 2,
+    "death": 22
+  },
+  "6d89174c-3bb4-45ae-b53e-e2b20a59a14f": {
+    "name": "ProBotSam",
+    "aliases": [
+      "ProBotSam"
+    ],
+    "kill": 23,
+    "teamkill": 2,
+    "suicide": 2,
+    "death": 21
+  },
+  "0fea67df-6c11-41fc-95cb-86790a9089b4": {
+    "name": "Rush129",
+    "aliases": [
+      "Rush129"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "e95a2581-966c-427e-800e-3ee1d99934eb": {
+    "name": "ConvexWolfty",
+    "aliases": [
+      "ConvexWolfty"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "3293ff98-c06f-4a83-8ec6-fad88465ccd0": {
+    "name": "Executive Eagle",
+    "aliases": [
+      "Executive Eagle"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 3
+  },
+  "7d461aae-cb6e-4665-b7e4-cf486715e673": {
+    "name": "VintageAces",
+    "aliases": [
+      "VintageAces"
+    ],
+    "kill": 8,
+    "teamkill": 0,
+    "suicide": 4,
+    "death": 19
+  },
+  "32fb3a9b-179d-461d-8a36-f7d3ca36a21f": {
+    "name": "GigaChad",
+    "aliases": [
+      "GigaChad"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 3
+  },
+  "2517db8d-1d91-46b4-9528-d4057a667fb1": {
+    "name": "El Jef\u00e9",
+    "aliases": [
+      "El Jef\u00e9"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "0cf60f21-525f-4afc-9b46-a43c8470c57e": {
+    "name": "Azevni",
+    "aliases": [
+      "Azevni"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 4
+  },
+  "fcbdf11f-6093-4439-a56b-5f790f60c08d": {
+    "name": "nuklearwurst69",
+    "aliases": [
+      "nuklearwurst69"
+    ],
+    "kill": 5,
+    "teamkill": 3,
+    "suicide": 2,
+    "death": 27
+  },
+  "4d81831d-af08-433b-ac58-d91ae1bc4592": {
+    "name": "McCabe_ONLINE",
+    "aliases": [
+      "McCabe_ONLINE"
+    ],
+    "kill": 16,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 14
+  },
+  "b617252d-f0d1-4cd3-bf89-861cd567a1d1": {
+    "name": "VURDALAK",
+    "aliases": [
+      "VURDALAK"
+    ],
+    "kill": 37,
+    "teamkill": 4,
+    "suicide": 8,
+    "death": 43
+  },
+  "182437b9-3078-41fa-9f8f-44a26ae4e7d6": {
+    "name": "FOOKIN HELL REF",
+    "aliases": [
+      "FOOKIN HELL REF"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 4
+  },
+  "640fc80e-5f04-481b-8f84-27491dd073dd": {
+    "name": "Jonaspetersr",
+    "aliases": [
+      "Jonaspetersr"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "8ac8730f-bae6-4bb6-8525-a086ebd5ff0d": {
+    "name": "Brian Blair",
+    "aliases": [
+      "Brian Blair"
+    ],
+    "kill": 6,
+    "teamkill": 5,
+    "suicide": 2,
+    "death": 10
+  },
+  "65e6423c-b36b-4e99-9db4-d2e4d42e7f95": {
+    "name": "Carl",
+    "aliases": [
+      "Carl"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 4
+  },
+  "a1f075a6-e08f-4f21-84ea-b23dfd6e04f2": {
+    "name": "\u0418\u043a\u0430\u0440",
+    "aliases": [
+      "\u0418\u043a\u0430\u0440"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 6
+  },
+  "bbe274fc-6f28-47cf-aba3-7f88a6091e3b": {
+    "name": "A--WASP--",
+    "aliases": [
+      "A--WASP--"
+    ],
+    "kill": 9,
+    "teamkill": 6,
+    "suicide": 2,
+    "death": 28
+  },
+  "d37e5151-9204-4e88-8291-51939b95db89": {
+    "name": "IRZDUSMANI",
+    "aliases": [
+      "IRZDUSMANI"
+    ],
+    "kill": 5,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 3
+  },
+  "d3030f78-0f4f-4f7e-8e50-0bdba8708a46": {
+    "name": "ballymartin_14",
+    "aliases": [
+      "ballymartin_14"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 18
+  },
+  "9dea33d2-84ac-4055-88f1-1645ea177e38": {
+    "name": "\u043c\u0430\u0439\u043e\u043d\u0435\u0437\u043d\u044b\u0439 \u0433\u0443\u043b\u044f\u043a",
+    "aliases": [
+      "\u043c\u0430\u0439\u043e\u043d\u0435\u0437\u043d\u044b\u0439 \u0433\u0443\u043b\u044f\u043a"
+    ],
+    "kill": 2,
+    "teamkill": 2,
+    "suicide": 3,
+    "death": 11
+  },
+  "c771035f-0fd6-4f18-9d8d-993a43628b49": {
+    "name": "harizsole",
+    "aliases": [
+      "harizsole"
+    ],
+    "kill": 11,
+    "teamkill": 1,
+    "suicide": 5,
+    "death": 16
+  },
+  "dfb0ab83-541c-4e05-aa58-e4d4dcdf7348": {
+    "name": "L-Caso",
+    "aliases": [
+      "L-Caso"
+    ],
+    "kill": 4,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 7
+  },
+  "45cdd53b-185d-4e04-812b-76d4598fa847": {
+    "name": "Watashinoya",
+    "aliases": [
+      "Watashinoya"
+    ],
+    "kill": 1,
+    "teamkill": 1,
+    "suicide": 2,
+    "death": 21
+  },
+  "5235bfaa-64b9-49d9-8098-6cb345b2886f": {
+    "name": "Jaassball",
+    "aliases": [
+      "Jaassball"
+    ],
+    "kill": 8,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 20
+  },
+  "b7f6a14a-6f53-4eb7-9d23-a9a78bacb83a": {
+    "name": "Wu_Spiros",
+    "aliases": [
+      "Wu_Spiros"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 8
+  },
+  "90a1316c-d53a-469d-a1c6-7ffe013dd715": {
+    "name": "Dig Bick",
+    "aliases": [
+      "Dig Bick"
+    ],
+    "kill": 38,
+    "teamkill": 2,
+    "suicide": 9,
+    "death": 30
+  },
+  "f1afc46c-a3f6-44f4-b3bd-eed5c9a7477d": {
+    "name": "Crayon_Eater",
+    "aliases": [
+      "Crayon_Eater"
+    ],
+    "kill": 6,
+    "teamkill": 2,
+    "suicide": 0,
+    "death": 2
+  },
+  "c935725e-a553-4ec1-8e1d-0aa4f748d12b": {
+    "name": "henke",
+    "aliases": [
+      "henke"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 3
+  },
+  "1273bb01-7bd7-4456-b679-1c60d48732fa": {
+    "name": "yo_Oli_King-14",
+    "aliases": [
+      "yo_Oli_King-14"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 4
+  },
+  "19ce6440-ac01-4958-beb0-5cf4eddfdad3": {
+    "name": "madonnablades",
+    "aliases": [
+      "madonnablades"
+    ],
+    "kill": 11,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 6
+  },
+  "b8ec6ceb-0e41-4c5a-aa93-f0a9c371dce1": {
+    "name": "jensvestreskipperud",
+    "aliases": [
+      "jensvestreskipperud"
+    ],
+    "kill": 8,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 7
+  },
+  "4bf8c338-4207-47f7-aa1e-1ef8681621c3": {
+    "name": "ZangRok",
+    "aliases": [
+      "ZangRok"
+    ],
+    "kill": 50,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 20
+  },
+  "8364f152-d9f2-4ab0-9d7d-8630da6c4a52": {
+    "name": "mho-d0s",
+    "aliases": [
+      "mho-d0s"
+    ],
+    "kill": 14,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 22
+  },
+  "023037c6-9a9e-423c-9be0-10af6a88c51b": {
+    "name": "Pandoski21",
+    "aliases": [
+      "Pandoski21"
+    ],
+    "kill": 5,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 21
+  },
+  "c784c02e-2c7d-459d-888e-586d9b36543c": {
+    "name": "gouden-flipper",
+    "aliases": [
+      "gouden-flipper"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 5
+  },
+  "4cd1a4d4-9fa7-4b7d-b503-b414f98a79de": {
+    "name": "Feet pics peddler",
+    "aliases": [
+      "Feet pics peddler"
+    ],
+    "kill": 5,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 9
+  },
+  "f30643b5-637a-4704-8df4-978ff0e61e04": {
+    "name": "admkap",
+    "aliases": [
+      "admkap"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 1
+  },
+  "95192dfd-a9cd-4dda-a2e7-4b1356f75750": {
+    "name": "Emoscatini",
+    "aliases": [
+      "Emoscatini"
+    ],
+    "kill": 6,
+    "teamkill": 0,
+    "suicide": 10,
+    "death": 39
+  },
+  "7553d9e9-9853-42f5-abc1-6e2e6caf1882": {
+    "name": "Ear cancer",
+    "aliases": [
+      "Ear cancer"
+    ],
+    "kill": 13,
+    "teamkill": 0,
+    "suicide": 3,
+    "death": 13
+  },
+  "f3218289-33ff-4374-99c2-f131536111f3": {
+    "name": "Carlito",
+    "aliases": [
+      "Carlito"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "0c7a4e8c-5287-42f2-8788-e1bf00825b4c": {
+    "name": "[DADS] HampusFridell",
+    "aliases": [
+      "[DADS] HampusFridell"
+    ],
+    "kill": 25,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 6
+  },
+  "3266f568-bd9c-4229-b0f5-cab05412959b": {
+    "name": "just a random swed",
+    "aliases": [
+      "just a random swed"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "e915f7a8-e15e-43df-8192-5c7db537283c": {
+    "name": "Mr-Morgann01",
+    "aliases": [
+      "Mr-Morgann01"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "cac53624-6114-4c37-ab2a-35a1811be686": {
+    "name": "Johno_6585",
+    "aliases": [
+      "Johno_6585"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "8f578e9f-3963-44aa-a691-ed68aa4ef94c": {
+    "name": "A_Brave_Biscuit1",
+    "aliases": [
+      "A_Brave_Biscuit1"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 3
+  },
+  "f7712540-64ca-4e85-b9d0-124cfd7906da": {
+    "name": "RatBox",
+    "aliases": [
+      "RatBox"
+    ],
+    "kill": 11,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 11
+  },
+  "54247d66-a55b-4000-86e3-883e79f6dc68": {
+    "name": "Stroim Ghiauru'",
+    "aliases": [
+      "Stroim Ghiauru'"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 11
+  },
+  "04aa7079-9f68-4d44-88c5-69c80ce5236f": {
+    "name": "R2L3354TT",
+    "aliases": [
+      "R2L3354TT"
+    ],
+    "kill": 2,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 5
+  },
+  "b39d108e-a208-4680-902e-2a06832b2c08": {
+    "name": "Teddyy",
+    "aliases": [
+      "Teddyy"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 1
+  },
+  "7dd87178-3272-4d36-9154-fdf4f02a1dde": {
+    "name": "Kuukkeli",
+    "aliases": [
+      "Kuukkeli"
+    ],
+    "kill": 53,
+    "teamkill": 3,
+    "suicide": 6,
+    "death": 26
+  },
+  "ba9336b6-7ccd-41cd-b41f-427a4026c880": {
+    "name": "arensibbick5",
+    "aliases": [
+      "arensibbick5"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "0afa264a-448e-47c5-afe5-218e323c5693": {
+    "name": "Maverick-AGM65",
+    "aliases": [
+      "Maverick-AGM65"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 5
+  },
+  "0e40c1e8-4095-45e4-8d44-a1970f6cf925": {
+    "name": "elsandi86",
+    "aliases": [
+      "elsandi86"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "9244158b-d2ee-47ab-b04b-a1b66b3b4d13": {
+    "name": "Azelith",
+    "aliases": [
+      "Azelith"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "e4acfb43-d99e-4ced-9dd0-afe918610b5c": {
+    "name": "skeg_1690",
+    "aliases": [
+      "skeg_1690"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 12
+  },
+  "57a78742-86d6-4caf-a799-4c07b9d407bf": {
+    "name": "shickflairdrip",
+    "aliases": [
+      "shickflairdrip"
+    ],
+    "kill": 6,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 5
+  },
+  "7eaba640-7797-49e8-a7a4-c4bc17df35fa": {
+    "name": "Psychen",
+    "aliases": [
+      "Psychen"
+    ],
+    "kill": 6,
+    "teamkill": 0,
+    "suicide": 9,
+    "death": 19
+  },
+  "418338bd-5631-44cc-8aae-2379c14c6a59": {
+    "name": "finitelight03",
+    "aliases": [
+      "finitelight03"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 2
+  },
+  "5ba8c271-e79b-40d1-9999-0f7a7e45da80": {
+    "name": "OJ",
+    "aliases": [
+      "OJ"
+    ],
+    "kill": 41,
+    "teamkill": 2,
+    "suicide": 1,
+    "death": 16
+  },
+  "468ae44c-6a6a-4865-8b62-846d07cfedb5": {
+    "name": "Sammy Sandshoes",
+    "aliases": [
+      "Sammy Sandshoes"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 5
+  },
+  "fb676726-e180-4275-9ae9-77558e9c2878": {
+    "name": "SkeletorJim",
+    "aliases": [
+      "SkeletorJim"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 3
+  },
+  "29327ed7-899e-47b6-83b5-c515c37a0f77": {
+    "name": "MrPossyCat2457",
+    "aliases": [
+      "MrPossyCat2457"
+    ],
+    "kill": 6,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 17
+  },
+  "cf654a50-7030-47f1-85f6-f0e80e65486f": {
+    "name": "Victorius",
+    "aliases": [
+      "Victorius"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "308a0d05-608f-41d3-bdc4-6986aeed948d": {
+    "name": "Sint121",
+    "aliases": [
+      "Sint121"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 7
+  },
+  "8e85568b-d422-4b8d-bad2-dd78bce9a052": {
+    "name": "Brandon-2006-",
+    "aliases": [
+      "Brandon-2006-"
+    ],
+    "kill": 16,
+    "teamkill": 0,
+    "suicide": 6,
+    "death": 19
+  },
+  "7383a8a5-0570-4260-99bd-e7ab1882924b": {
+    "name": "Snoopy[sonix]",
+    "aliases": [
+      "Snoopy[sonix]"
+    ],
+    "kill": 2,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 1
+  },
+  "c46b95b5-1cb9-4ae3-99af-8b764899e4d2": {
+    "name": "Oufh Matrix",
+    "aliases": [
+      "Oufh Matrix"
+    ],
+    "kill": 25,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 11
+  },
+  "b5fb752c-3eaa-4e7c-b9cd-cee16e4d08e9": {
+    "name": "UpL Nexus",
+    "aliases": [
+      "UpL Nexus"
+    ],
+    "kill": 3,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 7
+  },
+  "681af7e8-087c-47ad-b18a-92d317a78019": {
+    "name": "[SSOK] \u0412\u043e\u0441\u0445\u043e\u0434",
+    "aliases": [
+      "[SSOK] \u0412\u043e\u0441\u0445\u043e\u0434"
+    ],
+    "kill": 1,
+    "teamkill": 2,
+    "suicide": 1,
+    "death": 6
+  },
+  "6d171828-b5ef-492d-aabd-c140cc37a3a3": {
+    "name": "CoffE",
+    "aliases": [
+      "CoffE"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 3
+  },
+  "2c1a2563-fa3d-4011-b664-d578ddcd065c": {
+    "name": "Diamond_dog-010",
+    "aliases": [
+      "Diamond_dog-010"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 6
+  },
+  "f100ed74-aaf3-495e-b31f-90180744d4b1": {
+    "name": "Majestickles",
+    "aliases": [
+      "Majestickles"
+    ],
+    "kill": 20,
+    "teamkill": 3,
+    "suicide": 4,
+    "death": 26
+  },
+  "1420edaf-c7a4-42d3-b585-7e69744c38de": {
+    "name": "BOKSonspotify",
+    "aliases": [
+      "BOKSonspotify"
+    ],
+    "kill": 17,
+    "teamkill": 0,
+    "suicide": 6,
+    "death": 38
+  },
+  "7053c4b8-bae8-4d44-80ab-9c7755ae4f11": {
+    "name": "CHOCCY-WARRIOR",
+    "aliases": [
+      "CHOCCY-WARRIOR"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 0
+  },
+  "dc996281-8531-4276-b733-b2aad62595bc": {
+    "name": "Meeko3409",
+    "aliases": [
+      "Meeko3409"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 2,
+    "death": 4
+  },
+  "44b21fc1-6771-4319-bae8-fa300d4a9785": {
+    "name": "MirnesK27",
+    "aliases": [
+      "MirnesK27"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 17
+  },
+  "6036e223-0ed7-4950-8449-57f5c0cf21a9": {
+    "name": "Andr\u00e1s a bitang",
+    "aliases": [
+      "Andr\u00e1s a bitang"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "0ded0c6c-4b83-4487-b03d-90e7e091be68": {
+    "name": "Mikse",
+    "aliases": [
+      "Mikse"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 8
+  },
+  "01ccee3d-32bb-45a2-9294-ce798a9a8773": {
+    "name": "gigidaniele4",
+    "aliases": [
+      "gigidaniele4"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "ca73b60d-0d4c-4741-b7dc-4def2c454fa0": {
+    "name": "Lazy",
+    "aliases": [
+      "Lazy"
+    ],
+    "kill": 11,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 5
+  },
+  "2a7ce1e7-2ddd-49a5-974f-297ef12e9416": {
+    "name": "Wonderboy",
+    "aliases": [
+      "Wonderboy"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "7a82c13e-5fad-43eb-9e7a-5e867c36b5ad": {
+    "name": "Anik",
+    "aliases": [
+      "Anik"
+    ],
+    "kill": 6,
+    "teamkill": 2,
+    "suicide": 2,
+    "death": 5
+  },
+  "8e0a6441-4f3c-4c21-8bb8-2a466accde13": {
+    "name": "verentr",
+    "aliases": [
+      "verentr"
+    ],
+    "kill": 8,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 9
+  },
+  "676203b2-f041-4fbe-9592-b698755e9271": {
+    "name": "Stymz__",
+    "aliases": [
+      "Stymz__"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "d566c607-7366-4afa-824f-f46c2aee145b": {
+    "name": "Iacedfeins",
+    "aliases": [
+      "Iacedfeins"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 1
+  },
+  "b4d377b6-4fe4-46b3-96cc-b9b1cfb6371f": {
+    "name": "RechtNett",
+    "aliases": [
+      "RechtNett"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "a0598ac1-d32f-4d8b-8d13-820f76bee9b5": {
+    "name": "LustigSchnappsi",
+    "aliases": [
+      "LustigSchnappsi"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 15
+  },
+  "1d074d23-e01f-49de-ae8e-5c69f3d20f9c": {
+    "name": "sirprize2004",
+    "aliases": [
+      "sirprize2004"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 4
+  },
+  "6b7c9f46-ed49-4d43-9fea-80f184ffc52f": {
+    "name": "EvoExor",
+    "aliases": [
+      "EvoExor"
+    ],
+    "kill": 2,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 10
+  },
+  "1acfa944-4b97-46a6-a572-0857ec46d948": {
+    "name": "Eisenerkrieger",
+    "aliases": [
+      "Eisenerkrieger"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "866970d0-e505-4bb7-b8cb-c8f98305f0c9": {
+    "name": "Chicken Butt",
+    "aliases": [
+      "Chicken Butt"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 3
+  },
+  "ce881adb-cfe1-42ca-95b7-bd0819f49b50": {
+    "name": "getmashedup",
+    "aliases": [
+      "getmashedup"
+    ],
+    "kill": 5,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 19
+  },
+  "714b9a6c-888c-4e44-882b-0ee365c62457": {
+    "name": "GoNnAcRy7823",
+    "aliases": [
+      "GoNnAcRy7823"
+    ],
+    "kill": 6,
+    "teamkill": 5,
+    "suicide": 5,
+    "death": 26
+  },
+  "5ef6b81f-f7ab-4bcd-86fb-2833fd5c45b5": {
+    "name": "bradymetcalfe123",
+    "aliases": [
+      "bradymetcalfe123"
+    ],
+    "kill": 13,
+    "teamkill": 1,
+    "suicide": 4,
+    "death": 14
+  },
+  "30d1b236-deac-43ca-9f7b-bf54e022ff50": {
+    "name": "LukeBey132",
+    "aliases": [
+      "LukeBey132"
+    ],
+    "kill": 4,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 10
+  },
+  "a5d59665-cfb6-4ed2-a2e0-75a72261c719": {
+    "name": "Nuke_Daddy453",
+    "aliases": [
+      "Nuke_Daddy453"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 4
+  },
+  "48f08aaa-1976-4ef9-a602-7202c6478b92": {
+    "name": "Cloud_LGND",
+    "aliases": [
+      "Cloud_LGND"
+    ],
+    "kill": 7,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 11
+  },
+  "a08206c8-9276-4b19-9e41-2d6aa1c37ce1": {
+    "name": "slof79",
+    "aliases": [
+      "slof79"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "12494b96-0459-428d-8988-e07d286d5761": {
+    "name": "RedWalker",
+    "aliases": [
+      "RedWalker"
+    ],
+    "kill": 7,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 5
+  },
+  "d2f11c88-0c4f-4d18-8100-b9e4b84b9eca": {
+    "name": "nookie",
+    "aliases": [
+      "nookie"
+    ],
+    "kill": 32,
+    "teamkill": 8,
+    "suicide": 2,
+    "death": 26
+  },
+  "af9e7ceb-4d7f-4abb-9c89-ead4b9f4df60": {
+    "name": "slasher9909",
+    "aliases": [
+      "slasher9909"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 2
+  },
+  "8e568d90-1db3-44eb-9eee-497ffda98af1": {
+    "name": "Leww_44",
+    "aliases": [
+      "Leww_44"
+    ],
+    "kill": 16,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 7
+  },
+  "149cb9c5-fce0-41bf-b51c-0fe636908772": {
+    "name": "UberVonBub",
+    "aliases": [
+      "UberVonBub"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 1
+  },
+  "6ff06c0f-2f65-4114-ae16-6552be3a473b": {
+    "name": "Heist",
+    "aliases": [
+      "Heist"
+    ],
+    "kill": 9,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "bd8c71b6-1fb2-4995-acfb-48b6e072fb3d": {
+    "name": "DonTy",
+    "aliases": [
+      "DonTy"
+    ],
+    "kill": 4,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 7
+  },
+  "086c558e-8592-4a39-bb64-b7acacbefe50": {
+    "name": "stuckncopper628",
+    "aliases": [
+      "stuckncopper628"
+    ],
+    "kill": 1,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 6
+  },
+  "9595db12-34bb-46cb-9bdb-fb41b9f16073": {
+    "name": "Memosnov",
+    "aliases": [
+      "Memosnov"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 3
+  },
+  "46d03b6c-77b6-404a-b47d-5d35b4c442d5": {
+    "name": "Michael",
+    "aliases": [
+      "Michael"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 2
+  },
+  "44194168-4cfb-472a-b531-a985fd18af97": {
+    "name": "scouseini",
+    "aliases": [
+      "scouseini"
+    ],
+    "kill": 30,
+    "teamkill": 3,
+    "suicide": 6,
+    "death": 20
+  },
+  "99134b80-4958-49f3-9c69-92ac0b669959": {
+    "name": "Paid Actor",
+    "aliases": [
+      "Paid Actor"
+    ],
+    "kill": 37,
+    "teamkill": 1,
+    "suicide": 2,
+    "death": 15
+  },
+  "b81bf88c-852e-4014-9ee5-5509fbf28f4e": {
+    "name": "drewpowell45",
+    "aliases": [
+      "drewpowell45"
+    ],
+    "kill": 4,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "431a3b78-2bcb-4cb5-910e-96f6aefa250c": {
+    "name": "DE JONG",
+    "aliases": [
+      "DE JONG"
+    ],
+    "kill": 62,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 17
+  },
+  "e911bc27-333a-4934-b711-6cbffdb082a7": {
+    "name": "Wilbert",
+    "aliases": [
+      "Wilbert"
+    ],
+    "kill": 5,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 8
+  },
+  "ade449ec-6773-432d-8a22-7fb7c12f1a7f": {
+    "name": "o_CoUnTD3sTinY_o",
+    "aliases": [
+      "o_CoUnTD3sTinY_o"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 8
+  },
+  "0fc39b58-3420-4b86-af7d-285b728dae20": {
+    "name": "bilis gelyte",
+    "aliases": [
+      "bilis gelyte"
+    ],
+    "kill": 8,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "521447ab-d46f-4a22-8911-63ca4e39d19f": {
+    "name": "AbenKim",
+    "aliases": [
+      "AbenKim"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "020dd8c6-59f3-45ad-b812-1217eece2d6c": {
+    "name": "Gus Fring",
+    "aliases": [
+      "Gus Fring"
+    ],
+    "kill": 8,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 5
+  },
+  "2866f248-5c03-44d6-bf8b-a55cf853a5e2": {
+    "name": "Your401kPlan",
+    "aliases": [
+      "Your401kPlan"
+    ],
+    "kill": 36,
+    "teamkill": 2,
+    "suicide": 0,
+    "death": 6
+  },
+  "b02a20d7-a0b5-4ed1-8ea7-edb0984b8fb8": {
+    "name": "AsylumDemon_TTV",
+    "aliases": [
+      "AsylumDemon_TTV"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 8
+  },
+  "abb3fe54-bab8-4a69-97c7-4f6a541b60f5": {
+    "name": "Litun4ik",
+    "aliases": [
+      "Litun4ik"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 5
+  },
+  "138a66cf-3461-44d5-bef6-f4abde342bc5": {
+    "name": "TiRaDor-DsR50",
+    "aliases": [
+      "TiRaDor-DsR50"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 5
+  },
+  "536826da-c70c-401d-8589-352f8527d0aa": {
+    "name": "T  W  O  N  G  I\u2122",
+    "aliases": [
+      "T  W  O  N  G  I\u2122"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 4
+  },
+  "00c74b1c-5783-4880-a3e6-6c31545f068e": {
+    "name": "shaunb03",
+    "aliases": [
+      "shaunb03"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "e6fdd8c8-2381-41b3-8148-b0a5be365a4c": {
+    "name": "RhinoKid91",
+    "aliases": [
+      "RhinoKid91"
+    ],
+    "kill": 5,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 5
+  },
+  "d7bcaa87-89bf-4caf-b0a5-f1eceb741389": {
+    "name": "phos",
+    "aliases": [
+      "phos"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 4
+  },
+  "0547d617-beb7-436d-89ee-db7d831f62f7": {
+    "name": "Monster-backe-01",
+    "aliases": [
+      "Monster-backe-01"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 3,
+    "death": 13
+  },
+  "90056a87-1265-4334-a840-8118f886a97c": {
+    "name": "YANKIE_AMERICANS",
+    "aliases": [
+      "YANKIE_AMERICANS"
+    ],
+    "kill": 1,
+    "teamkill": 3,
+    "suicide": 2,
+    "death": 5
+  },
+  "b52be632-9d98-4a26-a55a-6342012cc125": {
+    "name": "FrankTheTank",
+    "aliases": [
+      "FrankTheTank"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 3
+  },
+  "6b290cc8-be15-417e-896b-d1b699ddb8d4": {
+    "name": "MeinWein",
+    "aliases": [
+      "MeinWein"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 1
+  },
+  "63cf7f48-9fbb-4660-8dec-21ccb8790472": {
+    "name": "OOMrPoonOO",
+    "aliases": [
+      "OOMrPoonOO"
+    ],
+    "kill": 20,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 14
+  },
+  "5db85244-5b60-4403-b352-a327ea60a960": {
+    "name": "Loslobo9",
+    "aliases": [
+      "Loslobo9"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 12
+  },
+  "a60d3e58-f9cc-4de9-8027-867bc741f012": {
+    "name": "Ryan-W-86",
+    "aliases": [
+      "Ryan-W-86"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 2
+  },
+  "a3f850cc-79a9-4d47-9952-52fa2ed086fb": {
+    "name": "VILLASUKKA0",
+    "aliases": [
+      "VILLASUKKA0"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 6
+  },
+  "37cee9f5-b93a-4959-8a7b-e9f2e818be8c": {
+    "name": "Red",
+    "aliases": [
+      "Red"
+    ],
+    "kill": 32,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 6
+  },
+  "f7af24ae-ac23-4b52-84a2-dec50d69d11e": {
+    "name": "TheCrippled120",
+    "aliases": [
+      "TheCrippled120"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 15
+  },
+  "6ce9c590-6fe9-46a8-8b59-fa426ed4a5a4": {
+    "name": "Rad_0689",
+    "aliases": [
+      "Rad_0689"
+    ],
+    "kill": 6,
+    "teamkill": 0,
+    "suicide": 10,
+    "death": 18
+  },
+  "f1a3c909-afd0-46ac-9976-8480f345e9b7": {
+    "name": "Ignaas",
+    "aliases": [
+      "Ignaas"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 6
+  },
+  "57628a50-3094-4933-bcbf-015eb5afa64d": {
+    "name": "kriskev11",
+    "aliases": [
+      "kriskev11"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 8
+  },
+  "04834f52-5cf6-4bba-9556-d1614e7021fb": {
+    "name": "Etro910",
+    "aliases": [
+      "Etro910"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 3
+  },
+  "e46d9e5e-a8c5-41ca-bdbf-2dc2c16868c6": {
+    "name": "cheggs",
+    "aliases": [
+      "cheggs"
+    ],
+    "kill": 4,
+    "teamkill": 1,
+    "suicide": 5,
+    "death": 11
+  },
+  "0f88a29c-14f4-49ed-896a-23199b8818e4": {
+    "name": "CartsEST",
+    "aliases": [
+      "CartsEST"
+    ],
+    "kill": 9,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 3
+  },
+  "8d5070f5-91fe-462b-a5cf-2ce2e17196f1": {
+    "name": "Chellie_1830",
+    "aliases": [
+      "Chellie_1830"
+    ],
+    "kill": 7,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 3
+  },
+  "4d9678ae-b5f6-49d8-b396-3329d751868c": {
+    "name": "dino86zg",
+    "aliases": [
+      "dino86zg"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 15
+  },
+  "f42ca0ef-ff07-4935-af0a-5bd2b89d4915": {
+    "name": "Smoke Bending Frog Wizard",
+    "aliases": [
+      "Smoke Bending Frog Wizard"
+    ],
+    "kill": 5,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "0fa5fc14-1030-4772-8273-8ef4b889555f": {
+    "name": "Matthew 10:34",
+    "aliases": [
+      "Matthew 10:34"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "7b0e2e58-9391-48f3-a570-5556c4c1f171": {
+    "name": "Alatar",
+    "aliases": [
+      "Alatar"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "d85e8902-0ec1-436b-9138-61e8a119faf8": {
+    "name": "Hell---Walker---",
+    "aliases": [
+      "Hell---Walker---"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 7
+  },
+  "454dc3f5-1331-4b32-860b-efcc13ab4a34": {
+    "name": "The Dwarf!",
+    "aliases": [
+      "The Dwarf!"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 8
+  },
+  "f6d34c6f-6556-450e-a66c-2e74491ab7cc": {
+    "name": "k_allen456",
+    "aliases": [
+      "k_allen456"
+    ],
+    "kill": 5,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 7
+  },
+  "2f632607-5eba-4afd-afd4-6cb8f97d50cb": {
+    "name": "LikeZzIamLegend",
+    "aliases": [
+      "LikeZzIamLegend"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 3
+  },
+  "079a8505-c104-43b2-8482-d2eb6427ed93": {
+    "name": "Kresnik",
+    "aliases": [
+      "Kresnik"
+    ],
+    "kill": 2,
+    "teamkill": 1,
+    "suicide": 4,
+    "death": 26
+  },
+  "1c6351ea-12f9-4968-9e40-ddcf7ac0c020": {
+    "name": "WolfWarrior656",
+    "aliases": [
+      "WolfWarrior656"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 2
+  },
+  "663fafc6-5234-48e0-ab45-db3f0cbb947e": {
+    "name": "blizZar",
+    "aliases": [
+      "blizZar"
+    ],
+    "kill": 23,
+    "teamkill": 3,
+    "suicide": 2,
+    "death": 27
+  },
+  "ee2738f6-633d-4310-84de-d7d86d3dfe90": {
+    "name": "kill_jose-420",
+    "aliases": [
+      "kill_jose-420"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "1f5adf10-2905-4e22-a620-ef783e3bdc2d": {
+    "name": "ABritishWitcher",
+    "aliases": [
+      "ABritishWitcher"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 12
+  },
+  "dc9193e7-380c-473b-b8a9-bcfe3dfbebff": {
+    "name": "Binary",
+    "aliases": [
+      "Binary"
+    ],
+    "kill": 23,
+    "teamkill": 0,
+    "suicide": 3,
+    "death": 17
+  },
+  "1c2ba9b1-1bec-4264-afcd-cfd75de60a52": {
+    "name": "BO SINN",
+    "aliases": [
+      "BO SINN"
+    ],
+    "kill": 19,
+    "teamkill": 3,
+    "suicide": 1,
+    "death": 16
+  },
+  "fd9e4f15-c17d-4126-b879-9e9bb5a4e3a4": {
+    "name": "vEckbert",
+    "aliases": [
+      "vEckbert"
+    ],
+    "kill": 10,
+    "teamkill": 0,
+    "suicide": 3,
+    "death": 13
+  },
+  "a8df38cd-08d9-4bea-a83e-30f29048c743": {
+    "name": "reggis78",
+    "aliases": [
+      "reggis78"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 6
+  },
+  "c8594c58-628d-4178-95f5-b038179252e0": {
+    "name": "Fnixer",
+    "aliases": [
+      "Fnixer"
+    ],
+    "kill": 17,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 10
+  },
+  "ed465e85-e320-4a46-9a1f-4948a215bb28": {
+    "name": "Red Skuller",
+    "aliases": [
+      "Red Skuller"
+    ],
+    "kill": 14,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 11
+  },
+  "a9523721-caa7-4ea6-96b2-0c4b988e0325": {
+    "name": "Naylig",
+    "aliases": [
+      "Naylig"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 5
+  },
+  "a5a77d97-c390-4a3a-a2bb-30e248d4b02d": {
+    "name": "domdomm",
+    "aliases": [
+      "domdomm"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "05f5e7ba-0d4a-4348-b5cd-fd2c24b65cdc": {
+    "name": "XXXTENTACION",
+    "aliases": [
+      "XXXTENTACION"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 3
+  },
+  "9765562b-4e93-43e1-8ba1-b1fe56d8716c": {
+    "name": "vGoonette",
+    "aliases": [
+      "vGoonette"
+    ],
+    "kill": 9,
+    "teamkill": 3,
+    "suicide": 4,
+    "death": 11
+  },
+  "bfe06c40-b660-4a7d-9046-8be3d6a4780e": {
+    "name": "IXI_Davie_IXI",
+    "aliases": [
+      "IXI_Davie_IXI"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 8
+  },
+  "ed28ab38-b6ee-4869-a186-ce996c4d5c50": {
+    "name": "old shatterhand",
+    "aliases": [
+      "old shatterhand"
+    ],
+    "kill": 14,
+    "teamkill": 1,
+    "suicide": 2,
+    "death": 18
+  },
+  "1d4c3b97-49d1-4de0-946d-a2b0b64b2b26": {
+    "name": "Stolle",
+    "aliases": [
+      "Stolle"
+    ],
+    "kill": 11,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 13
+  },
+  "4926da1f-ad77-406c-af6b-9f78175d3b75": {
+    "name": "Unborn_Valkyrie7",
+    "aliases": [
+      "Unborn_Valkyrie7"
+    ],
+    "kill": 13,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 12
+  },
+  "04493d67-cb5a-4b50-a767-910bf28d696e": {
+    "name": "I Zesk45 I",
+    "aliases": [
+      "I Zesk45 I"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "3d204328-2922-440e-afe8-f2f45b518320": {
+    "name": "UBER-NANO-SOLDIER",
+    "aliases": [
+      "UBER-NANO-SOLDIER"
+    ],
+    "kill": 7,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 4
+  },
+  "45437a92-9a06-401a-b050-851ae6be810a": {
+    "name": "Rubik482",
+    "aliases": [
+      "Rubik482"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "5b78103c-90ed-43d8-b95a-d36777187576": {
+    "name": "CBK-Gavilan024",
+    "aliases": [
+      "CBK-Gavilan024"
+    ],
+    "kill": 8,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 14
+  },
+  "c1b297af-b276-4f46-a9df-a88b5090e651": {
+    "name": "Fade ops3104",
+    "aliases": [
+      "Fade ops3104"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 1
+  },
+  "0ebc8bde-0b19-462b-bdef-ce240232ef98": {
+    "name": "DefiantSmarty01",
+    "aliases": [
+      "DefiantSmarty01"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 3,
+    "death": 9
+  },
+  "f19f43a5-e378-401b-9bd0-fa34ab84b5ae": {
+    "name": "DopePan",
+    "aliases": [
+      "DopePan"
+    ],
+    "kill": 4,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 14
+  },
+  "85c4502b-07a8-456e-a658-f848e0072fbd": {
+    "name": "Karlsson_3321",
+    "aliases": [
+      "Karlsson_3321"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 6
+  },
+  "79d3aabf-6246-4b88-b99c-cc601824dd78": {
+    "name": "XxTheBigHostxX",
+    "aliases": [
+      "XxTheBigHostxX"
+    ],
+    "kill": 18,
+    "teamkill": 1,
+    "suicide": 12,
+    "death": 38
+  },
+  "5ec9fcac-3148-45f3-8fb8-5bf56fd2bc29": {
+    "name": "Arturro2000",
+    "aliases": [
+      "Arturro2000"
+    ],
+    "kill": 11,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 12
+  },
+  "b4a83685-bc7f-4230-9fbf-be766ca204ca": {
+    "name": "Jiidex",
+    "aliases": [
+      "Jiidex"
+    ],
+    "kill": 10,
+    "teamkill": 1,
+    "suicide": 2,
+    "death": 8
+  },
+  "b32b475e-7001-4cf9-a653-fc11ceca3c87": {
+    "name": "timskovich_",
+    "aliases": [
+      "timskovich_"
+    ],
+    "kill": 7,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 17
+  },
+  "dfa29c1d-0f83-4f8d-a736-4126ceb51c8e": {
+    "name": "bailey_spoon",
+    "aliases": [
+      "bailey_spoon"
+    ],
+    "kill": 4,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 3
+  },
+  "8ce9e8cf-d226-4403-a804-c6c8c2966c79": {
+    "name": "temp-722264",
+    "aliases": [
+      "temp-722264"
+    ],
+    "kill": 2,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 2
+  },
+  "40a1f039-0a9e-4ed9-aa46-0ed6abed82b7": {
+    "name": "Sir Hendriks Voorhuid",
+    "aliases": [
+      "Sir Hendriks Voorhuid"
+    ],
+    "kill": 16,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 5
+  },
+  "60453c6b-a22a-4e94-b404-4bf3de9ca341": {
+    "name": "omer-t46",
+    "aliases": [
+      "omer-t46"
+    ],
+    "kill": 7,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 5
+  },
+  "68b91d7f-d54c-4ddc-92bb-966894f68c71": {
+    "name": "RevoiMIBIHA",
+    "aliases": [
+      "RevoiMIBIHA"
+    ],
+    "kill": 5,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 13
+  },
+  "6f100aeb-4cfc-4a31-9d23-0ccd9dcf3a13": {
+    "name": "SwollenHelmet",
+    "aliases": [
+      "SwollenHelmet"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 2
+  },
+  "8c3355f5-5c9d-4bbd-a7f9-8c424448c3dd": {
+    "name": "fabiancpt",
+    "aliases": [
+      "fabiancpt"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "f7a627b7-d4fb-4bd4-be07-deb110716680": {
+    "name": "piggy.420",
+    "aliases": [
+      "piggy.420"
+    ],
+    "kill": 1,
+    "teamkill": 4,
+    "suicide": 1,
+    "death": 16
+  },
+  "b629f399-ab5a-420d-9bcb-1623f400c8df": {
+    "name": "geld_anung",
+    "aliases": [
+      "geld_anung"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 1
+  },
+  "9ced8c72-760c-4253-807f-05147f35abf9": {
+    "name": "Ryseon",
+    "aliases": [
+      "Ryseon"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 5
+  },
+  "146b87c2-21aa-4b08-8994-88b7337b410b": {
+    "name": "slowdry013",
+    "aliases": [
+      "slowdry013"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 1
+  },
+  "efffa350-ae7b-4d86-bf70-0f1c11113a68": {
+    "name": "coolguyaaron123",
+    "aliases": [
+      "coolguyaaron123"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 7
+  },
+  "b68eca21-f322-4fe8-8c64-39656faa937f": {
+    "name": "kruchini228",
+    "aliases": [
+      "kruchini228"
+    ],
+    "kill": 6,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 13
+  },
+  "01704b8b-6a67-483f-add8-428439df96ff": {
+    "name": "SOTL-9INE",
+    "aliases": [
+      "SOTL-9INE"
+    ],
+    "kill": 4,
+    "teamkill": 1,
+    "suicide": 12,
+    "death": 21
+  },
+  "b11c1e7d-f2b0-4eb7-886a-a39bd87a4287": {
+    "name": "jimclerihan",
+    "aliases": [
+      "jimclerihan"
+    ],
+    "kill": 0,
+    "teamkill": 12,
+    "suicide": 3,
+    "death": 19
+  },
+  "5a4552c7-c582-4982-9ca9-6b9af03b570a": {
+    "name": "Raptor_calcis72",
+    "aliases": [
+      "Raptor_calcis72"
+    ],
+    "kill": 11,
+    "teamkill": 6,
+    "suicide": 3,
+    "death": 24
+  },
+  "0215de34-3a0b-431c-9553-339c28a96cec": {
+    "name": "HappyPanda",
+    "aliases": [
+      "HappyPanda"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 3
+  },
+  "34fd10e9-fccb-43eb-802c-892b4d359792": {
+    "name": "pellekingen07",
+    "aliases": [
+      "pellekingen07"
+    ],
+    "kill": 3,
+    "teamkill": 3,
+    "suicide": 4,
+    "death": 13
+  },
+  "299093ce-4eb0-466b-a269-c520c516ee2b": {
+    "name": "Dovakhiin",
+    "aliases": [
+      "Dovakhiin"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 1
+  },
+  "49cca14f-4030-4ee0-b11e-e97ae27a6def": {
+    "name": "BlackBartOpZ",
+    "aliases": [
+      "BlackBartOpZ"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 2
+  },
+  "7b585f48-272a-4f72-8ace-7fea609f8f74": {
+    "name": "BOBabove_",
+    "aliases": [
+      "BOBabove_"
+    ],
+    "kill": 4,
+    "teamkill": 2,
+    "suicide": 0,
+    "death": 8
+  },
+  "c034068e-5183-40fa-8d08-60fef19a61af": {
+    "name": "Unreal_DxrkFN",
+    "aliases": [
+      "Unreal_DxrkFN"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 5,
+    "death": 16
+  },
+  "afd63220-5f91-4ac9-a16f-e800e0efbb45": {
+    "name": "TARKHON",
+    "aliases": [
+      "TARKHON"
+    ],
+    "kill": 5,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 14
+  },
+  "8e7e552a-75a9-4aa0-b160-f354860ebad6": {
+    "name": "Xjiks_FR",
+    "aliases": [
+      "Xjiks_FR"
+    ],
+    "kill": 22,
+    "teamkill": 1,
+    "suicide": 2,
+    "death": 15
+  },
+  "ecad3ea5-2c5e-4f28-a91a-b042c9fb6175": {
+    "name": "R-Yan",
+    "aliases": [
+      "R-Yan"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 3
+  },
+  "4fdc4266-2ba4-412c-b37b-7be2b720b2e6": {
+    "name": "Lemon The Potatoe",
+    "aliases": [
+      "Lemon The Potatoe"
+    ],
+    "kill": 20,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 16
+  },
+  "f2e635bf-8d5c-4fef-be4c-ccce52145ad4": {
+    "name": "Peiper",
+    "aliases": [
+      "Peiper"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 1
+  },
+  "7ed7ce36-cad3-4225-baa2-e46a8cd3ecd4": {
+    "name": "Cupra",
+    "aliases": [
+      "Cupra"
+    ],
+    "kill": 10,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 9
+  },
+  "e289ab7f-fa9a-431e-9c3d-0f8dea7b3f4e": {
+    "name": "Mason Brooklynn",
+    "aliases": [
+      "Mason Brooklynn"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 3
+  },
+  "c5330444-5967-4ab5-973e-6da4f889b4a0": {
+    "name": "Ragnarik",
+    "aliases": [
+      "Ragnarik"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 8
+  },
+  "63ef6f9b-f31f-459e-ad85-461a3aab8894": {
+    "name": "[RRT]Yogi",
+    "aliases": [
+      "[RRT]Yogi"
+    ],
+    "kill": 29,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 9
+  },
+  "250253b8-9b5f-405c-9e3f-a483c3071268": {
+    "name": "uJarSkillz",
+    "aliases": [
+      "uJarSkillz"
+    ],
+    "kill": 13,
+    "teamkill": 3,
+    "suicide": 7,
+    "death": 16
+  },
+  "ce76d6c7-67d1-474d-ab8b-b12c627f5e0c": {
+    "name": "kristacheee",
+    "aliases": [
+      "kristacheee"
+    ],
+    "kill": 1,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 1
+  },
+  "9d3aef2e-0e9c-4cb6-a2db-f89d73f35657": {
+    "name": "Mytelion",
+    "aliases": [
+      "Mytelion"
+    ],
+    "kill": 10,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 12
+  },
+  "27761b6d-d6cb-451b-b5b6-4f949e342284": {
+    "name": "FrolleJR",
+    "aliases": [
+      "FrolleJR"
+    ],
+    "kill": 9,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 11
+  },
+  "1eaab2a8-9b0e-4dc4-9862-900023bbbe0b": {
+    "name": "tvuj_dedo69",
+    "aliases": [
+      "tvuj_dedo69"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 4
+  },
+  "130dc622-afe2-418d-96ae-0d92060e74c5": {
+    "name": "\u0412\u041e\u0420\u041e\u0411\u0415\u0419",
+    "aliases": [
+      "\u0412\u041e\u0420\u041e\u0411\u0415\u0419"
+    ],
+    "kill": 22,
+    "teamkill": 2,
+    "suicide": 3,
+    "death": 19
+  },
+  "58a9dab5-9f98-4664-b307-05d811f80d29": {
+    "name": "Wulfric",
+    "aliases": [
+      "Wulfric"
+    ],
+    "kill": 2,
+    "teamkill": 4,
+    "suicide": 1,
+    "death": 5
+  },
+  "3a29e71d-9526-4941-90ed-f70ff0d3c4e4": {
+    "name": "DODO040605",
+    "aliases": [
+      "DODO040605"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 5
+  },
+  "ae738c13-615c-4e18-bb6f-0aad211f178f": {
+    "name": "jovanluka23",
+    "aliases": [
+      "jovanluka23"
+    ],
+    "kill": 8,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 17
+  },
+  "2b89518e-66ba-4481-a804-22f34f2ecfb9": {
+    "name": "Renzotje023",
+    "aliases": [
+      "Renzotje023"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 5
+  },
+  "de88e6f5-2211-4dd4-b110-4227db54d285": {
+    "name": "Your Mum",
+    "aliases": [
+      "Your Mum"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "787e44f8-c0b8-475b-9157-82411bfbd8ca": {
+    "name": "Praying to the Sky",
+    "aliases": [
+      "Praying to the Sky"
+    ],
+    "kill": 1,
+    "teamkill": 5,
+    "suicide": 1,
+    "death": 7
+  },
+  "777a1758-6e9b-42f2-bafb-3ad3c62bbddd": {
+    "name": "lubanoo",
+    "aliases": [
+      "lubanoo"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 4
+  },
+  "537a9169-df48-4a86-9168-2f239e2bd7c3": {
+    "name": "Cruddytoast89",
+    "aliases": [
+      "Cruddytoast89"
+    ],
+    "kill": 0,
+    "teamkill": 14,
+    "suicide": 1,
+    "death": 21
+  },
+  "70916ad5-a7bd-4133-a992-3c876a7ca62e": {
+    "name": "Tengel",
+    "aliases": [
+      "Tengel"
+    ],
+    "kill": 4,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 3
+  },
+  "3357869b-0e05-4ba7-8eb4-8202420f7dfd": {
+    "name": "Borny",
+    "aliases": [
+      "Borny"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "67248c29-693b-41bd-b34d-9d488b4c4565": {
+    "name": "Fenrixen",
+    "aliases": [
+      "Fenrixen"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "3eba0713-110c-4479-86ed-2e0912c5a191": {
+    "name": "xXSimple_MattXx",
+    "aliases": [
+      "xXSimple_MattXx"
+    ],
+    "kill": 7,
+    "teamkill": 2,
+    "suicide": 0,
+    "death": 17
+  },
+  "4fb84c03-6154-48bc-9508-4a1bae112d04": {
+    "name": "Souljajew",
+    "aliases": [
+      "Souljajew"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 17
+  },
+  "3d9cff5f-035f-461a-a397-867e91ece7de": {
+    "name": "GAMING WORLD193",
+    "aliases": [
+      "GAMING WORLD193"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 5
+  },
+  "83109c89-a95c-4eae-b406-e105101c9863": {
+    "name": "SoupierFlunky41",
+    "aliases": [
+      "SoupierFlunky41"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 8
+  },
+  "97836ae8-a6b1-48a9-a356-db1ca56692e4": {
+    "name": "F-uckBackwoods",
+    "aliases": [
+      "F-uckBackwoods"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 3
+  },
+  "5baa064a-b292-4c2a-bf05-d7c7c8b97ebe": {
+    "name": "wembleyy213",
+    "aliases": [
+      "wembleyy213"
+    ],
+    "kill": 8,
+    "teamkill": 0,
+    "suicide": 3,
+    "death": 8
+  },
+  "d75fbc74-d90f-4da3-9d83-bc91304fdf3b": {
+    "name": "viking",
+    "aliases": [
+      "viking"
+    ],
+    "kill": 4,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 6
+  },
+  "0182af6b-764c-4eb8-9631-23d937d4f8cc": {
+    "name": "off_da_zaza9",
+    "aliases": [
+      "off_da_zaza9"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 3,
+    "death": 6
+  },
+  "d01fcfc0-10b8-4e18-8862-f8eacc4f2f18": {
+    "name": "Lenschau",
+    "aliases": [
+      "Lenschau"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "8e30c665-a9f5-421b-baf8-e0788482d324": {
+    "name": "Dovjal7",
+    "aliases": [
+      "Dovjal7"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 5
+  },
+  "ce44489f-eb3e-44dc-a0ed-4f0f796ee385": {
+    "name": "Macharius MD",
+    "aliases": [
+      "Macharius MD"
+    ],
+    "kill": 4,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 11
+  },
+  "2dc9fa2d-378e-4c87-ae8a-9b5c2a01334a": {
+    "name": "Chelsor3008",
+    "aliases": [
+      "Chelsor3008"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "818d43f0-d2f5-4152-a530-c46770580ef6": {
+    "name": "Zimmie",
+    "aliases": [
+      "Zimmie"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 4
+  },
+  "09e06bc5-1845-4e6f-b044-711b0d52f9b7": {
+    "name": "tax evader",
+    "aliases": [
+      "tax evader"
+    ],
+    "kill": 9,
+    "teamkill": 0,
+    "suicide": 3,
+    "death": 10
+  },
+  "c92445d8-fbb9-4447-96ab-5f25d9006409": {
+    "name": "Tombow9855",
+    "aliases": [
+      "Tombow9855"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 2,
+    "death": 9
+  },
+  "660097fa-8186-4b25-aade-5245010dea46": {
+    "name": "Trixty",
+    "aliases": [
+      "Trixty"
+    ],
+    "kill": 0,
+    "teamkill": 2,
+    "suicide": 1,
+    "death": 1
+  },
+  "9dcd19e5-9bf9-42b8-9a62-5090c259fe82": {
+    "name": "Mort",
+    "aliases": [
+      "Mort"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "6c50ed39-2ea9-47b6-a3f4-7ac2857a6485": {
+    "name": "Diaz_35_marines",
+    "aliases": [
+      "Diaz_35_marines"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "c43ca507-3665-4ec5-bf5c-672184fe3a63": {
+    "name": "DG",
+    "aliases": [
+      "DG"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 4
+  },
+  "96e969bd-52d7-4587-af01-509cd1b82152": {
+    "name": "SvDvorak",
+    "aliases": [
+      "SvDvorak"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 3
+  },
+  "6ecd9487-0f42-4093-b67d-546541989c5e": {
+    "name": "TheChunder06",
+    "aliases": [
+      "TheChunder06"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "559bf1e2-9ed3-43b9-8d68-a5bf9e9101cd": {
+    "name": "keithcon-_-",
+    "aliases": [
+      "keithcon-_-"
+    ],
+    "kill": 1,
+    "teamkill": 7,
+    "suicide": 1,
+    "death": 13
+  },
+  "e0eac939-1d99-42ed-a183-e19b9589994d": {
+    "name": "ComeRag",
+    "aliases": [
+      "ComeRag"
+    ],
+    "kill": 8,
+    "teamkill": 2,
+    "suicide": 3,
+    "death": 7
+  },
+  "0a18195e-df06-4585-bdd4-313b64a2f79e": {
+    "name": "Orange_Killer231",
+    "aliases": [
+      "Orange_Killer231"
+    ],
+    "kill": 0,
+    "teamkill": 5,
+    "suicide": 0,
+    "death": 1
+  },
+  "36c07de3-17b4-4684-8e31-3aa0dcecb6af": {
+    "name": "komok",
+    "aliases": [
+      "komok"
+    ],
+    "kill": 9,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 15
+  },
+  "5eaed324-e8d0-4496-95e2-a69310589109": {
+    "name": "BADHyper45122",
+    "aliases": [
+      "BADHyper45122"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 9
+  },
+  "d6ad2fbc-ac97-4b09-a636-8ec5cf5b5794": {
+    "name": "Wayne Juckts",
+    "aliases": [
+      "Wayne Juckts"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 3
+  },
+  "9f042da0-6575-4c73-adb4-71bf5cdb2041": {
+    "name": "fishlicker",
+    "aliases": [
+      "fishlicker"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "b0b219b1-c585-4048-8f72-545722d222e0": {
+    "name": "lesie1110",
+    "aliases": [
+      "lesie1110"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 3,
+    "death": 9
+  },
+  "42a0434b-8332-4d39-b7bb-26213eb723ea": {
+    "name": "JEROME0248",
+    "aliases": [
+      "JEROME0248"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 1
+  },
+  "ea2293b8-c7b7-400f-b026-c470ec1bd539": {
+    "name": "^9Eremito",
+    "aliases": [
+      "^9Eremito"
+    ],
+    "kill": 9,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 19
+  },
+  "98f3f4f7-4e29-4f5b-891d-03cbad20fb39": {
+    "name": "HourlyYapper91",
+    "aliases": [
+      "HourlyYapper91"
+    ],
+    "kill": 0,
+    "teamkill": 9,
+    "suicide": 0,
+    "death": 6
+  },
+  "e0d7da14-e659-4c0c-b29b-672cbe0a9ab8": {
+    "name": "XBOCToFF",
+    "aliases": [
+      "XBOCToFF"
+    ],
+    "kill": 8,
+    "teamkill": 2,
+    "suicide": 1,
+    "death": 7
+  },
+  "acb63f2b-4d89-4335-a3c8-990bbb3e3333": {
+    "name": "Lazar2075",
+    "aliases": [
+      "Lazar2075"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "b3ce683b-7b24-4eae-b873-6739bcdc539a": {
+    "name": "cuervo_malo567",
+    "aliases": [
+      "cuervo_malo567"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 3
+  },
+  "db8ef90a-e680-42e7-97de-ab89a07d4a57": {
+    "name": "Typo_the_Errorist",
+    "aliases": [
+      "Typo_the_Errorist"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 4
+  },
+  "2e57af89-2431-416b-b4dd-cd16a7d0ddaa": {
+    "name": "Marv",
+    "aliases": [
+      "Marv"
+    ],
+    "kill": 7,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 5
+  },
+  "32d76804-7f26-41ed-9cb4-d180b3861064": {
+    "name": "marshmanguy",
+    "aliases": [
+      "marshmanguy"
+    ],
+    "kill": 6,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "7a3b7a00-c8eb-4700-9e72-29e32195d4c9": {
+    "name": "BlitZz",
+    "aliases": [
+      "BlitZz"
+    ],
+    "kill": 14,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 9
+  },
+  "a323aac7-2f3b-4cd5-89eb-12c0932b8c4c": {
+    "name": "cayoutahabhab",
+    "aliases": [
+      "cayoutahabhab"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "560e253a-6ac8-4c45-99ad-a3d07fa0bf02": {
+    "name": "LogsbeZt_-",
+    "aliases": [
+      "LogsbeZt_-"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "296c8123-4fcf-4541-9236-9683d613f9b9": {
+    "name": "R3ALIST_24",
+    "aliases": [
+      "R3ALIST_24"
+    ],
+    "kill": 4,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 5
+  },
+  "c06346c6-92c7-4816-a96c-e9a7d208d59a": {
+    "name": "Mandre",
+    "aliases": [
+      "Mandre"
+    ],
+    "kill": 17,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 4
+  },
+  "1f3a74e1-cd56-4ca9-b901-df2195cc8a05": {
+    "name": "mr_tuntematon",
+    "aliases": [
+      "mr_tuntematon"
+    ],
+    "kill": 1,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 2
+  },
+  "0fc6d73e-e1d8-46ee-85e8-3ada518b4e2c": {
+    "name": "Malos9668",
+    "aliases": [
+      "Malos9668"
+    ],
+    "kill": 4,
+    "teamkill": 2,
+    "suicide": 2,
+    "death": 17
+  },
+  "a18aed27-bb99-43f5-bb3e-ddadbad7f7b3": {
+    "name": "Ghxst",
+    "aliases": [
+      "Ghxst"
+    ],
+    "kill": 8,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 15
+  },
+  "24334523-89f3-4945-81df-5264191e80aa": {
+    "name": "hash-crown",
+    "aliases": [
+      "hash-crown"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 5
+  },
+  "c2524bfd-5bd6-4f70-baf6-4b2989624aa3": {
+    "name": "GyzmoLemon33",
+    "aliases": [
+      "GyzmoLemon33"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 3
+  },
+  "f1920118-cdf2-4725-b786-05a78684b14c": {
+    "name": "Raz_hz",
+    "aliases": [
+      "Raz_hz"
+    ],
+    "kill": 6,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 6
+  },
+  "44e3c61c-709d-4fd7-aa0e-5c92023f2343": {
+    "name": "GrindElite_39",
+    "aliases": [
+      "GrindElite_39"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "d5347158-3487-43dd-9682-e4553011af8c": {
+    "name": "MRdamp-",
+    "aliases": [
+      "MRdamp-"
+    ],
+    "kill": 5,
+    "teamkill": 2,
+    "suicide": 1,
+    "death": 17
+  },
+  "6267fa48-5916-48e3-999a-73a04f91db1f": {
+    "name": "Marius1711",
+    "aliases": [
+      "Marius1711"
+    ],
+    "kill": 5,
+    "teamkill": 3,
+    "suicide": 2,
+    "death": 10
+  },
+  "505cb760-f31b-4f70-8ce0-d701c8b5c05a": {
+    "name": "Trickshot101225",
+    "aliases": [
+      "Trickshot101225"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 3
+  },
+  "b4da35b5-9e74-4250-a776-222ebe342137": {
+    "name": "THCxLSD69",
+    "aliases": [
+      "THCxLSD69"
+    ],
+    "kill": 7,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 9
+  },
+  "6671cdc0-ae1f-4cd6-be4c-d4acb4ac445a": {
+    "name": "Noob1253",
+    "aliases": [
+      "Noob1253"
+    ],
+    "kill": 2,
+    "teamkill": 2,
+    "suicide": 1,
+    "death": 7
+  },
+  "75a7692c-db16-4899-863e-f3354a814a0d": {
+    "name": "Sr_Taveira89",
+    "aliases": [
+      "Sr_Taveira89"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 6
+  },
+  "d4556386-f003-4457-9ecd-ef7d2609d9d7": {
+    "name": "Spliff",
+    "aliases": [
+      "Spliff"
+    ],
+    "kill": 1,
+    "teamkill": 2,
+    "suicide": 1,
+    "death": 7
+  },
+  "a2d4d5c7-56f5-47c8-8870-f04dc7d8b51b": {
+    "name": "GoblinMEAT69",
+    "aliases": [
+      "GoblinMEAT69"
+    ],
+    "kill": 2,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 10
+  },
+  "a91119b7-9070-42ba-a8e3-885a75aa7545": {
+    "name": "\u4e42Alphavite366\u4e42",
+    "aliases": [
+      "\u4e42Alphavite366\u4e42"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 2
+  },
+  "39103f08-c9c6-4481-bca5-858c71a547ee": {
+    "name": "SurridgeUK",
+    "aliases": [
+      "SurridgeUK"
+    ],
+    "kill": 3,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 4
+  },
+  "b5567ad4-e465-492a-b39b-bdd218b9a53a": {
+    "name": "X_TAVOLINO_X",
+    "aliases": [
+      "X_TAVOLINO_X"
+    ],
+    "kill": 7,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 7
+  },
+  "6c8f651d-d190-4d80-a629-019d7d83677c": {
+    "name": "OpticTooth72089",
+    "aliases": [
+      "OpticTooth72089"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 3
+  },
+  "27c9df0e-8b38-408e-87bd-dfb8ba009c8c": {
+    "name": "RoseAnne4242",
+    "aliases": [
+      "RoseAnne4242"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 12
+  },
+  "fa0d4949-2cdf-4e0e-ab3e-f775ac5c70a0": {
+    "name": "XanaS",
+    "aliases": [
+      "XanaS"
+    ],
+    "kill": 6,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 15
+  },
+  "2397386e-c551-4819-ba5f-a964a427129e": {
+    "name": "chupapi",
+    "aliases": [
+      "chupapi"
+    ],
+    "kill": 9,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 5
+  },
+  "14506afb-86e3-4c3a-95e6-e04433f2bf6b": {
+    "name": "CSGustav",
+    "aliases": [
+      "CSGustav"
+    ],
+    "kill": 6,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 6
+  },
+  "7f4bc4e3-ce1d-48fc-a310-1a60c83e04b3": {
+    "name": "Matxaca",
+    "aliases": [
+      "Matxaca"
+    ],
+    "kill": 0,
+    "teamkill": 2,
+    "suicide": 0,
+    "death": 0
+  },
+  "7da4ff3a-dd6e-4884-9dae-03c44a9cbd85": {
+    "name": "Matt",
+    "aliases": [
+      "Matt"
+    ],
+    "kill": 8,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 2
+  },
+  "b683ddd5-63e7-4823-affa-2235c7c82f67": {
+    "name": "Bussylint76",
+    "aliases": [
+      "Bussylint76"
+    ],
+    "kill": 7,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 6
+  },
+  "2488a272-29e0-4e34-b9e3-05a5584d189b": {
+    "name": "xEllis1",
+    "aliases": [
+      "xEllis1"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 3
+  },
+  "5831ab3c-eaa4-4268-a62d-cddc14dcc128": {
+    "name": "monsterderechte",
+    "aliases": [
+      "monsterderechte"
+    ],
+    "kill": 5,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 9
+  },
+  "b197bcf0-7158-41da-a9f7-f2b6ab46c9f5": {
+    "name": "A_TIPPER_88",
+    "aliases": [
+      "A_TIPPER_88"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 4
+  },
+  "ad3b0491-4676-47ef-b9a7-ab8d2757ed2b": {
+    "name": "DIMITRIADOS",
+    "aliases": [
+      "DIMITRIADOS"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 3
+  },
+  "adb2b1a8-8c53-4e6a-a826-c2b89bf61ff7": {
+    "name": "cTT-34",
+    "aliases": [
+      "cTT-34"
+    ],
+    "kill": 14,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 11
+  },
+  "60601d64-3941-48ae-bd65-ea302489bf55": {
+    "name": "ReadyDeuce",
+    "aliases": [
+      "ReadyDeuce"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "6e3c2fab-90f1-48e8-a6bc-79ebcfdc077d": {
+    "name": "Howl Jenkins pP",
+    "aliases": [
+      "Howl Jenkins pP"
+    ],
+    "kill": 1,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 0
+  },
+  "8c6f65d1-bc02-46a0-aedf-04de72db657e": {
+    "name": "IIGQII",
+    "aliases": [
+      "IIGQII"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 16
+  },
+  "c077f115-4dc9-4767-ad00-d4b10f65866c": {
+    "name": "Psycho_X_Smoker",
+    "aliases": [
+      "Psycho_X_Smoker"
+    ],
+    "kill": 0,
+    "teamkill": 2,
+    "suicide": 1,
+    "death": 4
+  },
+  "589a1fdc-9451-4aa3-8a56-86a90c57c12b": {
+    "name": "flimbo116",
+    "aliases": [
+      "flimbo116"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 5
+  },
+  "b0f5c3fd-0fa4-41d8-83dc-e63639ab062e": {
+    "name": "marksman_pauli",
+    "aliases": [
+      "marksman_pauli"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 3
+  },
+  "691e139d-7593-48b0-b335-d867d3648a97": {
+    "name": "DancyCellar9736",
+    "aliases": [
+      "DancyCellar9736"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 8
+  },
+  "2ebed80a-b7f2-4920-9d53-56106540687f": {
+    "name": "Sterben <3",
+    "aliases": [
+      "Sterben <3"
+    ],
+    "kill": 3,
+    "teamkill": 3,
+    "suicide": 1,
+    "death": 3
+  },
+  "da2c311d-8d12-4957-94bf-f6f3da26f8ee": {
+    "name": "Darth_Nedo",
+    "aliases": [
+      "Darth_Nedo"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "e4056eb0-1266-4567-8f30-0528ffca0816": {
+    "name": "M_h1921",
+    "aliases": [
+      "M_h1921"
+    ],
+    "kill": 0,
+    "teamkill": 4,
+    "suicide": 0,
+    "death": 6
+  },
+  "431abe7e-adea-4c62-8636-ebb3eab83236": {
+    "name": "BaldyBaldy7",
+    "aliases": [
+      "BaldyBaldy7"
+    ],
+    "kill": 12,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 3
+  },
+  "d55607fc-97f3-4464-9d6f-c788d0127e8e": {
+    "name": "Guszpit",
+    "aliases": [
+      "Guszpit"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 6
+  },
+  "9906ed44-311d-4cc6-87ae-28ea3591dd65": {
+    "name": "brendank",
+    "aliases": [
+      "brendank"
+    ],
+    "kill": 5,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 4
+  },
+  "9e518b4a-28df-4100-aca1-f90f326c3aec": {
+    "name": "remi9292",
+    "aliases": [
+      "remi9292"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 0
+  },
+  "a6fedd5a-50fd-44a5-9ae1-c91bb0141b7b": {
+    "name": "Wako_Jacko",
+    "aliases": [
+      "Wako_Jacko"
+    ],
+    "kill": 5,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "ade8ca79-85e2-430e-bf97-7c5a93d01ea7": {
+    "name": "Rale2212",
+    "aliases": [
+      "Rale2212"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 3
+  },
+  "158664dd-be6d-49ad-95fd-ec3c695350e3": {
+    "name": "WhiskeySour",
+    "aliases": [
+      "WhiskeySour"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 5
+  },
+  "359c7b65-ad58-41f0-9e87-8067bfbc4c42": {
+    "name": "Mangospoop",
+    "aliases": [
+      "Mangospoop"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 6
+  },
+  "034432f9-023d-4de6-840a-4037a05438db": {
+    "name": "llBaba_Yaga",
+    "aliases": [
+      "llBaba_Yaga"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "61a2d691-fd59-40aa-a94f-6f15a8f96d41": {
+    "name": "ZekiBaba67",
+    "aliases": [
+      "ZekiBaba67"
+    ],
+    "kill": 4,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 5
+  },
+  "17aeba3c-4c1e-4101-a412-2e2572189c1f": {
+    "name": "lunnarr63",
+    "aliases": [
+      "lunnarr63"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "0c5f7087-cdba-4656-8e5e-3c945e043472": {
+    "name": "ARCHOUMA",
+    "aliases": [
+      "ARCHOUMA"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 1
+  },
+  "ce292fcc-5bd7-4a75-8e04-b01690fd6453": {
+    "name": "cheeksclapper74_",
+    "aliases": [
+      "cheeksclapper74_"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 5
+  },
+  "98863078-2a28-4725-a601-b408c150339d": {
+    "name": "Firewolf212",
+    "aliases": [
+      "Firewolf212"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 5,
+    "death": 7
+  },
+  "ec430c09-c012-4c55-b390-0f5fc307a16a": {
+    "name": "Lennyy",
+    "aliases": [
+      "Lennyy"
+    ],
+    "kill": 6,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 6
+  },
+  "8a81713b-c630-4002-9a13-c7d5beebc775": {
+    "name": "snekkybones",
+    "aliases": [
+      "snekkybones"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "4ad819fb-3ed3-4d50-a311-5b0046a3fc59": {
+    "name": "GYSPYDOGG419",
+    "aliases": [
+      "GYSPYDOGG419"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "f59ca088-2176-4336-a062-0d88a8002278": {
+    "name": "CAPNCrxckSparrow",
+    "aliases": [
+      "CAPNCrxckSparrow"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 7
+  },
+  "aa1c5515-bdfd-48d9-9a7d-a736e0d8d6bc": {
+    "name": "I am the Liqor",
+    "aliases": [
+      "I am the Liqor"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 3,
+    "death": 6
+  },
+  "2f8f353f-ef91-4a3e-855f-f1e94fa10003": {
+    "name": "UntamedJaguar",
+    "aliases": [
+      "UntamedJaguar"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "631a5a29-91a5-4485-ac55-d26eba01095c": {
+    "name": "dobo_07",
+    "aliases": [
+      "dobo_07"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 0
+  },
+  "7d3196a2-506a-47a2-a969-18e13e782360": {
+    "name": "skinnyvictordrag",
+    "aliases": [
+      "skinnyvictordrag"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "4d2ed9c7-b313-4e76-a036-809910fa6b24": {
+    "name": "Pvt_GabrielSK",
+    "aliases": [
+      "Pvt_GabrielSK"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "4796cc83-2647-44db-aa3e-e281d69dc17c": {
+    "name": "HUMAN WAVE ATTACK",
+    "aliases": [
+      "HUMAN WAVE ATTACK"
+    ],
+    "kill": 1,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 5
+  },
+  "2437d1b3-195a-4250-ab4e-801dea9fcee8": {
+    "name": "Chuckle",
+    "aliases": [
+      "Chuckle"
+    ],
+    "kill": 9,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 0
+  },
+  "6aaaabac-a9e4-4cc7-82fa-7391a25dbedd": {
+    "name": "ii7ndx",
+    "aliases": [
+      "ii7ndx"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 1
+  },
+  "deeda973-ec42-4aac-a4e9-427cc6305c27": {
+    "name": "drako6900",
+    "aliases": [
+      "drako6900"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 7
+  },
+  "ff55192a-142b-4240-a83d-6bc6818576b3": {
+    "name": "kaz-star02",
+    "aliases": [
+      "kaz-star02"
+    ],
+    "kill": 0,
+    "teamkill": 5,
+    "suicide": 0,
+    "death": 6
+  },
+  "4327ed02-f773-4bdd-b494-757656f4f6e8": {
+    "name": "StonedJager42O",
+    "aliases": [
+      "StonedJager42O"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "745e7323-9588-4413-9c0d-36f54f295d87": {
+    "name": "ragingtiger05",
+    "aliases": [
+      "ragingtiger05"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 2
+  },
+  "adad8da3-1ce8-4375-94ee-bd6a8010d9bf": {
+    "name": "[VLNKI] qraxx",
+    "aliases": [
+      "[VLNKI] qraxx"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "7677cb74-7562-44ab-b645-527540657d71": {
+    "name": "Sciacallo_10",
+    "aliases": [
+      "Sciacallo_10"
+    ],
+    "kill": 1,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 6
+  },
+  "f0c01e09-5014-4375-9521-de5288b2f32d": {
+    "name": "dankraeterjones",
+    "aliases": [
+      "dankraeterjones"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 5
+  },
+  "f0634ab8-6914-4c9b-8ac2-88cb77853da8": {
+    "name": "Team_MTA_1906",
+    "aliases": [
+      "Team_MTA_1906"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "97979133-a383-4a67-9ecf-dbbf1f3b5649": {
+    "name": "destroystresser",
+    "aliases": [
+      "destroystresser"
+    ],
+    "kill": 2,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 5
+  },
+  "7329575d-f019-496b-951d-29194a363a59": {
+    "name": "Pentox",
+    "aliases": [
+      "Pentox"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "4caa1547-3370-453f-9e8a-23686d8626b7": {
+    "name": "Some spy",
+    "aliases": [
+      "Some spy"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "b0b7c953-f6f5-4c1b-a3c3-95c95e4c4a0c": {
+    "name": "TheDre Gamer",
+    "aliases": [
+      "TheDre Gamer"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 0
+  },
+  "bba28880-947c-42fc-832d-fde01ca19ede": {
+    "name": "Amorrecton",
+    "aliases": [
+      "Amorrecton"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 4
+  },
+  "9f356056-e846-4438-936b-7560d07c9ad2": {
+    "name": "smooth_council75",
+    "aliases": [
+      "smooth_council75"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "96d80654-cc9e-4af5-8701-e978ddefefc1": {
+    "name": "MistyWaterWizard",
+    "aliases": [
+      "MistyWaterWizard"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 1
+  },
+  "16851034-fa71-4a62-ab7f-11a77d2e2805": {
+    "name": "DevilsSaint87",
+    "aliases": [
+      "DevilsSaint87"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "f4576e29-06a0-4ad6-9255-f99a16e422af": {
+    "name": "Odder",
+    "aliases": [
+      "Odder"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "312315e6-a7ab-44e4-bcfd-479c53e40bf7": {
+    "name": "ghostriderdirk",
+    "aliases": [
+      "ghostriderdirk"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  }
+}
