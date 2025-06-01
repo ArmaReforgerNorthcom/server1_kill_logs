@@ -4004,3 +4004,11 @@
 {"timestamp":"2025-06-01T03:23:54Z","killer_uid":"fc560148-a05d-45d8-8748-0fbf6a056f66","killer_name":"RNG BUTLER 21","killer_faction":"SCR_CampaignFaction<0x00000278085FE730>","action":"teamkill","victim_uid":"fba75285-4642-46c3-8e5f-d612322452b0","victim_name":"Bapo2388","victim_faction":"SCR_CampaignFaction<0x00000278085FE730>"}
 ,
 {"timestamp":"2025-06-01T03:24:18Z","killer_uid":"fba75285-4642-46c3-8e5f-d612322452b0","killer_name":"Bapo2388","killer_faction":"SCR_CampaignFaction<0x00000278085FE730>","action":"teamkill","victim_uid":"fc560148-a05d-45d8-8748-0fbf6a056f66","victim_name":"RNG BUTLER 21","victim_faction":"SCR_CampaignFaction<0x00000278085FE730>"}
+,
+{"timestamp":"2025-06-01T03:30:45Z","killer_uid":"5063dbfc-d31a-4209-8da5-73d9b7f641a4","killer_name":"Papi Stall","killer_faction":"SCR_CampaignFaction<0x00000278085FE730>","action":"kill","victim_uid":"4bae2e98-b63b-4977-bbad-69b469eb4045","victim_name":"Lord-Lawless","victim_faction":"SCR_CampaignFaction<0x00000278085FE8D0>"}
+,
+{"timestamp":"2025-06-01T03:30:49Z","killer_uid":"4d656fb1-232b-4c97-ba65-4b7cec9f89d6","killer_name":"GHXST_636","killer_faction":"SCR_CampaignFaction<0x00000278085FE8D0>","action":"kill","victim_uid":"5063dbfc-d31a-4209-8da5-73d9b7f641a4","victim_name":"Papi Stall","victim_faction":"SCR_CampaignFaction<0x00000278085FE730>"}
+,
+{"timestamp":"2025-06-01T03:31:32Z","killer_uid":"fc560148-a05d-45d8-8748-0fbf6a056f66","killer_name":"RNG BUTLER 21","killer_faction":"SCR_CampaignFaction<0x00000278085FE730>","action":"suicide","victim_uid":"fc560148-a05d-45d8-8748-0fbf6a056f66","victim_name":"RNG BUTLER 21","victim_faction":"SCR_CampaignFaction<0x00000278085FE730>"}
+,
+{"timestamp":"2025-06-01T03:31:43Z","killer_uid":"fcbdf11f-6093-4439-a56b-5f790f60c08d","killer_name":"nuklearwurst69","killer_faction":"SCR_CampaignFaction<0x00000278085FE8D0>","action":"suicide","victim_uid":"fcbdf11f-6093-4439-a56b-5f790f60c08d","victim_name":"nuklearwurst69","victim_faction":"SCR_CampaignFaction<0x00000278085FE8D0>"}
