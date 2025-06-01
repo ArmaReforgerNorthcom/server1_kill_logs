@@ -50,3 +50,11 @@
 {"timestamp":"2025-06-01T08:23:56Z","killer_uid":"cc1555ae-c4b9-46ec-951c-f29c17cf3c32","killer_name":"Evolva","killer_faction":"SCR_CampaignFaction<0x0000021E5D2FE8D0>","action":"suicide","victim_uid":"cc1555ae-c4b9-46ec-951c-f29c17cf3c32","victim_name":"Evolva","victim_faction":"SCR_CampaignFaction<0x0000021E5D2FE8D0>"}
 ,
 {"timestamp":"2025-06-01T08:27:02Z","killer_uid":"256cc399-ef64-49b8-91b2-a3e222615b12","killer_name":"SrryForHeadshot","killer_faction":"SCR_CampaignFaction<0x0000021E5D2FE730>","action":"kill","victim_uid":"bffd40b8-1679-48bd-afcb-77a83433532a","victim_name":"Tristan_Cartyer","victim_faction":"SCR_CampaignFaction<0x0000021E5D2FE8D0>"}
+,
+{"timestamp":"2025-06-01T08:47:38Z","killer_uid":"4dc7ca54-5d4a-45bf-8d63-f2aaf459e969","killer_name":"Tootiecornet4","killer_faction":"SCR_CampaignFaction<0x0000021E5D2FE8D0>","action":"kill","victim_uid":"85c4502b-07a8-456e-a658-f848e0072fbd","victim_name":"Karlsson_3321","victim_faction":"SCR_CampaignFaction<0x0000021E5D2FE730>"}
+,
+{"timestamp":"2025-06-01T08:48:37Z","killer_uid":"d0770f51-730e-4e77-a3dd-797888f5f602","killer_name":"Rennug","killer_faction":"SCR_CampaignFaction<0x0000021E5D2FE730>","action":"suicide","victim_uid":"d0770f51-730e-4e77-a3dd-797888f5f602","victim_name":"Rennug","victim_faction":"SCR_CampaignFaction<0x0000021E5D2FE730>"}
+,
+{"timestamp":"2025-06-01T08:50:52Z","killer_uid":"4dc7ca54-5d4a-45bf-8d63-f2aaf459e969","killer_name":"Tootiecornet4","killer_faction":"SCR_CampaignFaction<0x0000021E5D2FE8D0>","action":"kill","victim_uid":"256cc399-ef64-49b8-91b2-a3e222615b12","victim_name":"SrryForHeadshot","victim_faction":"SCR_CampaignFaction<0x0000021E5D2FE730>"}
+,
+{"timestamp":"2025-06-01T08:51:43Z","killer_uid":"a42c6191-36c2-4401-a881-ef54a049d5dd","killer_name":"Loso_Banditoso","killer_faction":"SCR_CampaignFaction<0x0000021E5D2FE730>","action":"kill","victim_uid":"4dc7ca54-5d4a-45bf-8d63-f2aaf459e969","victim_name":"Tootiecornet4","victim_faction":"SCR_CampaignFaction<0x0000021E5D2FE8D0>"}
