@@ -3976,3 +3976,15 @@
 {"timestamp":"2025-06-01T02:53:57Z","killer_uid":"101f97b0-15f9-4226-bf64-3fbacc4b10f8","killer_name":"Dark De'mora","killer_faction":"SCR_CampaignFaction<0x00000278085FE730>","action":"kill","victim_uid":"4bae2e98-b63b-4977-bbad-69b469eb4045","victim_name":"Lord-Lawless","victim_faction":"SCR_CampaignFaction<0x00000278085FE8D0>"}
 ,
 {"timestamp":"2025-06-01T02:54:28Z","killer_uid":"101f97b0-15f9-4226-bf64-3fbacc4b10f8","killer_name":"Dark De'mora","killer_faction":"SCR_CampaignFaction<0x00000278085FE730>","action":"kill","victim_uid":"4d656fb1-232b-4c97-ba65-4b7cec9f89d6","victim_name":"GHXST_636","victim_faction":"SCR_CampaignFaction<0x00000278085FE8D0>"}
+,
+{"timestamp":"2025-06-01T02:55:29Z","killer_uid":"c2c439b9-ab08-4b71-8961-ebffbfbe922f","killer_name":"Rekki","killer_faction":"SCR_CampaignFaction<0x00000278085FE8D0>","action":"kill","victim_uid":"101f97b0-15f9-4226-bf64-3fbacc4b10f8","victim_name":"Dark De'mora","victim_faction":"SCR_CampaignFaction<0x00000278085FE730>"}
+,
+{"timestamp":"2025-06-01T02:56:20Z","killer_uid":"4d656fb1-232b-4c97-ba65-4b7cec9f89d6","killer_name":"GHXST_636","killer_faction":"SCR_CampaignFaction<0x00000278085FE8D0>","action":"suicide","victim_uid":"4d656fb1-232b-4c97-ba65-4b7cec9f89d6","victim_name":"GHXST_636","victim_faction":"SCR_CampaignFaction<0x00000278085FE8D0>"}
+,
+{"timestamp":"2025-06-01T02:58:42Z","killer_uid":"2f049b61-12c6-41f7-98d2-46d1268e6165","killer_name":"helmethead_116","killer_faction":"SCR_CampaignFaction<0x00000278085FE8D0>","action":"suicide","victim_uid":"2f049b61-12c6-41f7-98d2-46d1268e6165","victim_name":"helmethead_116","victim_faction":"SCR_CampaignFaction<0x00000278085FE8D0>"}
+,
+{"timestamp":"2025-06-01T03:00:14Z","killer_uid":"2f049b61-12c6-41f7-98d2-46d1268e6165","killer_name":"helmethead_116","killer_faction":"SCR_CampaignFaction<0x00000278085FE8D0>","action":"suicide","victim_uid":"2f049b61-12c6-41f7-98d2-46d1268e6165","victim_name":"helmethead_116","victim_faction":"SCR_CampaignFaction<0x00000278085FE8D0>"}
+,
+{"timestamp":"2025-06-01T03:01:12Z","killer_uid":"101f97b0-15f9-4226-bf64-3fbacc4b10f8","killer_name":"Dark De'mora","killer_faction":"SCR_CampaignFaction<0x00000278085FE730>","action":"kill","victim_uid":"c2c439b9-ab08-4b71-8961-ebffbfbe922f","victim_name":"Rekki","victim_faction":"SCR_CampaignFaction<0x00000278085FE8D0>"}
+,
+{"timestamp":"2025-06-01T03:04:09Z","killer_uid":"f42d42ec-24a2-4751-bfe7-86e4b16ea062","killer_name":"Absumes","killer_faction":"SCR_CampaignFaction<0x00000278085FE730>","action":"suicide","victim_uid":"f42d42ec-24a2-4751-bfe7-86e4b16ea062","victim_name":"Absumes","victim_faction":"SCR_CampaignFaction<0x00000278085FE730>"}
