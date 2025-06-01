@@ -3988,3 +3988,11 @@
 {"timestamp":"2025-06-01T03:01:12Z","killer_uid":"101f97b0-15f9-4226-bf64-3fbacc4b10f8","killer_name":"Dark De'mora","killer_faction":"SCR_CampaignFaction<0x00000278085FE730>","action":"kill","victim_uid":"c2c439b9-ab08-4b71-8961-ebffbfbe922f","victim_name":"Rekki","victim_faction":"SCR_CampaignFaction<0x00000278085FE8D0>"}
 ,
 {"timestamp":"2025-06-01T03:04:09Z","killer_uid":"f42d42ec-24a2-4751-bfe7-86e4b16ea062","killer_name":"Absumes","killer_faction":"SCR_CampaignFaction<0x00000278085FE730>","action":"suicide","victim_uid":"f42d42ec-24a2-4751-bfe7-86e4b16ea062","victim_name":"Absumes","victim_faction":"SCR_CampaignFaction<0x00000278085FE730>"}
+,
+{"timestamp":"2025-06-01T03:06:55Z","killer_uid":"4bae2e98-b63b-4977-bbad-69b469eb4045","killer_name":"Lord-Lawless","killer_faction":"SCR_CampaignFaction<0x00000278085FE8D0>","action":"kill","victim_uid":"101f97b0-15f9-4226-bf64-3fbacc4b10f8","victim_name":"Dark De'mora","victim_faction":"SCR_CampaignFaction<0x00000278085FE730>"}
+,
+{"timestamp":"2025-06-01T03:09:04Z","killer_uid":"4bae2e98-b63b-4977-bbad-69b469eb4045","killer_name":"Lord-Lawless","killer_faction":"SCR_CampaignFaction<0x00000278085FE8D0>","action":"kill","victim_uid":"5063dbfc-d31a-4209-8da5-73d9b7f641a4","victim_name":"Papi Stall","victim_faction":"SCR_CampaignFaction<0x00000278085FE730>"}
+,
+{"timestamp":"2025-06-01T03:13:00Z","killer_uid":"4bae2e98-b63b-4977-bbad-69b469eb4045","killer_name":"Lord-Lawless","killer_faction":"SCR_CampaignFaction<0x00000278085FE8D0>","action":"kill","victim_uid":"7d110688-317d-4fb6-a41d-225aeedf1e2d","victim_name":"PVT. DANGLE","victim_faction":"SCR_CampaignFaction<0x00000278085FE730>"}
+,
+{"timestamp":"2025-06-01T03:13:05Z","killer_uid":"4bae2e98-b63b-4977-bbad-69b469eb4045","killer_name":"Lord-Lawless","killer_faction":"SCR_CampaignFaction<0x00000278085FE8D0>","action":"kill","victim_uid":"fc560148-a05d-45d8-8748-0fbf6a056f66","victim_name":"RNG BUTLER 21","victim_faction":"SCR_CampaignFaction<0x00000278085FE730>"}
