@@ -90,3 +90,9 @@
 {"timestamp":"2025-06-01T09:14:13Z","killer_uid":"4d81831d-af08-433b-ac58-d91ae1bc4592","killer_name":"McCabe_ONLINE","killer_faction":"SCR_CampaignFaction<0x0000021E5D2FE8D0>","action":"kill","victim_uid":"823c504e-f32e-4f0e-b7ba-c11a68e249e4","victim_name":"James Dawn","victim_faction":"SCR_CampaignFaction<0x0000021E5D2FE730>"}
 ,
 {"timestamp":"2025-06-01T09:14:59Z","killer_uid":"256cc399-ef64-49b8-91b2-a3e222615b12","killer_name":"SrryForHeadshot","killer_faction":"SCR_CampaignFaction<0x0000021E5D2FE730>","action":"kill","victim_uid":"4dc7ca54-5d4a-45bf-8d63-f2aaf459e969","victim_name":"Tootiecornet4","victim_faction":"SCR_CampaignFaction<0x0000021E5D2FE8D0>"}
+,
+{"timestamp":"2025-06-01T09:16:38Z","killer_uid":"e9ef43da-5015-4842-a880-a6e0a305114a","killer_name":"BaghdadBen","killer_faction":"SCR_CampaignFaction<0x0000021E5D2FE8D0>","action":"suicide","victim_uid":"e9ef43da-5015-4842-a880-a6e0a305114a","victim_name":"BaghdadBen","victim_faction":"SCR_CampaignFaction<0x0000021E5D2FE8D0>"}
+,
+{"timestamp":"2025-06-01T09:22:02Z","killer_uid":"12bf18fa-f8e6-4ab1-b5c2-ca6054558413","killer_name":"Oakley1207","killer_faction":"SCR_CampaignFaction<0x0000021E5D2FE8D0>","action":"kill","victim_uid":"cb50d67a-4d88-4da8-9849-64de3ee1040c","victim_name":"Osman980g","victim_faction":"SCR_CampaignFaction<0x0000021E5D2FE730>"}
+,
+{"timestamp":"2025-06-01T09:22:05Z","killer_uid":"12bf18fa-f8e6-4ab1-b5c2-ca6054558413","killer_name":"Oakley1207","killer_faction":"SCR_CampaignFaction<0x0000021E5D2FE8D0>","action":"kill","victim_uid":"9ec5cc70-c812-4335-9025-f62b4fcc60b4","victim_name":"stinger","victim_faction":"SCR_CampaignFaction<0x0000021E5D2FE730>"}
