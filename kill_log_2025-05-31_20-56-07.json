@@ -3996,3 +3996,11 @@
 {"timestamp":"2025-06-01T03:13:00Z","killer_uid":"4bae2e98-b63b-4977-bbad-69b469eb4045","killer_name":"Lord-Lawless","killer_faction":"SCR_CampaignFaction<0x00000278085FE8D0>","action":"kill","victim_uid":"7d110688-317d-4fb6-a41d-225aeedf1e2d","victim_name":"PVT. DANGLE","victim_faction":"SCR_CampaignFaction<0x00000278085FE730>"}
 ,
 {"timestamp":"2025-06-01T03:13:05Z","killer_uid":"4bae2e98-b63b-4977-bbad-69b469eb4045","killer_name":"Lord-Lawless","killer_faction":"SCR_CampaignFaction<0x00000278085FE8D0>","action":"kill","victim_uid":"fc560148-a05d-45d8-8748-0fbf6a056f66","victim_name":"RNG BUTLER 21","victim_faction":"SCR_CampaignFaction<0x00000278085FE730>"}
+,
+{"timestamp":"2025-06-01T03:18:40Z","killer_uid":"fcbdf11f-6093-4439-a56b-5f790f60c08d","killer_name":"nuklearwurst69","killer_faction":"SCR_CampaignFaction<0x00000278085FE8D0>","action":"suicide","victim_uid":"fcbdf11f-6093-4439-a56b-5f790f60c08d","victim_name":"nuklearwurst69","victim_faction":"SCR_CampaignFaction<0x00000278085FE8D0>"}
+,
+{"timestamp":"2025-06-01T03:19:14Z","killer_uid":"4d656fb1-232b-4c97-ba65-4b7cec9f89d6","killer_name":"GHXST_636","killer_faction":"SCR_CampaignFaction<0x00000278085FE8D0>","action":"suicide","victim_uid":"4d656fb1-232b-4c97-ba65-4b7cec9f89d6","victim_name":"GHXST_636","victim_faction":"SCR_CampaignFaction<0x00000278085FE8D0>"}
+,
+{"timestamp":"2025-06-01T03:23:54Z","killer_uid":"fc560148-a05d-45d8-8748-0fbf6a056f66","killer_name":"RNG BUTLER 21","killer_faction":"SCR_CampaignFaction<0x00000278085FE730>","action":"teamkill","victim_uid":"fba75285-4642-46c3-8e5f-d612322452b0","victim_name":"Bapo2388","victim_faction":"SCR_CampaignFaction<0x00000278085FE730>"}
+,
+{"timestamp":"2025-06-01T03:24:18Z","killer_uid":"fba75285-4642-46c3-8e5f-d612322452b0","killer_name":"Bapo2388","killer_faction":"SCR_CampaignFaction<0x00000278085FE730>","action":"teamkill","victim_uid":"fc560148-a05d-45d8-8748-0fbf6a056f66","victim_name":"RNG BUTLER 21","victim_faction":"SCR_CampaignFaction<0x00000278085FE730>"}
