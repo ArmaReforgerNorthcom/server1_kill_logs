@@ -4926,3 +4926,25 @@
 {"timestamp":"2025-06-02T01:43:47Z","killer_uid":"45d0abe4-c138-4ee5-817c-8cbb36767d06","killer_name":"King.sqf","killer_faction":"SCR_CampaignFaction<0x000001F22030E8D0>","action":"kill","victim_uid":"5da59afd-026c-4c99-831b-7644676a4f7e","victim_name":"straw_HatZoro19","victim_faction":"SCR_CampaignFaction<0x000001F22030E730>"}
 ,
 {"timestamp":"2025-06-02T01:44:21Z","killer_uid":"45d0abe4-c138-4ee5-817c-8cbb36767d06","killer_name":"King.sqf","killer_faction":"SCR_CampaignFaction<0x000001F22030E8D0>","action":"kill","victim_uid":"4bf8c338-4207-47f7-aa1e-1ef8681621c3","victim_name":"ZangRok","victim_faction":"SCR_CampaignFaction<0x000001F22030E730>"}
+,
+{"timestamp":"2025-06-02T01:47:24Z","killer_uid":"45d0abe4-c138-4ee5-817c-8cbb36767d06","killer_name":"King.sqf","killer_faction":"SCR_CampaignFaction<0x000001F22030E8D0>","action":"kill","victim_uid":"97f58103-f990-43cd-96ed-14c042ef937d","victim_name":"Dimcasper","victim_faction":"SCR_CampaignFaction<0x000001F22030E730>"}
+,
+{"timestamp":"2025-06-02T01:47:27Z","killer_uid":"45d0abe4-c138-4ee5-817c-8cbb36767d06","killer_name":"King.sqf","killer_faction":"SCR_CampaignFaction<0x000001F22030E8D0>","action":"kill","victim_uid":"ae441812-dd5e-46a8-8454-9929501b9716","victim_name":"OdinsMight669","victim_faction":"SCR_CampaignFaction<0x000001F22030E730>"}
+,
+{"timestamp":"2025-06-02T01:48:54Z","killer_uid":"b865e2af-5145-4f86-ae46-338db887585e","killer_name":"Peep_Boy_High","killer_faction":"SCR_CampaignFaction<0x000001F22030E730>","action":"teamkill","victim_uid":"97f58103-f990-43cd-96ed-14c042ef937d","victim_name":"Dimcasper","victim_faction":"SCR_CampaignFaction<0x000001F22030E730>"}
+,
+{"timestamp":"2025-06-02T01:49:15Z","killer_uid":"45d0abe4-c138-4ee5-817c-8cbb36767d06","killer_name":"King.sqf","killer_faction":"SCR_CampaignFaction<0x000001F22030E8D0>","action":"kill","victim_uid":"c46b95b5-1cb9-4ae3-99af-8b764899e4d2","victim_name":"Oufh Matrix","victim_faction":"SCR_CampaignFaction<0x000001F22030E730>"}
+,
+{"timestamp":"2025-06-02T01:49:46Z","killer_uid":"b865e2af-5145-4f86-ae46-338db887585e","killer_name":"Peep_Boy_High","killer_faction":"SCR_CampaignFaction<0x000001F22030E730>","action":"kill","victim_uid":"45d0abe4-c138-4ee5-817c-8cbb36767d06","victim_name":"King.sqf","victim_faction":"SCR_CampaignFaction<0x000001F22030E8D0>"}
+,
+{"timestamp":"2025-06-02T01:50:12Z","killer_uid":"ae441812-dd5e-46a8-8454-9929501b9716","killer_name":"OdinsMight669","killer_faction":"SCR_CampaignFaction<0x000001F22030E730>","action":"teamkill","victim_uid":"b865e2af-5145-4f86-ae46-338db887585e","victim_name":"Peep_Boy_High","victim_faction":"SCR_CampaignFaction<0x000001F22030E730>"}
+,
+{"timestamp":"2025-06-02T01:50:15Z","killer_uid":"ae441812-dd5e-46a8-8454-9929501b9716","killer_name":"OdinsMight669","killer_faction":"SCR_CampaignFaction<0x000001F22030E730>","action":"teamkill","victim_uid":"c46b95b5-1cb9-4ae3-99af-8b764899e4d2","victim_name":"Oufh Matrix","victim_faction":"SCR_CampaignFaction<0x000001F22030E730>"}
+,
+{"timestamp":"2025-06-02T01:50:36Z","killer_uid":"45d0abe4-c138-4ee5-817c-8cbb36767d06","killer_name":"King.sqf","killer_faction":"SCR_CampaignFaction<0x000001F22030E8D0>","action":"kill","victim_uid":"97f58103-f990-43cd-96ed-14c042ef937d","victim_name":"Dimcasper","victim_faction":"SCR_CampaignFaction<0x000001F22030E730>"}
+,
+{"timestamp":"2025-06-02T01:51:03Z","killer_uid":"45d0abe4-c138-4ee5-817c-8cbb36767d06","killer_name":"King.sqf","killer_faction":"SCR_CampaignFaction<0x000001F22030E8D0>","action":"kill","victim_uid":"ae441812-dd5e-46a8-8454-9929501b9716","victim_name":"OdinsMight669","victim_faction":"SCR_CampaignFaction<0x000001F22030E730>"}
+,
+{"timestamp":"2025-06-02T01:54:05Z","killer_uid":"45d0abe4-c138-4ee5-817c-8cbb36767d06","killer_name":"King.sqf","killer_faction":"SCR_CampaignFaction<0x000001F22030E8D0>","action":"kill","victim_uid":"ae441812-dd5e-46a8-8454-9929501b9716","victim_name":"OdinsMight669","victim_faction":"SCR_CampaignFaction<0x000001F22030E730>"}
+,
+{"timestamp":"2025-06-02T01:54:47Z","killer_uid":"45d0abe4-c138-4ee5-817c-8cbb36767d06","killer_name":"King.sqf","killer_faction":"SCR_CampaignFaction<0x000001F22030E8D0>","action":"kill","victim_uid":"97f58103-f990-43cd-96ed-14c042ef937d","victim_name":"Dimcasper","victim_faction":"SCR_CampaignFaction<0x000001F22030E730>"}
