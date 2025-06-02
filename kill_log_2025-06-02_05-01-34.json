@@ -104,3 +104,15 @@
 {"timestamp":"2025-06-02T11:43:12Z","killer_uid":"6d8e6260-5c34-4a6e-bb84-81a5ae014af6","killer_name":"JJflakey2002","killer_faction":"SCR_CampaignFaction<0x000002084877A8D0>","action":"kill","victim_uid":"2d772a42-3479-443b-80cf-21167f08c293","victim_name":"lokopar","victim_faction":"SCR_CampaignFaction<0x000002084877A730>"}
 ,
 {"timestamp":"2025-06-02T11:43:42Z","killer_uid":"2d772a42-3479-443b-80cf-21167f08c293","killer_name":"lokopar","killer_faction":"SCR_CampaignFaction<0x000002084877A730>","action":"suicide","victim_uid":"2d772a42-3479-443b-80cf-21167f08c293","victim_name":"lokopar","victim_faction":"SCR_CampaignFaction<0x000002084877A730>"}
+,
+{"timestamp":"2025-06-02T11:46:01Z","killer_uid":"9d8f396c-9def-4be7-a4eb-d61145364c0d","killer_name":"krish24722","killer_faction":"SCR_CampaignFaction<0x000002084877A730>","action":"kill","victim_uid":"fc3e8f29-87ec-413c-83d9-e1edd6bcb806","victim_name":"Arzianii","victim_faction":"SCR_CampaignFaction<0x000002084877A8D0>"}
+,
+{"timestamp":"2025-06-02T11:46:03Z","killer_uid":"2d772a42-3479-443b-80cf-21167f08c293","killer_name":"lokopar","killer_faction":"SCR_CampaignFaction<0x000002084877A730>","action":"suicide","victim_uid":"2d772a42-3479-443b-80cf-21167f08c293","victim_name":"lokopar","victim_faction":"SCR_CampaignFaction<0x000002084877A730>"}
+,
+{"timestamp":"2025-06-02T11:46:07Z","killer_uid":"f89b0ff9-ccfa-43cc-8794-cf3c07d2d0c5","killer_name":"Sturmthe","killer_faction":"SCR_CampaignFaction<0x000002084877A8D0>","action":"suicide","victim_uid":"f89b0ff9-ccfa-43cc-8794-cf3c07d2d0c5","victim_name":"Sturmthe","victim_faction":"SCR_CampaignFaction<0x000002084877A8D0>"}
+,
+{"timestamp":"2025-06-02T11:46:31Z","killer_uid":"9d8f396c-9def-4be7-a4eb-d61145364c0d","killer_name":"krish24722","killer_faction":"SCR_CampaignFaction<0x000002084877A730>","action":"kill","victim_uid":"f89b0ff9-ccfa-43cc-8794-cf3c07d2d0c5","victim_name":"Sturmthe","victim_faction":"SCR_CampaignFaction<0x000002084877A8D0>"}
+,
+{"timestamp":"2025-06-02T11:46:56Z","killer_uid":"9d8f396c-9def-4be7-a4eb-d61145364c0d","killer_name":"krish24722","killer_faction":"SCR_CampaignFaction<0x000002084877A730>","action":"kill","victim_uid":"fc3e8f29-87ec-413c-83d9-e1edd6bcb806","victim_name":"Arzianii","victim_faction":"SCR_CampaignFaction<0x000002084877A8D0>"}
+,
+{"timestamp":"2025-06-02T11:49:57Z","killer_uid":"9d8f396c-9def-4be7-a4eb-d61145364c0d","killer_name":"krish24722","killer_faction":"SCR_CampaignFaction<0x000002084877A730>","action":"kill","victim_uid":"f89b0ff9-ccfa-43cc-8794-cf3c07d2d0c5","victim_name":"Sturmthe","victim_faction":"SCR_CampaignFaction<0x000002084877A8D0>"}
