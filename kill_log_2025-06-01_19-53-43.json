@@ -5054,3 +5054,4 @@
 {"timestamp":"2025-06-02T02:41:06Z","killer_uid":"45d0abe4-c138-4ee5-817c-8cbb36767d06","killer_name":"King.sqf","killer_faction":"SCR_CampaignFaction<0x000001F22030E730>","action":"kill","victim_uid":"1c40feee-0b83-45e4-ab8c-bb4061b05a57","victim_name":"About_7_Dwarfs","victim_faction":"SCR_CampaignFaction<0x000001F22030E8D0>"}
 ,
 {"timestamp":"2025-06-02T03:33:11Z","killer_uid":"e7834221-4654-4261-bd11-d24a00170804","killer_name":"D_dog8","killer_faction":"SCR_CampaignFaction<0x000001F22030E730>","action":"suicide","victim_uid":"e7834221-4654-4261-bd11-d24a00170804","victim_name":"D_dog8","victim_faction":"SCR_CampaignFaction<0x000001F22030E730>"}
+]
