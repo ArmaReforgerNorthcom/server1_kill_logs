@@ -12,3 +12,9 @@
 {"timestamp":"2025-06-02T09:53:17Z","killer_uid":"fc3e8f29-87ec-413c-83d9-e1edd6bcb806","killer_name":"Arzianii","killer_faction":"SCR_CampaignFaction<0x000002084877A8D0>","action":"suicide","victim_uid":"fc3e8f29-87ec-413c-83d9-e1edd6bcb806","victim_name":"Arzianii","victim_faction":"SCR_CampaignFaction<0x000002084877A8D0>"}
 ,
 {"timestamp":"2025-06-02T09:56:34Z","killer_uid":"2d772a42-3479-443b-80cf-21167f08c293","killer_name":"lokopar","killer_faction":"SCR_CampaignFaction<0x000002084877A730>","action":"suicide","victim_uid":"2d772a42-3479-443b-80cf-21167f08c293","victim_name":"lokopar","victim_faction":"SCR_CampaignFaction<0x000002084877A730>"}
+,
+{"timestamp":"2025-06-02T10:28:16Z","killer_uid":"d600fae0-6474-4697-b47a-8c1c57d0c261","killer_name":"Petroskis","killer_faction":"SCR_CampaignFaction<0x000002084877A730>","action":"teamkill","victim_uid":"a73da248-1b0a-4579-b441-055438ff4fd6","victim_name":"Oddball_E8","victim_faction":"SCR_CampaignFaction<0x000002084877A730>"}
+,
+{"timestamp":"2025-06-02T10:30:15Z","killer_uid":"2d772a42-3479-443b-80cf-21167f08c293","killer_name":"lokopar","killer_faction":"SCR_CampaignFaction<0x000002084877A730>","action":"kill","victim_uid":"01edf3ff-2eaa-414a-a852-6e1f670ea5d8","victim_name":"krabi_patty","victim_faction":"SCR_CampaignFaction<0x000002084877A8D0>"}
+,
+{"timestamp":"2025-06-02T10:33:21Z","killer_uid":"7da4ff3a-dd6e-4884-9dae-03c44a9cbd85","killer_name":"Matt","killer_faction":"SCR_CampaignFaction<0x000002084877A730>","action":"kill","victim_uid":"fc3e8f29-87ec-413c-83d9-e1edd6bcb806","victim_name":"Arzianii","victim_faction":"SCR_CampaignFaction<0x000002084877A8D0>"}
