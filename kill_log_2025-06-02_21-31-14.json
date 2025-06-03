@@ -2048,3 +2048,61 @@
 {"timestamp":"2025-06-03T00:04:55Z","killer_uid":"c68c72e0-a127-428c-8d9b-2f767997dd0c","killer_name":"Paul Stop","killer_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>","action":"suicide","victim_uid":"c68c72e0-a127-428c-8d9b-2f767997dd0c","victim_name":"Paul Stop","victim_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>"}
 ,
 {"timestamp":"2025-06-03T00:04:56Z","killer_uid":"2437d1b3-195a-4250-ab4e-801dea9fcee8","killer_name":"Chuckle","killer_faction":"SCR_CampaignFaction<0x0000022FEAF02730>","action":"teamkill","victim_uid":"f886ebdc-30af-46cb-af85-274f91ae7475","victim_name":"TTVThiccGypsyGirl","victim_faction":"SCR_CampaignFaction<0x0000022FEAF02730>"}
+,
+{"timestamp":"2025-06-03T00:05:37Z","killer_uid":"0039ce56-bdea-4838-968d-2c4e0aea9013","killer_name":"BeetleJuice","killer_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>","action":"kill","victim_uid":"b0b7c953-f6f5-4c1b-a3c3-95c95e4c4a0c","victim_name":"TheDre Gamer","victim_faction":"SCR_CampaignFaction<0x0000022FEAF02730>"}
+,
+{"timestamp":"2025-06-03T00:05:48Z","killer_uid":"076da258-1d0e-4567-b25e-1bff66e8e4fb","killer_name":"bernard1910","killer_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>","action":"kill","victim_uid":"cc53546d-0d8d-4c59-b3b3-835a6f366946","victim_name":"JackCustard","victim_faction":"SCR_CampaignFaction<0x0000022FEAF02730>"}
+,
+{"timestamp":"2025-06-03T00:06:28Z","killer_uid":"beae5f2f-645f-49c2-94b0-13e2d2b6b638","killer_name":"Shinzō Abe","killer_faction":"SCR_CampaignFaction<0x0000022FEAF02730>","action":"kill","victim_uid":"1e7ce5b8-d7c6-42fe-af69-7c0133de69af","victim_name":"Rolf","victim_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>"}
+,
+{"timestamp":"2025-06-03T00:06:55Z","killer_uid":"b683ddd5-63e7-4823-affa-2235c7c82f67","killer_name":"Bussylint76","killer_faction":"SCR_CampaignFaction<0x0000022FEAF02730>","action":"suicide","victim_uid":"b683ddd5-63e7-4823-affa-2235c7c82f67","victim_name":"Bussylint76","victim_faction":"SCR_CampaignFaction<0x0000022FEAF02730>"}
+,
+{"timestamp":"2025-06-03T00:07:03Z","killer_uid":"79b22748-f6da-44c9-8552-c14847678f9c","killer_name":"Maffen AR on Linux","killer_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>","action":"kill","victim_uid":"beae5f2f-645f-49c2-94b0-13e2d2b6b638","victim_name":"Shinzō Abe","victim_faction":"SCR_CampaignFaction<0x0000022FEAF02730>"}
+,
+{"timestamp":"2025-06-03T00:07:17Z","killer_uid":"01e772aa-af91-4524-bd7b-d186e7628059","killer_name":"Wolf D","killer_faction":"SCR_CampaignFaction<0x0000022FEAF02730>","action":"kill","victim_uid":"1cfe8835-2ab4-44e8-a85c-4d2eed1e2b0d","victim_name":"pvt doofy","victim_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>"}
+,
+{"timestamp":"2025-06-03T00:07:45Z","killer_uid":"85f6a7dd-d182-4f87-b7f2-9579829ddcea","killer_name":"Ramirez_Cartel3","killer_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>","action":"kill","victim_uid":"ea2293b8-c7b7-400f-b026-c470ec1bd539","victim_name":"^9Eremito","victim_faction":"SCR_CampaignFaction<0x0000022FEAF02730>"}
+,
+{"timestamp":"2025-06-03T00:08:45Z","killer_uid":"cc53546d-0d8d-4c59-b3b3-835a6f366946","killer_name":"JackCustard","killer_faction":"SCR_CampaignFaction<0x0000022FEAF02730>","action":"kill","victim_uid":"1e7ce5b8-d7c6-42fe-af69-7c0133de69af","victim_name":"Rolf","victim_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>"}
+,
+{"timestamp":"2025-06-03T00:08:50Z","killer_uid":"4bf8c338-4207-47f7-aa1e-1ef8681621c3","killer_name":"ZangRok","killer_faction":"SCR_CampaignFaction<0x0000022FEAF02730>","action":"kill","victim_uid":"95e40694-ee25-4d35-adab-04652ba9bea0","victim_name":"LousyLeon","victim_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>"}
+,
+{"timestamp":"2025-06-03T00:09:32Z","killer_uid":"a17c9835-00d6-437e-a2b2-a088982accb8","killer_name":"TheGriffinsClaw5","killer_faction":"SCR_CampaignFaction<0x0000022FEAF02730>","action":"kill","victim_uid":"d8adfa28-a906-444f-97d4-46000d786180","victim_name":"MVMLLW","victim_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>"}
+,
+{"timestamp":"2025-06-03T00:09:32Z","killer_uid":"79b22748-f6da-44c9-8552-c14847678f9c","killer_name":"Maffen AR on Linux","killer_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>","action":"kill","victim_uid":"a17c9835-00d6-437e-a2b2-a088982accb8","victim_name":"TheGriffinsClaw5","victim_faction":"SCR_CampaignFaction<0x0000022FEAF02730>"}
+,
+{"timestamp":"2025-06-03T00:09:44Z","killer_uid":"79b22748-f6da-44c9-8552-c14847678f9c","killer_name":"Maffen AR on Linux","killer_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>","action":"kill","victim_uid":"7cc961f2-7839-4070-814b-c663f7a40152","victim_name":"★ d43t","victim_faction":"SCR_CampaignFaction<0x0000022FEAF02730>"}
+,
+{"timestamp":"2025-06-03T00:09:44Z","killer_uid":"7cc961f2-7839-4070-814b-c663f7a40152","killer_name":"★ d43t","killer_faction":"SCR_CampaignFaction<0x0000022FEAF02730>","action":"kill","victim_uid":"79b22748-f6da-44c9-8552-c14847678f9c","victim_name":"Maffen AR on Linux","victim_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>"}
+,
+{"timestamp":"2025-06-03T00:09:58Z","killer_uid":"35a8aa98-0eb5-4431-bdad-68f5569579e1","killer_name":"alfabetbox","killer_faction":"SCR_CampaignFaction<0x0000022FEAF02730>","action":"kill","victim_uid":"92942160-0ae0-4462-8feb-3e09d3087901","victim_name":"dajonah00","victim_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>"}
+,
+{"timestamp":"2025-06-03T00:10:01Z","killer_uid":"39741125-20ed-4c02-9a56-a411854742b2","killer_name":"danky_koolaid","killer_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>","action":"kill","victim_uid":"4bf8c338-4207-47f7-aa1e-1ef8681621c3","victim_name":"ZangRok","victim_faction":"SCR_CampaignFaction<0x0000022FEAF02730>"}
+,
+{"timestamp":"2025-06-03T00:10:02Z","killer_uid":"1df9c170-1423-4129-945c-18fb2ccdb336","killer_name":"Jdawg78og","killer_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>","action":"suicide","victim_uid":"1df9c170-1423-4129-945c-18fb2ccdb336","victim_name":"Jdawg78og","victim_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>"}
+,
+{"timestamp":"2025-06-03T00:10:42Z","killer_uid":"95e40694-ee25-4d35-adab-04652ba9bea0","killer_name":"LousyLeon","killer_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>","action":"kill","victim_uid":"cc53546d-0d8d-4c59-b3b3-835a6f366946","victim_name":"JackCustard","victim_faction":"SCR_CampaignFaction<0x0000022FEAF02730>"}
+,
+{"timestamp":"2025-06-03T00:10:44Z","killer_uid":"cc53546d-0d8d-4c59-b3b3-835a6f366946","killer_name":"JackCustard","killer_faction":"SCR_CampaignFaction<0x0000022FEAF02730>","action":"kill","victim_uid":"c68c72e0-a127-428c-8d9b-2f767997dd0c","victim_name":"Paul Stop","victim_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>"}
+,
+{"timestamp":"2025-06-03T00:11:14Z","killer_uid":"2437d1b3-195a-4250-ab4e-801dea9fcee8","killer_name":"Chuckle","killer_faction":"SCR_CampaignFaction<0x0000022FEAF02730>","action":"suicide","victim_uid":"2437d1b3-195a-4250-ab4e-801dea9fcee8","victim_name":"Chuckle","victim_faction":"SCR_CampaignFaction<0x0000022FEAF02730>"}
+,
+{"timestamp":"2025-06-03T00:11:32Z","killer_uid":"4bf8c338-4207-47f7-aa1e-1ef8681621c3","killer_name":"ZangRok","killer_faction":"SCR_CampaignFaction<0x0000022FEAF02730>","action":"kill","victim_uid":"39741125-20ed-4c02-9a56-a411854742b2","victim_name":"danky_koolaid","victim_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>"}
+,
+{"timestamp":"2025-06-03T00:12:10Z","killer_uid":"3db50784-f6a7-475e-95e1-3b85862c6010","killer_name":"zyman","killer_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>","action":"kill","victim_uid":"4676a5ee-8a78-4078-ac23-acaa2f1f8e8c","victim_name":"Wolfsauge","victim_faction":"SCR_CampaignFaction<0x0000022FEAF02730>"}
+,
+{"timestamp":"2025-06-03T00:12:28Z","killer_uid":"3db50784-f6a7-475e-95e1-3b85862c6010","killer_name":"zyman","killer_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>","action":"kill","victim_uid":"4bf8c338-4207-47f7-aa1e-1ef8681621c3","victim_name":"ZangRok","victim_faction":"SCR_CampaignFaction<0x0000022FEAF02730>"}
+,
+{"timestamp":"2025-06-03T00:13:33Z","killer_uid":"0b57c60c-fce5-47a3-9a8d-d0fa70da112d","killer_name":"Zaco Kick","killer_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>","action":"suicide","victim_uid":"0b57c60c-fce5-47a3-9a8d-d0fa70da112d","victim_name":"Zaco Kick","victim_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>"}
+,
+{"timestamp":"2025-06-03T00:13:50Z","killer_uid":"1e7ce5b8-d7c6-42fe-af69-7c0133de69af","killer_name":"Rolf","killer_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>","action":"kill","victim_uid":"beae5f2f-645f-49c2-94b0-13e2d2b6b638","victim_name":"Shinzō Abe","victim_faction":"SCR_CampaignFaction<0x0000022FEAF02730>"}
+,
+{"timestamp":"2025-06-03T00:14:00Z","killer_uid":"b683ddd5-63e7-4823-affa-2235c7c82f67","killer_name":"Bussylint76","killer_faction":"SCR_CampaignFaction<0x0000022FEAF02730>","action":"suicide","victim_uid":"b683ddd5-63e7-4823-affa-2235c7c82f67","victim_name":"Bussylint76","victim_faction":"SCR_CampaignFaction<0x0000022FEAF02730>"}
+,
+{"timestamp":"2025-06-03T00:14:06Z","killer_uid":"9a1311f8-2b63-473c-b86a-8d61e58f22b5","killer_name":"mescalito2002","killer_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>","action":"kill","victim_uid":"dcb2db2c-2719-44d7-afea-8c7a64a49560","victim_name":"zZHAvOcREaPERZz","victim_faction":"SCR_CampaignFaction<0x0000022FEAF02730>"}
+,
+{"timestamp":"2025-06-03T00:14:08Z","killer_uid":"ee0db3b3-e0fc-455d-896c-23118fb399e2","killer_name":"jammy2002","killer_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>","action":"kill","victim_uid":"35a8aa98-0eb5-4431-bdad-68f5569579e1","victim_name":"alfabetbox","victim_faction":"SCR_CampaignFaction<0x0000022FEAF02730>"}
+,
+{"timestamp":"2025-06-03T00:14:35Z","killer_uid":"2a862cf3-c54a-4f7c-be93-f0d1629b3035","killer_name":"hmouke_100","killer_faction":"SCR_CampaignFaction<0x0000022FEAF02730>","action":"kill","victim_uid":"a4964f22-1ecb-4819-91b0-3e0adb9ffac1","victim_name":"Conor028","victim_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>"}
+,
+{"timestamp":"2025-06-03T00:14:35Z","killer_uid":"4bf8c338-4207-47f7-aa1e-1ef8681621c3","killer_name":"ZangRok","killer_faction":"SCR_CampaignFaction<0x0000022FEAF02730>","action":"kill","victim_uid":"3db50784-f6a7-475e-95e1-3b85862c6010","victim_name":"zyman","victim_faction":"SCR_CampaignFaction<0x0000022FEAF028D0>"}
