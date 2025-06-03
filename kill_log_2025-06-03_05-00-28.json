@@ -12,3 +12,7 @@
 {"timestamp":"2025-06-03T09:25:06Z","killer_uid":"3601f6dc-ec47-4a83-ad94-556f6e575f03","killer_name":"~ Feral ~","killer_faction":"SCR_CampaignFaction<0x000001FC6A616730>","action":"kill","victim_uid":"5f715ad2-da9f-49c9-a708-438d3163c461","victim_name":"HaiLuxSkyWalker","victim_faction":"SCR_CampaignFaction<0x000001FC6A6168D0>"}
 ,
 {"timestamp":"2025-06-03T09:37:41Z","killer_uid":"898ad96d-aa4a-4e2b-9ba7-af4174f95681","killer_name":"RM CONQUEROR","killer_faction":"SCR_CampaignFaction<0x000001FC6A616730>","action":"kill","victim_uid":"f8c6b634-926b-42cb-8ddb-bb7462c7f5e1","victim_name":"LLlTyPMAH","victim_faction":"SCR_CampaignFaction<0x000001FC6A6168D0>"}
+,
+{"timestamp":"2025-06-03T09:47:27Z","killer_uid":"d0770f51-730e-4e77-a3dd-797888f5f602","killer_name":"Rennug","killer_faction":"SCR_CampaignFaction<0x000001FC6A6168D0>","action":"suicide","victim_uid":"d0770f51-730e-4e77-a3dd-797888f5f602","victim_name":"Rennug","victim_faction":"SCR_CampaignFaction<0x000001FC6A6168D0>"}
+,
+{"timestamp":"2025-06-03T09:51:46Z","killer_uid":"d69e48ee-57b1-4e46-bb3d-bc579ad5cb99","killer_name":"StankyFranky96","killer_faction":"SCR_CampaignFaction<0x000001FC6A6168D0>","action":"suicide","victim_uid":"d69e48ee-57b1-4e46-bb3d-bc579ad5cb99","victim_name":"StankyFranky96","victim_faction":"SCR_CampaignFaction<0x000001FC6A6168D0>"}
