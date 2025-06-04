@@ -2,3 +2,5 @@
 {"timestamp":"2025-06-04T06:32:32Z","killer_uid":"c0236be3-1aaf-44f8-bee5-477d425de002","killer_name":"Vicious","killer_faction":"SCR_CampaignFaction<0x000001C8DCBEE730>","action":"suicide","victim_uid":"c0236be3-1aaf-44f8-bee5-477d425de002","victim_name":"Vicious","victim_faction":"SCR_CampaignFaction<0x000001C8DCBEE730>"}
 ,
 {"timestamp":"2025-06-04T08:48:25Z","killer_uid":"17d0dc76-95b2-49c0-95c6-3c25fa6e8ab2","killer_name":"Terka","killer_faction":"SCR_CampaignFaction<0x000001C8DCBEE730>","action":"suicide","victim_uid":"17d0dc76-95b2-49c0-95c6-3c25fa6e8ab2","victim_name":"Terka","victim_faction":"SCR_CampaignFaction<0x000001C8DCBEE730>"}
+,
+{"timestamp":"2025-06-04T09:11:11Z","killer_uid":"85f6a7dd-d182-4f87-b7f2-9579829ddcea","killer_name":"Ramirez_Cartel3","killer_faction":"SCR_CampaignFaction<0x000001C8DCBEE8D0>","action":"suicide","victim_uid":"85f6a7dd-d182-4f87-b7f2-9579829ddcea","victim_name":"Ramirez_Cartel3","victim_faction":"SCR_CampaignFaction<0x000001C8DCBEE8D0>"}
