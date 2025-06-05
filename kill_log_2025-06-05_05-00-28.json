@@ -110,3 +110,15 @@
 {"timestamp":"2025-06-05T10:31:53Z","killer_uid":"56b912e8-71ca-4a7b-a829-f6d1cc441e80","killer_name":"ethan12951","killer_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>","action":"suicide","victim_uid":"56b912e8-71ca-4a7b-a829-f6d1cc441e80","victim_name":"ethan12951","victim_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>"}
 ,
 {"timestamp":"2025-06-05T10:34:54Z","killer_uid":"dc1109de-e982-4469-bf42-5325e89deb99","killer_name":"DELCOOLi","killer_faction":"SCR_CampaignFaction<0x0000019D3E502730>","action":"kill","victim_uid":"11818995-8543-4904-8f73-bcc4e4f3a8e9","victim_name":"Marcus_Buch","victim_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>"}
+,
+{"timestamp":"2025-06-05T10:35:33Z","killer_uid":"11818995-8543-4904-8f73-bcc4e4f3a8e9","killer_name":"Marcus_Buch","killer_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>","action":"kill","victim_uid":"b747392c-b4eb-416b-9d74-796b5928cc23","victim_name":"RSA-4-LIFE","victim_faction":"SCR_CampaignFaction<0x0000019D3E502730>"}
+,
+{"timestamp":"2025-06-05T10:36:00Z","killer_uid":"11818995-8543-4904-8f73-bcc4e4f3a8e9","killer_name":"Marcus_Buch","killer_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>","action":"kill","victim_uid":"f8c6b634-926b-42cb-8ddb-bb7462c7f5e1","victim_name":"LLlTyPMAH","victim_faction":"SCR_CampaignFaction<0x0000019D3E502730>"}
+,
+{"timestamp":"2025-06-05T10:36:11Z","killer_uid":"dc1109de-e982-4469-bf42-5325e89deb99","killer_name":"DELCOOLi","killer_faction":"SCR_CampaignFaction<0x0000019D3E502730>","action":"kill","victim_uid":"b8bb0a9b-985f-4b2d-b8b9-2d3f55012c6b","victim_name":"MrDark6667138","victim_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>"}
+,
+{"timestamp":"2025-06-05T10:36:52Z","killer_uid":"087e5a60-4b26-4f02-81f4-17b6d5bda359","killer_name":"II-LeGeNd-4-II","killer_faction":"SCR_CampaignFaction<0x0000019D3E502730>","action":"suicide","victim_uid":"087e5a60-4b26-4f02-81f4-17b6d5bda359","victim_name":"II-LeGeNd-4-II","victim_faction":"SCR_CampaignFaction<0x0000019D3E502730>"}
+,
+{"timestamp":"2025-06-05T10:40:36Z","killer_uid":"b747392c-b4eb-416b-9d74-796b5928cc23","killer_name":"RSA-4-LIFE","killer_faction":"SCR_CampaignFaction<0x0000019D3E502730>","action":"teamkill","victim_uid":"087e5a60-4b26-4f02-81f4-17b6d5bda359","victim_name":"II-LeGeNd-4-II","victim_faction":"SCR_CampaignFaction<0x0000019D3E502730>"}
+,
+{"timestamp":"2025-06-05T10:41:17Z","killer_uid":"56b912e8-71ca-4a7b-a829-f6d1cc441e80","killer_name":"ethan12951","killer_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>","action":"suicide","victim_uid":"56b912e8-71ca-4a7b-a829-f6d1cc441e80","victim_name":"ethan12951","victim_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>"}
