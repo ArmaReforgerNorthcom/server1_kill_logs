@@ -15346,9 +15346,9 @@
       "Delta7506"
     ],
     "kill": 13,
-    "teamkill": 4,
-    "suicide": 15,
-    "death": 39
+    "teamkill": 6,
+    "suicide": 16,
+    "death": 41
   },
   "281d9f59-0b61-42ee-82da-b007be259ae0": {
     "name": "galaxyhigh_rider",
@@ -17447,8 +17447,8 @@
     ],
     "kill": 1,
     "teamkill": 0,
-    "suicide": 4,
-    "death": 6
+    "suicide": 5,
+    "death": 9
   },
   "f9d72da5-392e-482d-9bab-4a02e518d3a1": {
     "name": "visualstray20",
@@ -17849,5 +17849,15 @@
     "teamkill": 0,
     "suicide": 0,
     "death": 3
+  },
+  "b1f9aa97-1488-4589-9da2-07dad7707c91": {
+    "name": "Toxicmell1",
+    "aliases": [
+      "Toxicmell1"
+    ],
+    "kill": 0,
+    "teamkill": 2,
+    "suicide": 1,
+    "death": 2
   }
 }
