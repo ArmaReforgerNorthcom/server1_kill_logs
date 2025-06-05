@@ -212,3 +212,8 @@
 {"timestamp":"2025-06-05T11:23:06Z","killer_uid":"f884dda7-dcfe-4c92-b304-c5e1c97f2677","killer_name":"Bobzinatorz9999","killer_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>","action":"teamkill","victim_uid":"6a512207-c48c-496f-9e91-7f6cc399df4f","victim_name":"Depth.Charge","victim_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>"}
 ,
 {"timestamp":"2025-06-05T11:23:24Z","killer_uid":"56b912e8-71ca-4a7b-a829-f6d1cc441e80","killer_name":"ethan12951","killer_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>","action":"kill","victim_uid":"5f6f28e5-f8ed-4c35-80bb-fba9fe1e5d3d","victim_name":"LtDerp","victim_faction":"SCR_CampaignFaction<0x0000019D3E502730>"}
+,
+{"timestamp":"2025-06-05T11:25:07Z","killer_uid":"56b912e8-71ca-4a7b-a829-f6d1cc441e80","killer_name":"ethan12951","killer_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>","action":"kill","victim_uid":"f8c6b634-926b-42cb-8ddb-bb7462c7f5e1","victim_name":"LLlTyPMAH","victim_faction":"SCR_CampaignFaction<0x0000019D3E502730>"}
+,
+{"timestamp":"2025-06-05T11:25:19Z","killer_uid":"087e5a60-4b26-4f02-81f4-17b6d5bda359","killer_name":"II-LeGeNd-4-II","killer_faction":"SCR_CampaignFaction<0x0000019D3E502730>","action":"kill","victim_uid":"56b912e8-71ca-4a7b-a829-f6d1cc441e80","victim_name":"ethan12951","victim_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>"}
+]
