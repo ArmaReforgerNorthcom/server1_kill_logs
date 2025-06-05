@@ -776,3 +776,5 @@
 {"timestamp":"2025-06-05T02:53:48Z","killer_uid":"79501539-f9b5-48d2-8658-cf1c6d49e3a6","killer_name":"Ucankismyars","killer_faction":"SCR_CampaignFaction<0x00000173A608E8D0>","action":"suicide","victim_uid":"79501539-f9b5-48d2-8658-cf1c6d49e3a6","victim_name":"Ucankismyars","victim_faction":"SCR_CampaignFaction<0x00000173A608E8D0>"}
 ,
 {"timestamp":"2025-06-05T02:54:51Z","killer_uid":"beae5f2f-645f-49c2-94b0-13e2d2b6b638","killer_name":"Shinzō Abe","killer_faction":"SCR_CampaignFaction<0x00000173A608E730>","action":"suicide","victim_uid":"beae5f2f-645f-49c2-94b0-13e2d2b6b638","victim_name":"Shinzō Abe","victim_faction":"SCR_CampaignFaction<0x00000173A608E730>"}
+,
+{"timestamp":"2025-06-05T03:02:27Z","killer_uid":"beae5f2f-645f-49c2-94b0-13e2d2b6b638","killer_name":"Shinzō Abe","killer_faction":"SCR_CampaignFaction<0x00000173A608E730>","action":"kill","victim_uid":"f3a0cb12-f1c4-4e08-97b7-2ed4541ce9a3","victim_name":"Mike","victim_faction":"SCR_CampaignFaction<0x00000173A608E8D0>"}
