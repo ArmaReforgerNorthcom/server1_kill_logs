@@ -40,3 +40,7 @@
 {"timestamp":"2025-06-05T09:42:04Z","killer_uid":"d0cc57da-346a-4249-ae46-1781b07d4111","killer_name":"Major_Sukky","killer_faction":"SCR_CampaignFaction<0x0000019D3E502730>","action":"kill","victim_uid":"9288788b-2c3b-4280-9e51-3925801d9072","victim_name":"ARMERY[NL]","victim_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>"}
 ,
 {"timestamp":"2025-06-05T09:43:50Z","killer_uid":"d0cc57da-346a-4249-ae46-1781b07d4111","killer_name":"Major_Sukky","killer_faction":"SCR_CampaignFaction<0x0000019D3E502730>","action":"kill","victim_uid":"9288788b-2c3b-4280-9e51-3925801d9072","victim_name":"ARMERY[NL]","victim_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>"}
+,
+{"timestamp":"2025-06-05T09:50:24Z","killer_uid":"19f86bb3-633c-47ba-9c86-5c74cca209da","killer_name":"El-J-Bird","killer_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>","action":"suicide","victim_uid":"19f86bb3-633c-47ba-9c86-5c74cca209da","victim_name":"El-J-Bird","victim_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>"}
+,
+{"timestamp":"2025-06-05T09:54:22Z","killer_uid":"9288788b-2c3b-4280-9e51-3925801d9072","killer_name":"ARMERY[NL]","killer_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>","action":"suicide","victim_uid":"9288788b-2c3b-4280-9e51-3925801d9072","victim_name":"ARMERY[NL]","victim_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>"}
