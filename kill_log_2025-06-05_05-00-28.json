@@ -44,3 +44,11 @@
 {"timestamp":"2025-06-05T09:50:24Z","killer_uid":"19f86bb3-633c-47ba-9c86-5c74cca209da","killer_name":"El-J-Bird","killer_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>","action":"suicide","victim_uid":"19f86bb3-633c-47ba-9c86-5c74cca209da","victim_name":"El-J-Bird","victim_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>"}
 ,
 {"timestamp":"2025-06-05T09:54:22Z","killer_uid":"9288788b-2c3b-4280-9e51-3925801d9072","killer_name":"ARMERY[NL]","killer_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>","action":"suicide","victim_uid":"9288788b-2c3b-4280-9e51-3925801d9072","victim_name":"ARMERY[NL]","victim_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>"}
+,
+{"timestamp":"2025-06-05T09:57:36Z","killer_uid":"11818995-8543-4904-8f73-bcc4e4f3a8e9","killer_name":"Marcus_Buch","killer_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>","action":"suicide","victim_uid":"11818995-8543-4904-8f73-bcc4e4f3a8e9","victim_name":"Marcus_Buch","victim_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>"}
+,
+{"timestamp":"2025-06-05T09:59:33Z","killer_uid":"8d307b3d-e7d2-4599-9be9-408d2980426d","killer_name":"Waszaj","killer_faction":"SCR_CampaignFaction<0x0000019D3E502730>","action":"kill","victim_uid":"9288788b-2c3b-4280-9e51-3925801d9072","victim_name":"ARMERY[NL]","victim_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>"}
+,
+{"timestamp":"2025-06-05T10:00:40Z","killer_uid":"8d307b3d-e7d2-4599-9be9-408d2980426d","killer_name":"Waszaj","killer_faction":"SCR_CampaignFaction<0x0000019D3E502730>","action":"kill","victim_uid":"b8bb0a9b-985f-4b2d-b8b9-2d3f55012c6b","victim_name":"MrDark6667138","victim_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>"}
+,
+{"timestamp":"2025-06-05T10:03:41Z","killer_uid":"b8bb0a9b-985f-4b2d-b8b9-2d3f55012c6b","killer_name":"MrDark6667138","killer_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>","action":"suicide","victim_uid":"b8bb0a9b-985f-4b2d-b8b9-2d3f55012c6b","victim_name":"MrDark6667138","victim_faction":"SCR_CampaignFaction<0x0000019D3E5028D0>"}
