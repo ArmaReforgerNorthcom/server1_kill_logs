@@ -640,3 +640,21 @@
 {"timestamp":"2025-06-05T01:03:17Z","killer_uid":"59fe9c9b-8c19-428f-b6de-669f5ece96e0","killer_name":"Kaizun キモリ♡⚣","killer_faction":"SCR_CampaignFaction<0x00000173A608E730>","action":"suicide","victim_uid":"59fe9c9b-8c19-428f-b6de-669f5ece96e0","victim_name":"Kaizun キモリ♡⚣","victim_faction":"SCR_CampaignFaction<0x00000173A608E730>"}
 ,
 {"timestamp":"2025-06-05T01:04:46Z","killer_uid":"5a4552c7-c582-4982-9ca9-6b9af03b570a","killer_name":"Raptor_calcis72","killer_faction":"SCR_CampaignFaction<0x00000173A608E730>","action":"kill","victim_uid":"c034068e-5183-40fa-8d08-60fef19a61af","victim_name":"Unreal_DxrkFN","victim_faction":"SCR_CampaignFaction<0x00000173A608E8D0>"}
+,
+{"timestamp":"2025-06-05T01:05:24Z","killer_uid":"5a4552c7-c582-4982-9ca9-6b9af03b570a","killer_name":"Raptor_calcis72","killer_faction":"SCR_CampaignFaction<0x00000173A608E730>","action":"kill","victim_uid":"a3f3e5d6-a2d0-4464-89ea-9c8bb23d7736","victim_name":"firedog3013","victim_faction":"SCR_CampaignFaction<0x00000173A608E8D0>"}
+,
+{"timestamp":"2025-06-05T01:07:39Z","killer_uid":"59fe9c9b-8c19-428f-b6de-669f5ece96e0","killer_name":"Kaizun キモリ♡⚣","killer_faction":"SCR_CampaignFaction<0x00000173A608E730>","action":"suicide","victim_uid":"59fe9c9b-8c19-428f-b6de-669f5ece96e0","victim_name":"Kaizun キモリ♡⚣","victim_faction":"SCR_CampaignFaction<0x00000173A608E730>"}
+,
+{"timestamp":"2025-06-05T01:10:12Z","killer_uid":"95c8f1c2-6df2-4534-9c75-2b3a86cf9ca7","killer_name":"atom_dogo1","killer_faction":"SCR_CampaignFaction<0x00000173A608E730>","action":"kill","victim_uid":"3b3cbdbb-93d8-4295-ae14-c75a506ffb78","victim_name":"Principe Borgia","victim_faction":"SCR_CampaignFaction<0x00000173A608E8D0>"}
+,
+{"timestamp":"2025-06-05T01:11:43Z","killer_uid":"f3a0cb12-f1c4-4e08-97b7-2ed4541ce9a3","killer_name":"Mike","killer_faction":"SCR_CampaignFaction<0x00000173A608E8D0>","action":"kill","victim_uid":"95c8f1c2-6df2-4534-9c75-2b3a86cf9ca7","victim_name":"atom_dogo1","victim_faction":"SCR_CampaignFaction<0x00000173A608E730>"}
+,
+{"timestamp":"2025-06-05T01:11:46Z","killer_uid":"5a4552c7-c582-4982-9ca9-6b9af03b570a","killer_name":"Raptor_calcis72","killer_faction":"SCR_CampaignFaction<0x00000173A608E730>","action":"suicide","victim_uid":"5a4552c7-c582-4982-9ca9-6b9af03b570a","victim_name":"Raptor_calcis72","victim_faction":"SCR_CampaignFaction<0x00000173A608E730>"}
+,
+{"timestamp":"2025-06-05T01:11:55Z","killer_uid":"59fe9c9b-8c19-428f-b6de-669f5ece96e0","killer_name":"Kaizun キモリ♡⚣","killer_faction":"SCR_CampaignFaction<0x00000173A608E730>","action":"kill","victim_uid":"f3a0cb12-f1c4-4e08-97b7-2ed4541ce9a3","victim_name":"Mike","victim_faction":"SCR_CampaignFaction<0x00000173A608E8D0>"}
+,
+{"timestamp":"2025-06-05T01:11:59Z","killer_uid":"c034068e-5183-40fa-8d08-60fef19a61af","killer_name":"Unreal_DxrkFN","killer_faction":"SCR_CampaignFaction<0x00000173A608E8D0>","action":"suicide","victim_uid":"c034068e-5183-40fa-8d08-60fef19a61af","victim_name":"Unreal_DxrkFN","victim_faction":"SCR_CampaignFaction<0x00000173A608E8D0>"}
+,
+{"timestamp":"2025-06-05T01:12:51Z","killer_uid":"5a4552c7-c582-4982-9ca9-6b9af03b570a","killer_name":"Raptor_calcis72","killer_faction":"SCR_CampaignFaction<0x00000173A608E730>","action":"kill","victim_uid":"79501539-f9b5-48d2-8658-cf1c6d49e3a6","victim_name":"Ucankismyars","victim_faction":"SCR_CampaignFaction<0x00000173A608E8D0>"}
+,
+{"timestamp":"2025-06-05T01:13:26Z","killer_uid":"e82a06cd-9213-40a3-a272-d480cd71e780","killer_name":"orionsbelt9303","killer_faction":"SCR_CampaignFaction<0x00000173A608E8D0>","action":"kill","victim_uid":"59fe9c9b-8c19-428f-b6de-669f5ece96e0","victim_name":"Kaizun キモリ♡⚣","victim_faction":"SCR_CampaignFaction<0x00000173A608E730>"}
