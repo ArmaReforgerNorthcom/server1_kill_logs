@@ -47,7 +47,7 @@
     "kill": 33,
     "teamkill": 4,
     "suicide": 7,
-    "death": 34
+    "death": 38
   },
   "f941572b-f2ad-4fd5-91a5-c964bf531c59": {
     "name": "xabjectx",
@@ -77,17 +77,17 @@
     "kill": 23,
     "teamkill": 0,
     "suicide": 13,
-    "death": 44
+    "death": 45
   },
   "66de2ad3-3d45-4a00-9625-c06f623bb770": {
     "name": "xTunguzka",
     "aliases": [
       "xTunguzka"
     ],
-    "kill": 155,
-    "teamkill": 3,
-    "suicide": 9,
-    "death": 83
+    "kill": 177,
+    "teamkill": 4,
+    "suicide": 12,
+    "death": 94
   },
   "51e5bd3b-e385-4343-91b5-3749607dbe46": {
     "name": "malovEn98247",
@@ -104,10 +104,10 @@
     "aliases": [
       "HaiLuxSkyWalker"
     ],
-    "kill": 328,
-    "teamkill": 12,
-    "suicide": 48,
-    "death": 177
+    "kill": 362,
+    "teamkill": 14,
+    "suicide": 51,
+    "death": 206
   },
   "8d72921e-b59a-4466-9bab-8ce49b556d3c": {
     "name": "sirWardaddy201",
@@ -124,10 +124,10 @@
     "aliases": [
       "Rennug"
     ],
-    "kill": 100,
-    "teamkill": 3,
-    "suicide": 20,
-    "death": 107
+    "kill": 128,
+    "teamkill": 5,
+    "suicide": 23,
+    "death": 131
   },
   "39718a6d-3313-468d-9ece-d66a0257013f": {
     "name": "Sinko Pekka",
@@ -154,10 +154,10 @@
     "aliases": [
       "Touchmychomp"
     ],
-    "kill": 131,
+    "kill": 148,
     "teamkill": 8,
-    "suicide": 17,
-    "death": 58
+    "suicide": 18,
+    "death": 61
   },
   "eb44cd1a-59e5-44eb-a91c-a2a87b3592a4": {
     "name": "eSoteria_",
@@ -174,10 +174,10 @@
     "aliases": [
       "Bobzinatorz9999"
     ],
-    "kill": 102,
-    "teamkill": 20,
-    "suicide": 22,
-    "death": 120
+    "kill": 104,
+    "teamkill": 25,
+    "suicide": 26,
+    "death": 133
   },
   "dbd58405-5a2e-4671-aadb-a42c0c19df74": {
     "name": "Mrdinklepick",
@@ -204,10 +204,10 @@
     "aliases": [
       "ArcticPeach"
     ],
-    "kill": 63,
-    "teamkill": 7,
-    "suicide": 1,
-    "death": 26
+    "kill": 99,
+    "teamkill": 8,
+    "suicide": 3,
+    "death": 46
   },
   "a73da248-1b0a-4579-b441-055438ff4fd6": {
     "name": "Oddball_E8",
@@ -224,10 +224,10 @@
     "aliases": [
       "TKN-aronnora"
     ],
-    "kill": 41,
+    "kill": 50,
     "teamkill": 2,
     "suicide": 51,
-    "death": 166
+    "death": 188
   },
   "ef47cb0c-4581-4626-ac1c-79dc010a6891": {
     "name": "Xemnas",
@@ -257,7 +257,7 @@
     "kill": 15,
     "teamkill": 0,
     "suicide": 13,
-    "death": 56
+    "death": 58
   },
   "fc23c547-0eec-4666-9154-f42ceef7c505": {
     "name": "sBouwman",
@@ -284,10 +284,10 @@
     "aliases": [
       "Loooneboy"
     ],
-    "kill": 219,
-    "teamkill": 37,
-    "suicide": 18,
-    "death": 169
+    "kill": 237,
+    "teamkill": 40,
+    "suicide": 22,
+    "death": 206
   },
   "3da78493-c4f1-47f8-9148-1a5d40bc69f7": {
     "name": "Mumpitz",
@@ -304,10 +304,10 @@
     "aliases": [
       "ZerosEnd020"
     ],
-    "kill": 219,
-    "teamkill": 34,
-    "suicide": 33,
-    "death": 158
+    "kill": 237,
+    "teamkill": 38,
+    "suicide": 38,
+    "death": 182
   },
   "45e7b4ce-aaa6-4ff6-b553-9fd4fddcc46b": {
     "name": "JAGERThe2nd",
@@ -346,8 +346,8 @@
     ],
     "kill": 38,
     "teamkill": 2,
-    "suicide": 13,
-    "death": 98
+    "suicide": 15,
+    "death": 106
   },
   "e5ba9644-0e78-4e69-b06f-6f4dcb7069b6": {
     "name": "IwillSiege4Life",
@@ -404,10 +404,10 @@
     "aliases": [
       "SNOKE999"
     ],
-    "kill": 222,
+    "kill": 270,
     "teamkill": 3,
-    "suicide": 23,
-    "death": 128
+    "suicide": 27,
+    "death": 153
   },
   "75479d16-3b20-4942-8e2b-f2e5e69cfec7": {
     "name": "REDRUBY14",
@@ -456,8 +456,8 @@
     ],
     "kill": 2,
     "teamkill": 0,
-    "suicide": 2,
-    "death": 9
+    "suicide": 3,
+    "death": 11
   },
   "e67c8880-c89e-427d-9c85-95a0a56223c3": {
     "name": "=AFFE= HermannKrieg",
@@ -484,20 +484,20 @@
     "aliases": [
       "Fredrick"
     ],
-    "kill": 227,
+    "kill": 279,
     "teamkill": 2,
-    "suicide": 3,
-    "death": 43
+    "suicide": 5,
+    "death": 66
   },
   "a7eedc9e-3b6d-49b1-b247-cc1fd78d3aaf": {
     "name": "Kafka",
     "aliases": [
       "Kafka"
     ],
-    "kill": 85,
+    "kill": 88,
     "teamkill": 5,
-    "suicide": 15,
-    "death": 56
+    "suicide": 22,
+    "death": 68
   },
   "f4c223e7-b14f-4e0a-b8fe-4852cd3458bb": {
     "name": "Kilted_Colossus",
@@ -544,10 +544,10 @@
     "aliases": [
       "benrosebury12"
     ],
-    "kill": 41,
+    "kill": 47,
     "teamkill": 45,
-    "suicide": 92,
-    "death": 226
+    "suicide": 94,
+    "death": 232
   },
   "78c965bc-07da-4683-addd-84f029e32b84": {
     "name": "RandyFetus69",
@@ -614,10 +614,10 @@
     "aliases": [
       "PSZ-PL-"
     ],
-    "kill": 78,
-    "teamkill": 1,
+    "kill": 99,
+    "teamkill": 2,
     "suicide": 4,
-    "death": 72
+    "death": 103
   },
   "eb2574af-f313-43cb-9f5d-dfdc9969cdc2": {
     "name": "torca1981",
@@ -684,10 +684,10 @@
     "aliases": [
       "OnlyforFUn"
     ],
-    "kill": 81,
+    "kill": 99,
     "teamkill": 3,
-    "suicide": 7,
-    "death": 108
+    "suicide": 9,
+    "death": 119
   },
   "fc7b9171-d4a6-46f2-851f-9bf738fb4cf7": {
     "name": "Iceman71---",
@@ -714,10 +714,10 @@
     "aliases": [
       "SmellyFingr"
     ],
-    "kill": 94,
-    "teamkill": 1,
+    "kill": 138,
+    "teamkill": 3,
     "suicide": 5,
-    "death": 37
+    "death": 50
   },
   "ff5ad072-b8ca-4d7d-bd2b-f875b20d1136": {
     "name": "Baki TDS",
@@ -734,10 +734,10 @@
     "aliases": [
       "Star_Commander34"
     ],
-    "kill": 30,
+    "kill": 38,
     "teamkill": 10,
-    "suicide": 13,
-    "death": 88
+    "suicide": 14,
+    "death": 105
   },
   "3486782d-11cf-457f-be4a-c815312abce4": {
     "name": "pandafu07",
@@ -754,17 +754,17 @@
     "aliases": [
       "!\\Sir.Marcarco/!"
     ],
-    "kill": 58,
+    "kill": 61,
     "teamkill": 5,
-    "suicide": 8,
-    "death": 42
+    "suicide": 10,
+    "death": 49
   },
   "": {
     "name": "",
     "aliases": [
       ""
     ],
-    "kill": 540,
+    "kill": 578,
     "teamkill": 0,
     "suicide": 0,
     "death": 0
@@ -784,10 +784,10 @@
     "aliases": [
       "Lightyearr8770"
     ],
-    "kill": 65,
+    "kill": 70,
     "teamkill": 6,
     "suicide": 27,
-    "death": 77
+    "death": 85
   },
   "d6645dec-c05c-4e60-b512-13abc36504c4": {
     "name": "lombow62",
@@ -884,10 +884,10 @@
     "aliases": [
       "Robzd"
     ],
-    "kill": 22,
+    "kill": 29,
     "teamkill": 1,
-    "suicide": 10,
-    "death": 55
+    "suicide": 11,
+    "death": 73
   },
   "7279e77d-b8f3-42b3-a82c-3a60dc299468": {
     "name": "Lallati-",
@@ -904,10 +904,10 @@
     "aliases": [
       "Kuniko"
     ],
-    "kill": 124,
-    "teamkill": 3,
-    "suicide": 12,
-    "death": 95
+    "kill": 173,
+    "teamkill": 8,
+    "suicide": 16,
+    "death": 113
   },
   "62e71ddb-6c90-480c-a56f-d7d8889112b5": {
     "name": "Kewolsky",
@@ -924,10 +924,10 @@
     "aliases": [
       "gunnerboyrick"
     ],
-    "kill": 189,
-    "teamkill": 13,
-    "suicide": 46,
-    "death": 216
+    "kill": 213,
+    "teamkill": 14,
+    "suicide": 56,
+    "death": 240
   },
   "456d3f22-1940-4de4-806d-96881fc0531c": {
     "name": "kaldmignitro",
@@ -966,8 +966,8 @@
     ],
     "kill": 1,
     "teamkill": 0,
-    "suicide": 2,
-    "death": 8
+    "suicide": 3,
+    "death": 15
   },
   "fba75285-4642-46c3-8e5f-d612322452b0": {
     "name": "Bapo2388",
@@ -1004,10 +1004,10 @@
     "aliases": [
       "silverblazzin95"
     ],
-    "kill": 36,
+    "kill": 43,
     "teamkill": 2,
     "suicide": 7,
-    "death": 60
+    "death": 69
   },
   "1834978c-db14-4f2f-a890-4da4a0d39f4b": {
     "name": "Syntetisk-bass",
@@ -1044,10 +1044,10 @@
     "aliases": [
       "LUPUS"
     ],
-    "kill": 5,
-    "teamkill": 0,
-    "suicide": 3,
-    "death": 9
+    "kill": 7,
+    "teamkill": 2,
+    "suicide": 4,
+    "death": 31
   },
   "558da238-d569-4adf-a927-b8aa0d176961": {
     "name": "Talleyrand",
@@ -1094,10 +1094,10 @@
     "aliases": [
       "Wolfsauge"
     ],
-    "kill": 120,
-    "teamkill": 6,
-    "suicide": 6,
-    "death": 117
+    "kill": 136,
+    "teamkill": 8,
+    "suicide": 8,
+    "death": 132
   },
   "88cedf15-38fc-42b7-8f13-c8fb6f1faf75": {
     "name": "Marco",
@@ -1124,10 +1124,10 @@
     "aliases": [
       "Bigsmoker420364"
     ],
-    "kill": 0,
+    "kill": 4,
     "teamkill": 0,
-    "suicide": 2,
-    "death": 5
+    "suicide": 4,
+    "death": 19
   },
   "5473f8d5-1629-4ba3-83e4-a51076bbd858": {
     "name": "George0892",
@@ -1254,10 +1254,10 @@
     "aliases": [
       "lanrim"
     ],
-    "kill": 14,
-    "teamkill": 1,
-    "suicide": 10,
-    "death": 23
+    "kill": 28,
+    "teamkill": 2,
+    "suicide": 13,
+    "death": 31
   },
   "2d0fbe45-fa14-4e35-a0fc-21e9cafed6b7": {
     "name": "\ud835\udc0a\ud835\udc11\ud835\udc00\ud835\udc12\ud835\udc07",
@@ -1294,10 +1294,10 @@
     "aliases": [
       "Slehter"
     ],
-    "kill": 135,
+    "kill": 177,
     "teamkill": 2,
-    "suicide": 2,
-    "death": 82
+    "suicide": 3,
+    "death": 107
   },
   "1bc3549e-261b-44aa-a4ad-6b4f7582d7f3": {
     "name": "gavinparadise",
@@ -1314,20 +1314,20 @@
     "aliases": [
       "BAGET"
     ],
-    "kill": 302,
-    "teamkill": 18,
-    "suicide": 28,
-    "death": 156
+    "kill": 325,
+    "teamkill": 20,
+    "suicide": 36,
+    "death": 170
   },
   "97a93943-fc7e-4f5e-9d71-38359028db69": {
     "name": "Ah, Milk",
     "aliases": [
       "Ah, Milk"
     ],
-    "kill": 45,
+    "kill": 57,
     "teamkill": 4,
-    "suicide": 10,
-    "death": 69
+    "suicide": 12,
+    "death": 80
   },
   "7c4db956-aec5-42fb-9de6-1b2315b15001": {
     "name": "TwzYSW",
@@ -1354,10 +1354,10 @@
     "aliases": [
       "SilentMK"
     ],
-    "kill": 231,
-    "teamkill": 16,
-    "suicide": 34,
-    "death": 108
+    "kill": 238,
+    "teamkill": 18,
+    "suicide": 41,
+    "death": 133
   },
   "afeb5adf-76df-48e1-8d88-8b00ad639b50": {
     "name": "genster_style",
@@ -1384,10 +1384,10 @@
     "aliases": [
       "Vito-DiDonato"
     ],
-    "kill": 134,
-    "teamkill": 18,
-    "suicide": 46,
-    "death": 158
+    "kill": 141,
+    "teamkill": 20,
+    "suicide": 50,
+    "death": 169
   },
   "45050ef1-d934-4013-be2a-5eb921ca9151": {
     "name": "Caz",
@@ -1437,7 +1437,7 @@
     "kill": 19,
     "teamkill": 2,
     "suicide": 0,
-    "death": 54
+    "death": 56
   },
   "0c99aa3e-4ddd-440a-bff1-cc87121e3c56": {
     "name": "DaV4sTaTiioNz",
@@ -1464,10 +1464,10 @@
     "aliases": [
       "Mikele!"
     ],
-    "kill": 6,
+    "kill": 13,
     "teamkill": 3,
     "suicide": 0,
-    "death": 14
+    "death": 25
   },
   "995e769d-67e8-4b94-a793-0fdd70564329": {
     "name": "FIashDrivee",
@@ -1564,20 +1564,20 @@
     "aliases": [
       "Shinz\u014d Abe"
     ],
-    "kill": 154,
+    "kill": 161,
     "teamkill": 6,
-    "suicide": 23,
-    "death": 158
+    "suicide": 24,
+    "death": 166
   },
   "0039ce56-bdea-4838-968d-2c4e0aea9013": {
     "name": "BeetleJuice",
     "aliases": [
       "BeetleJuice"
     ],
-    "kill": 229,
-    "teamkill": 9,
-    "suicide": 13,
-    "death": 114
+    "kill": 263,
+    "teamkill": 10,
+    "suicide": 14,
+    "death": 130
   },
   "f5b9592f-9761-4d73-bbf0-ead32cc229e4": {
     "name": "momedo-1702",
@@ -1674,10 +1674,10 @@
     "aliases": [
       "JULEEAA123"
     ],
-    "kill": 9,
-    "teamkill": 0,
+    "kill": 19,
+    "teamkill": 2,
     "suicide": 0,
-    "death": 20
+    "death": 38
   },
   "5794d2fd-b7aa-4c76-b15a-2b6391d458b1": {
     "name": "L4rs",
@@ -1764,10 +1764,10 @@
     "aliases": [
       "NoNameFMR"
     ],
-    "kill": 15,
-    "teamkill": 0,
-    "suicide": 1,
-    "death": 6
+    "kill": 16,
+    "teamkill": 1,
+    "suicide": 3,
+    "death": 10
   },
   "efbcbc84-0c35-440c-8945-1f69b602eaed": {
     "name": "lord heinrich",
@@ -1814,20 +1814,20 @@
     "aliases": [
       "PHILTR0UT"
     ],
-    "kill": 28,
+    "kill": 29,
     "teamkill": 2,
     "suicide": 7,
-    "death": 58
+    "death": 62
   },
   "a1d33aad-2953-4f31-b22f-a447b32c3a48": {
     "name": "GDYX-ll",
     "aliases": [
       "GDYX-ll"
     ],
-    "kill": 55,
-    "teamkill": 12,
-    "suicide": 6,
-    "death": 56
+    "kill": 76,
+    "teamkill": 14,
+    "suicide": 9,
+    "death": 104
   },
   "d577d528-16dc-471c-9dcc-409c62b7f4ab": {
     "name": "thelastjediutube",
@@ -1934,10 +1934,10 @@
     "aliases": [
       "ThieuSon"
     ],
-    "kill": 88,
+    "kill": 109,
     "teamkill": 0,
-    "suicide": 2,
-    "death": 84
+    "suicide": 4,
+    "death": 101
   },
   "d29e15d8-4e17-447e-9db9-a911f176b287": {
     "name": "agent flens",
@@ -2114,10 +2114,10 @@
     "aliases": [
       "SrryForHeadshot"
     ],
-    "kill": 107,
+    "kill": 110,
     "teamkill": 4,
-    "suicide": 13,
-    "death": 57
+    "suicide": 17,
+    "death": 67
   },
   "352b412d-9bd2-41b0-8ce2-496fdeddc2a0": {
     "name": "MasAaAlkHayr",
@@ -2224,10 +2224,10 @@
     "aliases": [
       "Booba"
     ],
-    "kill": 1,
-    "teamkill": 0,
-    "suicide": 1,
-    "death": 4
+    "kill": 9,
+    "teamkill": 2,
+    "suicide": 4,
+    "death": 21
   },
   "8ae2d50c-db15-4af7-aa0c-cc2408a8e20f": {
     "name": "DatAssOfficial",
@@ -2274,10 +2274,10 @@
     "aliases": [
       "ProBotSam"
     ],
-    "kill": 130,
+    "kill": 142,
     "teamkill": 4,
-    "suicide": 9,
-    "death": 96
+    "suicide": 10,
+    "death": 116
   },
   "0fea67df-6c11-41fc-95cb-86790a9089b4": {
     "name": "Rush129",
@@ -2314,10 +2314,10 @@
     "aliases": [
       "VintageAces"
     ],
-    "kill": 22,
-    "teamkill": 1,
-    "suicide": 13,
-    "death": 58
+    "kill": 37,
+    "teamkill": 4,
+    "suicide": 16,
+    "death": 74
   },
   "32fb3a9b-179d-461d-8a36-f7d3ca36a21f": {
     "name": "GigaChad",
@@ -2477,7 +2477,7 @@
     "kill": 14,
     "teamkill": 1,
     "suicide": 6,
-    "death": 30
+    "death": 34
   },
   "dfb0ab83-541c-4e05-aa58-e4d4dcdf7348": {
     "name": "L-Caso",
@@ -2534,10 +2534,10 @@
     "aliases": [
       "Crayon_Eater"
     ],
-    "kill": 40,
-    "teamkill": 2,
-    "suicide": 17,
-    "death": 66
+    "kill": 41,
+    "teamkill": 4,
+    "suicide": 23,
+    "death": 76
   },
   "c935725e-a553-4ec1-8e1d-0aa4f748d12b": {
     "name": "henke",
@@ -2584,10 +2584,10 @@
     "aliases": [
       "ZangRok"
     ],
-    "kill": 214,
-    "teamkill": 5,
-    "suicide": 7,
-    "death": 130
+    "kill": 263,
+    "teamkill": 12,
+    "suicide": 10,
+    "death": 158
   },
   "8364f152-d9f2-4ab0-9d7d-8630da6c4a52": {
     "name": "mho-d0s",
@@ -2624,10 +2624,10 @@
     "aliases": [
       "Feet pics peddler"
     ],
-    "kill": 5,
+    "kill": 26,
     "teamkill": 0,
-    "suicide": 1,
-    "death": 9
+    "suicide": 6,
+    "death": 27
   },
   "f30643b5-637a-4704-8df4-978ff0e61e04": {
     "name": "admkap",
@@ -2644,10 +2644,10 @@
     "aliases": [
       "Emoscatini"
     ],
-    "kill": 21,
+    "kill": 22,
     "teamkill": 0,
-    "suicide": 20,
-    "death": 96
+    "suicide": 24,
+    "death": 104
   },
   "7553d9e9-9853-42f5-abc1-6e2e6caf1882": {
     "name": "Ear cancer",
@@ -2674,10 +2674,10 @@
     "aliases": [
       "[DADS] HampusFridell"
     ],
-    "kill": 60,
+    "kill": 91,
     "teamkill": 1,
-    "suicide": 1,
-    "death": 29
+    "suicide": 2,
+    "death": 41
   },
   "3266f568-bd9c-4229-b0f5-cab05412959b": {
     "name": "just a random swed",
@@ -2914,10 +2914,10 @@
     "aliases": [
       "Brandon-2006-"
     ],
-    "kill": 147,
-    "teamkill": 16,
-    "suicide": 27,
-    "death": 187
+    "kill": 160,
+    "teamkill": 18,
+    "suicide": 28,
+    "death": 215
   },
   "7383a8a5-0570-4260-99bd-e7ab1882924b": {
     "name": "Snoopy[sonix]",
@@ -2934,10 +2934,10 @@
     "aliases": [
       "Oufh Matrix"
     ],
-    "kill": 44,
+    "kill": 50,
     "teamkill": 1,
-    "suicide": 1,
-    "death": 36
+    "suicide": 2,
+    "death": 51
   },
   "b5fb752c-3eaa-4e7c-b9cd-cee16e4d08e9": {
     "name": "UpL Nexus",
@@ -2984,20 +2984,20 @@
     "aliases": [
       "Majestickles"
     ],
-    "kill": 61,
-    "teamkill": 6,
+    "kill": 71,
+    "teamkill": 8,
     "suicide": 11,
-    "death": 83
+    "death": 99
   },
   "1420edaf-c7a4-42d3-b585-7e69744c38de": {
     "name": "BOKSonspotify",
     "aliases": [
       "BOKSonspotify"
     ],
-    "kill": 51,
-    "teamkill": 0,
-    "suicide": 16,
-    "death": 96
+    "kill": 63,
+    "teamkill": 1,
+    "suicide": 18,
+    "death": 112
   },
   "7053c4b8-bae8-4d44-80ab-9c7755ae4f11": {
     "name": "CHOCCY-WARRIOR",
@@ -3064,10 +3064,10 @@
     "aliases": [
       "Lazy"
     ],
-    "kill": 23,
+    "kill": 26,
     "teamkill": 1,
-    "suicide": 2,
-    "death": 23
+    "suicide": 3,
+    "death": 29
   },
   "2a7ce1e7-2ddd-49a5-974f-297ef12e9416": {
     "name": "Wonderboy",
@@ -3094,10 +3094,10 @@
     "aliases": [
       "verentr"
     ],
-    "kill": 156,
-    "teamkill": 7,
-    "suicide": 42,
-    "death": 147
+    "kill": 225,
+    "teamkill": 11,
+    "suicide": 49,
+    "death": 197
   },
   "676203b2-f041-4fbe-9592-b698755e9271": {
     "name": "Stymz__",
@@ -3184,10 +3184,10 @@
     "aliases": [
       "getmashedup"
     ],
-    "kill": 16,
+    "kill": 18,
     "teamkill": 1,
-    "suicide": 3,
-    "death": 51
+    "suicide": 4,
+    "death": 58
   },
   "714b9a6c-888c-4e44-882b-0ee365c62457": {
     "name": "GoNnAcRy7823",
@@ -3264,10 +3264,10 @@
     "aliases": [
       "nookie"
     ],
-    "kill": 185,
-    "teamkill": 30,
-    "suicide": 24,
-    "death": 128
+    "kill": 208,
+    "teamkill": 31,
+    "suicide": 25,
+    "death": 143
   },
   "af9e7ceb-4d7f-4abb-9c89-ead4b9f4df60": {
     "name": "slasher9909",
@@ -3364,10 +3364,10 @@
     "aliases": [
       "Paid Actor"
     ],
-    "kill": 178,
+    "kill": 204,
     "teamkill": 4,
-    "suicide": 9,
-    "death": 89
+    "suicide": 13,
+    "death": 112
   },
   "b81bf88c-852e-4014-9ee5-5509fbf28f4e": {
     "name": "drewpowell45",
@@ -3434,10 +3434,10 @@
     "aliases": [
       "Gus Fring"
     ],
-    "kill": 8,
-    "teamkill": 0,
-    "suicide": 1,
-    "death": 5
+    "kill": 22,
+    "teamkill": 1,
+    "suicide": 2,
+    "death": 17
   },
   "2866f248-5c03-44d6-bf8b-a55cf853a5e2": {
     "name": "Your401kPlan",
@@ -3504,10 +3504,10 @@
     "aliases": [
       "RhinoKid91"
     ],
-    "kill": 5,
+    "kill": 8,
     "teamkill": 0,
-    "suicide": 0,
-    "death": 11
+    "suicide": 4,
+    "death": 22
   },
   "d7bcaa87-89bf-4caf-b0a5-f1eceb741389": {
     "name": "phos",
@@ -3564,10 +3564,10 @@
     "aliases": [
       "OOMrPoonOO"
     ],
-    "kill": 28,
-    "teamkill": 3,
+    "kill": 37,
+    "teamkill": 4,
     "suicide": 3,
-    "death": 35
+    "death": 40
   },
   "5db85244-5b60-4403-b352-a327ea60a960": {
     "name": "Loslobo9",
@@ -3604,10 +3604,10 @@
     "aliases": [
       "Red"
     ],
-    "kill": 32,
+    "kill": 39,
     "teamkill": 0,
     "suicide": 0,
-    "death": 8
+    "death": 21
   },
   "f7af24ae-ac23-4b52-84a2-dec50d69d11e": {
     "name": "TheCrippled120",
@@ -3684,10 +3684,10 @@
     "aliases": [
       "Chellie_1830"
     ],
-    "kill": 147,
-    "teamkill": 5,
-    "suicide": 14,
-    "death": 119
+    "kill": 184,
+    "teamkill": 9,
+    "suicide": 15,
+    "death": 141
   },
   "4d9678ae-b5f6-49d8-b396-3329d751868c": {
     "name": "dino86zg",
@@ -3714,10 +3714,10 @@
     "aliases": [
       "Matthew 10:34"
     ],
-    "kill": 93,
+    "kill": 103,
     "teamkill": 1,
-    "suicide": 16,
-    "death": 71
+    "suicide": 17,
+    "death": 76
   },
   "7b0e2e58-9391-48f3-a570-5556c4c1f171": {
     "name": "Alatar",
@@ -3814,10 +3814,10 @@
     "aliases": [
       "ABritishWitcher"
     ],
-    "kill": 56,
+    "kill": 59,
     "teamkill": 2,
-    "suicide": 6,
-    "death": 61
+    "suicide": 7,
+    "death": 79
   },
   "dc9193e7-380c-473b-b8a9-bcfe3dfbebff": {
     "name": "Binary",
@@ -3965,10 +3965,10 @@
     "aliases": [
       "I Zesk45 I"
     ],
-    "kill": 27,
-    "teamkill": 2,
+    "kill": 42,
+    "teamkill": 4,
     "suicide": 11,
-    "death": 53
+    "death": 65
   },
   "3d204328-2922-440e-afe8-f2f45b518320": {
     "name": "UBER-NANO-SOLDIER",
@@ -4015,10 +4015,10 @@
     "aliases": [
       "DefiantSmarty01"
     ],
-    "kill": 14,
-    "teamkill": 0,
+    "kill": 21,
+    "teamkill": 1,
     "suicide": 7,
-    "death": 44
+    "death": 55
   },
   "f19f43a5-e378-401b-9bd0-fa34ab84b5ae": {
     "name": "DopePan",
@@ -4075,10 +4075,10 @@
     "aliases": [
       "timskovich_"
     ],
-    "kill": 27,
-    "teamkill": 0,
-    "suicide": 1,
-    "death": 33
+    "kill": 41,
+    "teamkill": 2,
+    "suicide": 8,
+    "death": 60
   },
   "dfa29c1d-0f83-4f8d-a736-4126ceb51c8e": {
     "name": "bailey_spoon",
@@ -4095,10 +4095,10 @@
     "aliases": [
       "temp-722264"
     ],
-    "kill": 30,
-    "teamkill": 7,
-    "suicide": 9,
-    "death": 69
+    "kill": 42,
+    "teamkill": 10,
+    "suicide": 10,
+    "death": 76
   },
   "40a1f039-0a9e-4ed9-aa46-0ed6abed82b7": {
     "name": "Sir Hendriks Voorhuid",
@@ -4115,20 +4115,20 @@
     "aliases": [
       "omer-t46"
     ],
-    "kill": 27,
-    "teamkill": 3,
+    "kill": 50,
+    "teamkill": 7,
     "suicide": 10,
-    "death": 30
+    "death": 37
   },
   "68b91d7f-d54c-4ddc-92bb-966894f68c71": {
     "name": "RevoiMIBIHA",
     "aliases": [
       "RevoiMIBIHA"
     ],
-    "kill": 14,
+    "kill": 20,
     "teamkill": 1,
-    "suicide": 3,
-    "death": 43
+    "suicide": 6,
+    "death": 57
   },
   "6f100aeb-4cfc-4a31-9d23-0ccd9dcf3a13": {
     "name": "SwollenHelmet",
@@ -4205,10 +4205,10 @@
     "aliases": [
       "kruchini228"
     ],
-    "kill": 9,
+    "kill": 14,
     "teamkill": 1,
-    "suicide": 2,
-    "death": 23
+    "suicide": 3,
+    "death": 36
   },
   "01704b8b-6a67-483f-add8-428439df96ff": {
     "name": "SOTL-9INE",
@@ -4235,30 +4235,30 @@
     "aliases": [
       "Raptor_calcis72"
     ],
-    "kill": 14,
+    "kill": 16,
     "teamkill": 10,
-    "suicide": 5,
-    "death": 51
+    "suicide": 8,
+    "death": 63
   },
   "0215de34-3a0b-431c-9553-339c28a96cec": {
     "name": "HappyPanda",
     "aliases": [
       "HappyPanda"
     ],
-    "kill": 50,
+    "kill": 54,
     "teamkill": 0,
     "suicide": 7,
-    "death": 44
+    "death": 49
   },
   "34fd10e9-fccb-43eb-802c-892b4d359792": {
     "name": "pellekingen07",
     "aliases": [
       "pellekingen07"
     ],
-    "kill": 3,
+    "kill": 7,
     "teamkill": 4,
-    "suicide": 5,
-    "death": 33
+    "suicide": 7,
+    "death": 44
   },
   "299093ce-4eb0-466b-a269-c520c516ee2b": {
     "name": "Dovakhiin",
@@ -4295,10 +4295,10 @@
     "aliases": [
       "Unreal_DxrkFN"
     ],
-    "kill": 15,
+    "kill": 16,
     "teamkill": 2,
-    "suicide": 14,
-    "death": 62
+    "suicide": 16,
+    "death": 89
   },
   "afd63220-5f91-4ac9-a16f-e800e0efbb45": {
     "name": "TARKHON",
@@ -4315,10 +4315,10 @@
     "aliases": [
       "Xjiks_FR"
     ],
-    "kill": 31,
+    "kill": 60,
     "teamkill": 1,
-    "suicide": 3,
-    "death": 27
+    "suicide": 4,
+    "death": 38
   },
   "ecad3ea5-2c5e-4f28-a91a-b042c9fb6175": {
     "name": "R-Yan",
@@ -4335,10 +4335,10 @@
     "aliases": [
       "Lemon The Potatoe"
     ],
-    "kill": 78,
+    "kill": 129,
     "teamkill": 0,
     "suicide": 1,
-    "death": 51
+    "death": 70
   },
   "f2e635bf-8d5c-4fef-be4c-ccce52145ad4": {
     "name": "Peiper",
@@ -4355,10 +4355,10 @@
     "aliases": [
       "Cupra"
     ],
-    "kill": 41,
+    "kill": 43,
     "teamkill": 2,
-    "suicide": 2,
-    "death": 55
+    "suicide": 3,
+    "death": 62
   },
   "e289ab7f-fa9a-431e-9c3d-0f8dea7b3f4e": {
     "name": "Mason Brooklynn",
@@ -4395,10 +4395,10 @@
     "aliases": [
       "uJarSkillz"
     ],
-    "kill": 44,
-    "teamkill": 4,
-    "suicide": 10,
-    "death": 45
+    "kill": 78,
+    "teamkill": 7,
+    "suicide": 12,
+    "death": 72
   },
   "ce76d6c7-67d1-474d-ab8b-b12c627f5e0c": {
     "name": "kristacheee",
@@ -4435,20 +4435,20 @@
     "aliases": [
       "tvuj_dedo69"
     ],
-    "kill": 7,
-    "teamkill": 0,
-    "suicide": 3,
-    "death": 21
+    "kill": 27,
+    "teamkill": 1,
+    "suicide": 4,
+    "death": 31
   },
   "130dc622-afe2-418d-96ae-0d92060e74c5": {
     "name": "\u0412\u041e\u0420\u041e\u0411\u0415\u0419",
     "aliases": [
       "\u0412\u041e\u0420\u041e\u0411\u0415\u0419"
     ],
-    "kill": 28,
-    "teamkill": 4,
-    "suicide": 4,
-    "death": 31
+    "kill": 33,
+    "teamkill": 5,
+    "suicide": 6,
+    "death": 43
   },
   "58a9dab5-9f98-4664-b307-05d811f80d29": {
     "name": "Wulfric",
@@ -4475,10 +4475,10 @@
     "aliases": [
       "jovanluka23"
     ],
-    "kill": 8,
+    "kill": 11,
     "teamkill": 0,
-    "suicide": 1,
-    "death": 17
+    "suicide": 2,
+    "death": 30
   },
   "2b89518e-66ba-4481-a804-22f34f2ecfb9": {
     "name": "Renzotje023",
@@ -4527,8 +4527,8 @@
     ],
     "kill": 8,
     "teamkill": 14,
-    "suicide": 10,
-    "death": 59
+    "suicide": 11,
+    "death": 64
   },
   "70916ad5-a7bd-4133-a992-3c876a7ca62e": {
     "name": "Tengel",
@@ -4545,10 +4545,10 @@
     "aliases": [
       "Borny"
     ],
-    "kill": 114,
-    "teamkill": 7,
-    "suicide": 62,
-    "death": 151
+    "kill": 115,
+    "teamkill": 8,
+    "suicide": 63,
+    "death": 154
   },
   "67248c29-693b-41bd-b34d-9d488b4c4565": {
     "name": "Fenrixen",
@@ -4595,10 +4595,10 @@
     "aliases": [
       "SoupierFlunky41"
     ],
-    "kill": 16,
-    "teamkill": 3,
+    "kill": 25,
+    "teamkill": 4,
     "suicide": 5,
-    "death": 58
+    "death": 82
   },
   "97836ae8-a6b1-48a9-a356-db1ca56692e4": {
     "name": "F-uckBackwoods",
@@ -4618,17 +4618,17 @@
     "kill": 98,
     "teamkill": 5,
     "suicide": 23,
-    "death": 125
+    "death": 126
   },
   "d75fbc74-d90f-4da3-9d83-bc91304fdf3b": {
     "name": "viking",
     "aliases": [
       "viking"
     ],
-    "kill": 4,
+    "kill": 6,
     "teamkill": 0,
-    "suicide": 3,
-    "death": 7
+    "suicide": 4,
+    "death": 17
   },
   "0182af6b-764c-4eb8-9631-23d937d4f8cc": {
     "name": "off_da_zaza9",
@@ -4685,10 +4685,10 @@
     "aliases": [
       "Zimmie"
     ],
-    "kill": 2,
-    "teamkill": 0,
-    "suicide": 1,
-    "death": 4
+    "kill": 20,
+    "teamkill": 1,
+    "suicide": 2,
+    "death": 20
   },
   "09e06bc5-1845-4e6f-b044-711b0d52f9b7": {
     "name": "tax evader",
@@ -4755,10 +4755,10 @@
     "aliases": [
       "SvDvorak"
     ],
-    "kill": 25,
-    "teamkill": 0,
-    "suicide": 3,
-    "death": 15
+    "kill": 28,
+    "teamkill": 1,
+    "suicide": 4,
+    "death": 17
   },
   "6ecd9487-0f42-4093-b67d-546541989c5e": {
     "name": "TheChunder06",
@@ -4785,10 +4785,10 @@
     "aliases": [
       "ComeRag"
     ],
-    "kill": 54,
-    "teamkill": 8,
+    "kill": 63,
+    "teamkill": 11,
     "suicide": 7,
-    "death": 49
+    "death": 62
   },
   "0a18195e-df06-4585-bdd4-313b64a2f79e": {
     "name": "Orange_Killer231",
@@ -4865,10 +4865,10 @@
     "aliases": [
       "^9Eremito"
     ],
-    "kill": 64,
-    "teamkill": 2,
+    "kill": 69,
+    "teamkill": 3,
     "suicide": 16,
-    "death": 71
+    "death": 76
   },
   "98f3f4f7-4e29-4f5b-891d-03cbad20fb39": {
     "name": "HourlyYapper91",
@@ -4878,7 +4878,7 @@
     "kill": 0,
     "teamkill": 9,
     "suicide": 0,
-    "death": 6
+    "death": 11
   },
   "e0d7da14-e659-4c0c-b29b-672cbe0a9ab8": {
     "name": "XBOCToFF",
@@ -4935,20 +4935,20 @@
     "aliases": [
       "marshmanguy"
     ],
-    "kill": 15,
+    "kill": 16,
     "teamkill": 3,
     "suicide": 0,
-    "death": 20
+    "death": 21
   },
   "7a3b7a00-c8eb-4700-9e72-29e32195d4c9": {
     "name": "BlitZz",
     "aliases": [
       "BlitZz"
     ],
-    "kill": 22,
+    "kill": 37,
     "teamkill": 2,
-    "suicide": 4,
-    "death": 30
+    "suicide": 7,
+    "death": 54
   },
   "a323aac7-2f3b-4cd5-89eb-12c0932b8c4c": {
     "name": "cayoutahabhab",
@@ -4975,10 +4975,10 @@
     "aliases": [
       "R3ALIST_24"
     ],
-    "kill": 25,
+    "kill": 33,
     "teamkill": 3,
-    "suicide": 0,
-    "death": 37
+    "suicide": 1,
+    "death": 45
   },
   "c06346c6-92c7-4816-a96c-e9a7d208d59a": {
     "name": "Mandre",
@@ -5065,10 +5065,10 @@
     "aliases": [
       "MRdamp-"
     ],
-    "kill": 18,
+    "kill": 27,
     "teamkill": 12,
-    "suicide": 12,
-    "death": 127
+    "suicide": 18,
+    "death": 160
   },
   "6267fa48-5916-48e3-999a-73a04f91db1f": {
     "name": "Marius1711",
@@ -5235,10 +5235,10 @@
     "aliases": [
       "Matt"
     ],
-    "kill": 91,
+    "kill": 113,
     "teamkill": 2,
-    "suicide": 19,
-    "death": 64
+    "suicide": 22,
+    "death": 76
   },
   "b683ddd5-63e7-4823-affa-2235c7c82f67": {
     "name": "Bussylint76",
@@ -5296,10 +5296,10 @@
       "cTT-34",
       "cT-34"
     ],
-    "kill": 28,
-    "teamkill": 4,
+    "kill": 56,
+    "teamkill": 6,
     "suicide": 3,
-    "death": 24
+    "death": 31
   },
   "60601d64-3941-48ae-bd65-ea302489bf55": {
     "name": "ReadyDeuce",
@@ -5328,8 +5328,8 @@
     ],
     "kill": 23,
     "teamkill": 2,
-    "suicide": 20,
-    "death": 109
+    "suicide": 22,
+    "death": 112
   },
   "c077f115-4dc9-4767-ad00-d4b10f65866c": {
     "name": "Psycho_X_Smoker",
@@ -5446,10 +5446,10 @@
     "aliases": [
       "Wako_Jacko"
     ],
-    "kill": 8,
-    "teamkill": 0,
+    "kill": 32,
+    "teamkill": 1,
     "suicide": 0,
-    "death": 1
+    "death": 9
   },
   "ade8ca79-85e2-430e-bf97-7c5a93d01ea7": {
     "name": "Rale2212",
@@ -5536,10 +5536,10 @@
     "aliases": [
       "Firewolf212"
     ],
-    "kill": 14,
+    "kill": 23,
     "teamkill": 15,
     "suicide": 16,
-    "death": 79
+    "death": 99
   },
   "ec430c09-c012-4c55-b390-0f5fc307a16a": {
     "name": "Lennyy",
@@ -5586,10 +5586,10 @@
     "aliases": [
       "I am the Liqor"
     ],
-    "kill": 15,
-    "teamkill": 5,
-    "suicide": 22,
-    "death": 56
+    "kill": 17,
+    "teamkill": 9,
+    "suicide": 25,
+    "death": 67
   },
   "2f8f353f-ef91-4a3e-855f-f1e94fa10003": {
     "name": "UntamedJaguar",
@@ -5639,17 +5639,17 @@
     "kill": 1,
     "teamkill": 1,
     "suicide": 0,
-    "death": 6
+    "death": 7
   },
   "2437d1b3-195a-4250-ab4e-801dea9fcee8": {
     "name": "Chuckle",
     "aliases": [
       "Chuckle"
     ],
-    "kill": 314,
-    "teamkill": 17,
-    "suicide": 21,
-    "death": 123
+    "kill": 345,
+    "teamkill": 18,
+    "suicide": 22,
+    "death": 143
   },
   "6aaaabac-a9e4-4cc7-82fa-7391a25dbedd": {
     "name": "ii7ndx",
@@ -5776,10 +5776,10 @@
     "aliases": [
       "TheDre Gamer"
     ],
-    "kill": 5,
+    "kill": 7,
     "teamkill": 0,
     "suicide": 1,
-    "death": 9
+    "death": 10
   },
   "bba28880-947c-42fc-832d-fde01ca19ede": {
     "name": "Amorrecton",
@@ -5866,10 +5866,10 @@
     "aliases": [
       "wantlessWardy"
     ],
-    "kill": 20,
+    "kill": 22,
     "teamkill": 11,
-    "suicide": 20,
-    "death": 135
+    "suicide": 26,
+    "death": 164
   },
   "69e528c7-9171-4c7d-a2f1-945d95c017cd": {
     "name": "Twitch_Xenno_",
@@ -6016,10 +6016,10 @@
     "aliases": [
       "Bourbon"
     ],
-    "kill": 20,
+    "kill": 23,
     "teamkill": 12,
-    "suicide": 1,
-    "death": 65
+    "suicide": 2,
+    "death": 79
   },
   "9ba6a9c3-8ef7-4feb-bce7-f3a8303b785f": {
     "name": "Baldie92",
@@ -6086,10 +6086,10 @@
     "aliases": [
       "gabber-paul"
     ],
-    "kill": 11,
-    "teamkill": 18,
-    "suicide": 14,
-    "death": 76
+    "kill": 21,
+    "teamkill": 26,
+    "suicide": 32,
+    "death": 125
   },
   "4fcb0af2-8b66-4383-9c6b-a373daf6550c": {
     "name": "Jons_Jon",
@@ -6126,10 +6126,10 @@
     "aliases": [
       "Evolva"
     ],
-    "kill": 24,
+    "kill": 33,
     "teamkill": 5,
-    "suicide": 20,
-    "death": 78
+    "suicide": 21,
+    "death": 85
   },
   "3db50784-f6a7-475e-95e1-3b85862c6010": {
     "name": "zyman",
@@ -6146,10 +6146,10 @@
     "aliases": [
       "Tootiecornet4"
     ],
-    "kill": 45,
-    "teamkill": 0,
-    "suicide": 8,
-    "death": 61
+    "kill": 56,
+    "teamkill": 1,
+    "suicide": 10,
+    "death": 88
   },
   "964d0d75-ddff-4d64-8ada-38c9c3cbab87": {
     "name": "Mads Svendsens",
@@ -6316,10 +6316,10 @@
     "aliases": [
       "mar10AP"
     ],
-    "kill": 33,
+    "kill": 36,
     "teamkill": 2,
-    "suicide": 10,
-    "death": 62
+    "suicide": 11,
+    "death": 68
   },
   "4972a01d-b382-4603-a0c4-624fa1532276": {
     "name": "renzowashere-_-",
@@ -6386,10 +6386,10 @@
     "aliases": [
       "II-LeGeNd-4-II"
     ],
-    "kill": 220,
-    "teamkill": 6,
-    "suicide": 21,
-    "death": 121
+    "kill": 246,
+    "teamkill": 7,
+    "suicide": 24,
+    "death": 134
   },
   "946abb82-3405-41f4-9275-17fc96b48570": {
     "name": "SFS_Aytch_9703",
@@ -6436,20 +6436,20 @@
     "aliases": [
       "ProstateCancerJeff"
     ],
-    "kill": 41,
-    "teamkill": 3,
-    "suicide": 5,
-    "death": 47
+    "kill": 48,
+    "teamkill": 4,
+    "suicide": 9,
+    "death": 59
   },
   "f5375fa8-4584-4091-bb0e-bc052757991e": {
     "name": "Cooked---Grenade",
     "aliases": [
       "Cooked---Grenade"
     ],
-    "kill": 2,
-    "teamkill": 0,
-    "suicide": 0,
-    "death": 5
+    "kill": 12,
+    "teamkill": 2,
+    "suicide": 1,
+    "death": 28
   },
   "66982983-b0bf-4251-9508-3466f29b20a4": {
     "name": "ThunderBeast-666",
@@ -6469,7 +6469,7 @@
     "kill": 4,
     "teamkill": 0,
     "suicide": 5,
-    "death": 39
+    "death": 43
   },
   "c5e23f37-1813-4eb4-ae78-74b536bc8494": {
     "name": "stpe1965",
@@ -6489,7 +6489,7 @@
     "kill": 19,
     "teamkill": 0,
     "suicide": 3,
-    "death": 18
+    "death": 20
   },
   "bdcb3f98-a85a-4361-9e61-99659e145594": {
     "name": "MERK-DILLZ",
@@ -6516,10 +6516,10 @@
     "aliases": [
       "Zentropa88"
     ],
-    "kill": 53,
+    "kill": 60,
     "teamkill": 2,
-    "suicide": 8,
-    "death": 42
+    "suicide": 10,
+    "death": 50
   },
   "9a50921a-4581-4efc-9e86-8fba61494bea": {
     "name": "lefisteurdours",
@@ -6636,10 +6636,10 @@
     "aliases": [
       "White-Mamba-hu"
     ],
-    "kill": 57,
+    "kill": 81,
     "teamkill": 5,
     "suicide": 2,
-    "death": 92
+    "death": 118
   },
   "9bee0435-d36e-4ccb-9ed8-f295d09bb1d0": {
     "name": "waz2008",
@@ -6666,20 +6666,20 @@
     "aliases": [
       "Hedgehog-Of-Goop"
     ],
-    "kill": 2,
+    "kill": 6,
     "teamkill": 1,
     "suicide": 0,
-    "death": 11
+    "death": 24
   },
   "feacdaec-9175-488b-924d-1341b465540f": {
     "name": "don bas",
     "aliases": [
       "don bas"
     ],
-    "kill": 61,
+    "kill": 89,
     "teamkill": 4,
-    "suicide": 2,
-    "death": 23
+    "suicide": 3,
+    "death": 34
   },
   "0002d705-e6c1-432e-8259-01e33d495e4e": {
     "name": "Peppep",
@@ -6748,18 +6748,18 @@
     ],
     "kill": 6,
     "teamkill": 2,
-    "suicide": 2,
-    "death": 18
+    "suicide": 3,
+    "death": 21
   },
   "ce4f3a34-6586-42d5-9def-07aa1ffd532a": {
     "name": "miloben90",
     "aliases": [
       "miloben90"
     ],
-    "kill": 155,
+    "kill": 174,
     "teamkill": 3,
-    "suicide": 29,
-    "death": 91
+    "suicide": 35,
+    "death": 121
   },
   "1d45cf4e-f438-4d2b-b464-afcf12b35522": {
     "name": "Southman_dude",
@@ -7076,10 +7076,10 @@
     "aliases": [
       "ZardoZ"
     ],
-    "kill": 39,
+    "kill": 44,
     "teamkill": 7,
-    "suicide": 4,
-    "death": 82
+    "suicide": 7,
+    "death": 95
   },
   "5b466d05-3502-401c-8a2d-fbc60b43cdf0": {
     "name": "Moobinatorz",
@@ -7129,7 +7129,7 @@
     "kill": 16,
     "teamkill": 2,
     "suicide": 12,
-    "death": 43
+    "death": 45
   },
   "a28df1de-9375-4f48-8538-1cfbecbe7845": {
     "name": "Le_J",
@@ -7186,10 +7186,10 @@
     "aliases": [
       "Henry of Gaslitz"
     ],
-    "kill": 76,
-    "teamkill": 14,
-    "suicide": 4,
-    "death": 81
+    "kill": 97,
+    "teamkill": 17,
+    "suicide": 11,
+    "death": 105
   },
   "cd25d6fa-c291-4fd7-bf93-531283e19523": {
     "name": "Finn the Human",
@@ -7266,10 +7266,10 @@
     "aliases": [
       "AnimeSenpaiii"
     ],
-    "kill": 2,
+    "kill": 9,
     "teamkill": 0,
     "suicide": 0,
-    "death": 2
+    "death": 4
   },
   "d409ddf9-ee3e-4d74-9158-a99c3912670f": {
     "name": "psyjer69",
@@ -7796,10 +7796,10 @@
     "aliases": [
       "Ave"
     ],
-    "kill": 106,
+    "kill": 162,
     "teamkill": 20,
-    "suicide": 27,
-    "death": 98
+    "suicide": 28,
+    "death": 118
   },
   "89405e08-f2d6-4490-83fd-9b3a4a1fabbd": {
     "name": "iVaperzZ__",
@@ -7826,10 +7826,10 @@
     "aliases": [
       "XangoMC"
     ],
-    "kill": 6,
-    "teamkill": 0,
-    "suicide": 6,
-    "death": 32
+    "kill": 12,
+    "teamkill": 1,
+    "suicide": 7,
+    "death": 48
   },
   "e0a91370-a721-45e1-986b-055513e3859b": {
     "name": "FaultyBubbles",
@@ -7856,10 +7856,10 @@
     "aliases": [
       "Duekreiser"
     ],
-    "kill": 37,
-    "teamkill": 7,
-    "suicide": 18,
-    "death": 55
+    "kill": 47,
+    "teamkill": 9,
+    "suicide": 20,
+    "death": 71
   },
   "d0824c18-1549-43a1-aa0b-1d6d8375f743": {
     "name": "Crossie",
@@ -7886,10 +7886,10 @@
     "aliases": [
       "I Govern0r I"
     ],
-    "kill": 23,
+    "kill": 28,
     "teamkill": 1,
-    "suicide": 6,
-    "death": 31
+    "suicide": 7,
+    "death": 35
   },
   "f196e07b-834e-43fb-bec4-eea5a084e0dd": {
     "name": "big_russen_dady",
@@ -7926,10 +7926,10 @@
     "aliases": [
       "longfurby12"
     ],
-    "kill": 26,
+    "kill": 36,
     "teamkill": 2,
-    "suicide": 5,
-    "death": 35
+    "suicide": 8,
+    "death": 47
   },
   "a7b83ce4-587d-492a-84c5-46934955d7b8": {
     "name": "HackedYourAbuela",
@@ -8216,10 +8216,10 @@
     "aliases": [
       "venatbomb"
     ],
-    "kill": 18,
+    "kill": 20,
     "teamkill": 3,
-    "suicide": 9,
-    "death": 38
+    "suicide": 10,
+    "death": 46
   },
   "36ded02e-d819-44fd-87bb-d32218010224": {
     "name": "Dhaqs",
@@ -8306,10 +8306,10 @@
     "aliases": [
       "JackCustard"
     ],
-    "kill": 115,
+    "kill": 126,
     "teamkill": 16,
-    "suicide": 38,
-    "death": 140
+    "suicide": 40,
+    "death": 157
   },
   "58fe213b-2909-4c00-aabf-9c003f860a7b": {
     "name": "erliwsr786",
@@ -8348,8 +8348,8 @@
     ],
     "kill": 3,
     "teamkill": 1,
-    "suicide": 6,
-    "death": 17
+    "suicide": 8,
+    "death": 27
   },
   "52768c4f-8476-415e-9ef0-6d3dd983fd11": {
     "name": "RATNIK",
@@ -8409,17 +8409,17 @@
     "kill": 4,
     "teamkill": 1,
     "suicide": 2,
-    "death": 27
+    "death": 30
   },
   "a14380cb-18bc-45d8-842d-86139775cfc9": {
     "name": "macroplaning",
     "aliases": [
       "macroplaning"
     ],
-    "kill": 10,
-    "teamkill": 4,
-    "suicide": 2,
-    "death": 18
+    "kill": 19,
+    "teamkill": 5,
+    "suicide": 4,
+    "death": 25
   },
   "6da9fddf-5911-4819-9106-6b1c49841791": {
     "name": "Kaspux227",
@@ -8496,20 +8496,20 @@
     "aliases": [
       "Bananasoid"
     ],
-    "kill": 2,
-    "teamkill": 0,
-    "suicide": 6,
-    "death": 14
+    "kill": 10,
+    "teamkill": 1,
+    "suicide": 7,
+    "death": 29
   },
   "101f97b0-15f9-4226-bf64-3fbacc4b10f8": {
     "name": "Dark De'mora",
     "aliases": [
       "Dark De'mora"
     ],
-    "kill": 121,
-    "teamkill": 3,
-    "suicide": 14,
-    "death": 103
+    "kill": 150,
+    "teamkill": 4,
+    "suicide": 15,
+    "death": 133
   },
   "bedd66ef-401b-4656-8d57-079eff2916bc": {
     "name": "Spency2K",
@@ -8666,10 +8666,10 @@
     "aliases": [
       "Guntomas"
     ],
-    "kill": 1,
+    "kill": 3,
     "teamkill": 1,
-    "suicide": 2,
-    "death": 18
+    "suicide": 4,
+    "death": 31
   },
   "3021e128-03f7-46e7-aff5-aa5ab0fb9c65": {
     "name": "efka",
@@ -8706,10 +8706,10 @@
     "aliases": [
       "Jennatolls69866"
     ],
-    "kill": 5,
-    "teamkill": 1,
-    "suicide": 7,
-    "death": 34
+    "kill": 20,
+    "teamkill": 2,
+    "suicide": 19,
+    "death": 74
   },
   "84c76bfa-dcbd-45f7-93f2-c3c8c13ff0b6": {
     "name": "jerprli",
@@ -8776,10 +8776,10 @@
     "aliases": [
       "Kommunist259_1"
     ],
-    "kill": 2,
+    "kill": 3,
     "teamkill": 0,
     "suicide": 0,
-    "death": 9
+    "death": 10
   },
   "7e5bf73f-ab86-41bc-ab6f-6d7b174a6a2e": {
     "name": "gaugamela",
@@ -8936,10 +8936,10 @@
     "aliases": [
       "cnmvimn"
     ],
-    "kill": 2,
+    "kill": 3,
     "teamkill": 1,
-    "suicide": 2,
-    "death": 11
+    "suicide": 4,
+    "death": 15
   },
   "2d71ab21-58ee-4f9c-8ab4-b521b91ca99b": {
     "name": "Natw96",
@@ -9007,9 +9007,9 @@
       "Abdul"
     ],
     "kill": 10,
-    "teamkill": 0,
+    "teamkill": 2,
     "suicide": 1,
-    "death": 14
+    "death": 15
   },
   "1c40b136-0ef9-46e7-99c8-f6ef3a31f087": {
     "name": "MurphDog2572",
@@ -9256,10 +9256,10 @@
     "aliases": [
       "DAVIDH93__"
     ],
-    "kill": 11,
-    "teamkill": 2,
+    "kill": 20,
+    "teamkill": 3,
     "suicide": 1,
-    "death": 18
+    "death": 23
   },
   "7f34a4ef-af73-4715-8116-e5f91c6bdc24": {
     "name": "xxJames_AFCx",
@@ -9468,8 +9468,8 @@
     ],
     "kill": 69,
     "teamkill": 3,
-    "suicide": 15,
-    "death": 44
+    "suicide": 19,
+    "death": 48
   },
   "a9615db8-1ec8-45d4-a11c-93edfd67b878": {
     "name": "SteelTal0n",
@@ -9536,10 +9536,10 @@
     "aliases": [
       "mindblowie"
     ],
-    "kill": 77,
-    "teamkill": 3,
+    "kill": 102,
+    "teamkill": 4,
     "suicide": 10,
-    "death": 44
+    "death": 54
   },
   "896ad85b-33f0-40fc-bc49-baed7d072d28": {
     "name": "qxzces",
@@ -9616,10 +9616,10 @@
     "aliases": [
       "Vex2000G"
     ],
-    "kill": 2,
+    "kill": 15,
     "teamkill": 0,
-    "suicide": 11,
-    "death": 30
+    "suicide": 13,
+    "death": 46
   },
   "907a2770-7aee-4bf8-a477-7398a0d316ec": {
     "name": "Hijack",
@@ -9676,10 +9676,10 @@
     "aliases": [
       "RM CONQUEROR"
     ],
-    "kill": 27,
+    "kill": 28,
     "teamkill": 1,
-    "suicide": 11,
-    "death": 21
+    "suicide": 13,
+    "death": 23
   },
   "ed68e63a-60b7-428e-802f-2f6897dbc82f": {
     "name": "VANISH MODE",
@@ -9706,10 +9706,10 @@
     "aliases": [
       "xnbn2"
     ],
-    "kill": 25,
-    "teamkill": 10,
-    "suicide": 16,
-    "death": 78
+    "kill": 52,
+    "teamkill": 12,
+    "suicide": 23,
+    "death": 127
   },
   "44718145-fafe-4799-98a1-d4072556a175": {
     "name": "Monsieur Fran\u00e7ais",
@@ -9736,10 +9736,10 @@
     "aliases": [
       "Mahmut Karakum"
     ],
-    "kill": 13,
-    "teamkill": 1,
-    "suicide": 2,
-    "death": 6
+    "kill": 22,
+    "teamkill": 2,
+    "suicide": 4,
+    "death": 13
   },
   "5d255310-de4c-4278-854d-bf077d231376": {
     "name": "KoLiK",
@@ -9786,10 +9786,10 @@
     "aliases": [
       "NotoriousPHP"
     ],
-    "kill": 15,
+    "kill": 21,
     "teamkill": 5,
     "suicide": 6,
-    "death": 30
+    "death": 34
   },
   "40001d59-b099-41f5-9f41-5c877dabb89e": {
     "name": "Callous",
@@ -9839,7 +9839,7 @@
     "kill": 1,
     "teamkill": 0,
     "suicide": 0,
-    "death": 4
+    "death": 6
   },
   "a5b2d2b6-c75c-4648-9910-c24845f73bc0": {
     "name": "Soldat",
@@ -9896,10 +9896,10 @@
     "aliases": [
       "xBlaze47x"
     ],
-    "kill": 5,
+    "kill": 12,
     "teamkill": 0,
-    "suicide": 1,
-    "death": 10
+    "suicide": 2,
+    "death": 14
   },
   "59b9ab46-c8da-40ee-b7e5-723cdd1d7d91": {
     "name": "o E8DIE o",
@@ -9936,10 +9936,10 @@
     "aliases": [
       "danny"
     ],
-    "kill": 4,
+    "kill": 5,
     "teamkill": 2,
-    "suicide": 13,
-    "death": 41
+    "suicide": 15,
+    "death": 55
   },
   "0202c079-e27f-4b88-80f1-72f0339af3f5": {
     "name": "Microbe08210",
@@ -9989,7 +9989,7 @@
     "kill": 3,
     "teamkill": 0,
     "suicide": 0,
-    "death": 3
+    "death": 4
   },
   "b07f4d99-1e7d-4880-8e73-0177a888928b": {
     "name": "Mendoza04",
@@ -10006,10 +10006,10 @@
     "aliases": [
       "A. Correia"
     ],
-    "kill": 22,
-    "teamkill": 0,
-    "suicide": 2,
-    "death": 12
+    "kill": 34,
+    "teamkill": 3,
+    "suicide": 9,
+    "death": 47
   },
   "741834c3-1778-435e-b664-929680426f91": {
     "name": "Rekt_lookbehind",
@@ -10316,10 +10316,10 @@
     "aliases": [
       "cheseball03"
     ],
-    "kill": 1,
+    "kill": 23,
     "teamkill": 0,
-    "suicide": 1,
-    "death": 3
+    "suicide": 3,
+    "death": 7
   },
   "6f8cf93e-fd5a-4e06-8722-65a39f6daf20": {
     "name": "beastmode456464",
@@ -10826,10 +10826,10 @@
     "aliases": [
       "Cheesiepoop"
     ],
-    "kill": 23,
-    "teamkill": 4,
-    "suicide": 8,
-    "death": 38
+    "kill": 36,
+    "teamkill": 7,
+    "suicide": 15,
+    "death": 72
   },
   "ded0bbeb-c3f4-456e-81c5-23184dcdde58": {
     "name": "Darth-Tenacious",
@@ -10986,10 +10986,10 @@
     "aliases": [
       "Sturmthe"
     ],
-    "kill": 16,
+    "kill": 18,
     "teamkill": 3,
-    "suicide": 6,
-    "death": 51
+    "suicide": 10,
+    "death": 64
   },
   "fe5af7b0-25fa-4d90-a1c9-6b95dbcf581d": {
     "name": "MORRISssssss",
@@ -11136,10 +11136,10 @@
     "aliases": [
       "Michelangelo459"
     ],
-    "kill": 0,
+    "kill": 2,
     "teamkill": 2,
-    "suicide": 7,
-    "death": 8
+    "suicide": 14,
+    "death": 19
   },
   "d267d56c-e6ef-4825-9fee-e9ae98845cb3": {
     "name": "La Morte",
@@ -11236,10 +11236,10 @@
     "aliases": [
       "DarksquireLD"
     ],
-    "kill": 8,
+    "kill": 14,
     "teamkill": 0,
-    "suicide": 4,
-    "death": 9
+    "suicide": 7,
+    "death": 19
   },
   "3665cee9-c173-4b3d-88d4-f11896777183": {
     "name": "SavageButterfly",
@@ -11316,10 +11316,10 @@
     "aliases": [
       "blood_moon336"
     ],
-    "kill": 8,
+    "kill": 15,
     "teamkill": 5,
     "suicide": 4,
-    "death": 71
+    "death": 81
   },
   "c14c4b98-adc1-4986-af19-97fb19097828": {
     "name": "BrandonVass23",
@@ -11336,20 +11336,20 @@
     "aliases": [
       "Northgate"
     ],
-    "kill": 3,
-    "teamkill": 2,
-    "suicide": 0,
-    "death": 5
+    "kill": 14,
+    "teamkill": 3,
+    "suicide": 1,
+    "death": 16
   },
   "def8dedf-b159-4a2c-bf5f-a242431b9053": {
     "name": "Otomoto",
     "aliases": [
       "Otomoto"
     ],
-    "kill": 36,
+    "kill": 41,
     "teamkill": 0,
-    "suicide": 9,
-    "death": 47
+    "suicide": 11,
+    "death": 51
   },
   "0558d722-aba6-4ccc-b340-a5a706489344": {
     "name": "!KAMENOV",
@@ -11516,10 +11516,10 @@
     "aliases": [
       "\u2720Rogash\u2720"
     ],
-    "kill": 18,
+    "kill": 19,
     "teamkill": 1,
     "suicide": 3,
-    "death": 59
+    "death": 67
   },
   "18ed581b-0b7c-4998-bc90-62d13d7d9446": {
     "name": "Salkin",
@@ -11546,10 +11546,10 @@
     "aliases": [
       "Bosnia Rellu"
     ],
-    "kill": 77,
-    "teamkill": 7,
-    "suicide": 5,
-    "death": 43
+    "kill": 118,
+    "teamkill": 9,
+    "suicide": 7,
+    "death": 66
   },
   "8843316f-8579-4ea6-bd02-179cfdcc1f10": {
     "name": "Nutty",
@@ -11592,14 +11592,15 @@
     "death": 4
   },
   "23dea72c-548c-49a9-9b66-fc58fe942e81": {
-    "name": "barragepile73",
+    "name": "pattern pasi",
     "aliases": [
-      "barragepile73"
+      "barragepile73",
+      "pattern pasi"
     ],
-    "kill": 35,
+    "kill": 72,
     "teamkill": 1,
-    "suicide": 6,
-    "death": 49
+    "suicide": 11,
+    "death": 83
   },
   "ae209241-3afa-4595-8d03-c375cb5c702c": {
     "name": "gurkan3578",
@@ -11708,8 +11709,8 @@
     ],
     "kill": 24,
     "teamkill": 0,
-    "suicide": 4,
-    "death": 40
+    "suicide": 5,
+    "death": 44
   },
   "999e8fbc-48d7-425f-8386-94ee38af78e0": {
     "name": "Frxqgr_entropy",
@@ -11797,9 +11798,9 @@
       "Anders"
     ],
     "kill": 17,
-    "teamkill": 0,
+    "teamkill": 1,
     "suicide": 1,
-    "death": 9
+    "death": 12
   },
   "cef1e781-1a8e-47bf-9770-6b5e2aa4f8c7": {
     "name": "Atamanek",
@@ -11916,20 +11917,20 @@
     "aliases": [
       "Mike"
     ],
-    "kill": 3,
-    "teamkill": 1,
-    "suicide": 3,
-    "death": 16
+    "kill": 54,
+    "teamkill": 2,
+    "suicide": 6,
+    "death": 60
   },
   "a6d8b785-e932-404d-a7cd-0a7874ea356b": {
     "name": "Inubashiri",
     "aliases": [
       "Inubashiri"
     ],
-    "kill": 25,
-    "teamkill": 0,
-    "suicide": 9,
-    "death": 49
+    "kill": 31,
+    "teamkill": 2,
+    "suicide": 10,
+    "death": 59
   },
   "0177bcd1-a4f4-4d2b-9b8c-371189bfd1f5": {
     "name": "RenSkav^^!",
@@ -11946,10 +11947,10 @@
     "aliases": [
       "Major Ace Whole"
     ],
-    "kill": 2,
+    "kill": 3,
     "teamkill": 0,
-    "suicide": 3,
-    "death": 9
+    "suicide": 5,
+    "death": 18
   },
   "201c32da-7aee-4561-916d-640ab0b7eefd": {
     "name": "Emil",
@@ -12196,10 +12197,10 @@
     "aliases": [
       "Paul Stop"
     ],
-    "kill": 10,
+    "kill": 22,
     "teamkill": 1,
-    "suicide": 5,
-    "death": 32
+    "suicide": 7,
+    "death": 44
   },
   "b075ed8e-c5be-436c-ab3c-47997d1bbec4": {
     "name": "dareslams",
@@ -12256,10 +12257,10 @@
     "aliases": [
       "IssyDH_"
     ],
-    "kill": 0,
-    "teamkill": 1,
+    "kill": 1,
+    "teamkill": 4,
     "suicide": 4,
-    "death": 7
+    "death": 13
   },
   "2e61b779-a743-4f79-8912-ea3532bfc700": {
     "name": "\u0425\u041b\u0415\u0411",
@@ -12426,10 +12427,10 @@
     "aliases": [
       "Viktor-Huttel200"
     ],
-    "kill": 7,
+    "kill": 8,
     "teamkill": 0,
     "suicide": 2,
-    "death": 14
+    "death": 24
   },
   "b3cbe8b4-6286-4885-83c9-dee27fb4c1b1": {
     "name": "saturnswervin",
@@ -12736,10 +12737,10 @@
     "aliases": [
       "krish24722"
     ],
-    "kill": 38,
+    "kill": 47,
     "teamkill": 5,
     "suicide": 12,
-    "death": 42
+    "death": 48
   },
   "b3014159-0731-4808-9338-2a0954c7dd96": {
     "name": "LiveCrayfish471",
@@ -12766,10 +12767,10 @@
     "aliases": [
       "benmcfadden03"
     ],
-    "kill": 23,
+    "kill": 26,
     "teamkill": 0,
     "suicide": 3,
-    "death": 33
+    "death": 39
   },
   "28a2066a-d499-4cd2-aa89-50b54a7aa9df": {
     "name": "englbert33",
@@ -12796,10 +12797,10 @@
     "aliases": [
       "tv/hvntxd"
     ],
-    "kill": 92,
-    "teamkill": 7,
-    "suicide": 7,
-    "death": 32
+    "kill": 130,
+    "teamkill": 9,
+    "suicide": 11,
+    "death": 46
   },
   "c92088c5-b5f6-4c78-99e3-56180a1f7fd8": {
     "name": "freakplayin",
@@ -12818,8 +12819,8 @@
     ],
     "kill": 38,
     "teamkill": 3,
-    "suicide": 26,
-    "death": 59
+    "suicide": 28,
+    "death": 64
   },
   "2270eb22-c334-455b-b61e-1a3235ff93e6": {
     "name": "D4nnyb1235162",
@@ -12918,8 +12919,8 @@
     ],
     "kill": 20,
     "teamkill": 6,
-    "suicide": 10,
-    "death": 21
+    "suicide": 12,
+    "death": 23
   },
   "01e772aa-af91-4524-bd7b-d186e7628059": {
     "name": "Wolf D",
@@ -12946,10 +12947,10 @@
     "aliases": [
       "Joseph Bech"
     ],
-    "kill": 13,
-    "teamkill": 2,
-    "suicide": 11,
-    "death": 35
+    "kill": 25,
+    "teamkill": 6,
+    "suicide": 15,
+    "death": 66
   },
   "0efa71ec-8300-4c72-9a43-eff4b0f8572f": {
     "name": "Oalar",
@@ -13066,10 +13067,10 @@
     "aliases": [
       "NotJJB-"
     ],
-    "kill": 8,
-    "teamkill": 0,
+    "kill": 11,
+    "teamkill": 1,
     "suicide": 4,
-    "death": 32
+    "death": 36
   },
   "a48bf5c8-fa85-428d-aae8-aa524b5d9985": {
     "name": "Ulankilla420",
@@ -13136,10 +13137,10 @@
     "aliases": [
       "zZHAvOcREaPERZz"
     ],
-    "kill": 48,
+    "kill": 71,
     "teamkill": 5,
     "suicide": 13,
-    "death": 73
+    "death": 83
   },
   "b0f86315-9a6d-4ecb-aab0-92bc6e18bd49": {
     "name": "Owen-Dmr",
@@ -13186,10 +13187,10 @@
     "aliases": [
       "Adam83719"
     ],
-    "kill": 67,
+    "kill": 111,
     "teamkill": 6,
-    "suicide": 14,
-    "death": 65
+    "suicide": 16,
+    "death": 82
   },
   "126b5a0d-01b7-4ca4-bf34-b421cd717564": {
     "name": "Harry1995",
@@ -13276,10 +13277,10 @@
     "aliases": [
       "Lovewing"
     ],
-    "kill": 55,
+    "kill": 88,
     "teamkill": 1,
-    "suicide": 5,
-    "death": 11
+    "suicide": 8,
+    "death": 18
   },
   "13bddf3c-6bad-4b74-87c1-32d363663808": {
     "name": "Distance92",
@@ -13306,10 +13307,10 @@
     "aliases": [
       "Youngblood"
     ],
-    "kill": 27,
-    "teamkill": 1,
+    "kill": 66,
+    "teamkill": 3,
     "suicide": 2,
-    "death": 27
+    "death": 51
   },
   "9af1f4bf-bc5f-4959-921d-2171d195c06a": {
     "name": "Toretto.",
@@ -13326,20 +13327,20 @@
     "aliases": [
       "Terka"
     ],
-    "kill": 20,
+    "kill": 26,
     "teamkill": 1,
-    "suicide": 2,
-    "death": 23
+    "suicide": 3,
+    "death": 33
   },
   "55c201eb-9c24-424e-95e7-b0b2cf39545e": {
     "name": "Kust",
     "aliases": [
       "Kust"
     ],
-    "kill": 13,
+    "kill": 20,
     "teamkill": 0,
-    "suicide": 4,
-    "death": 14
+    "suicide": 5,
+    "death": 19
   },
   "1f3d90c7-1f20-4065-9abf-bcbc324d8ec3": {
     "name": "Savin",
@@ -13426,10 +13427,10 @@
     "aliases": [
       "Licemer"
     ],
-    "kill": 6,
+    "kill": 13,
     "teamkill": 0,
-    "suicide": 1,
-    "death": 8
+    "suicide": 3,
+    "death": 17
   },
   "b057d914-8ac4-43a9-be9c-217c3911553e": {
     "name": "PieterPost",
@@ -13526,20 +13527,20 @@
     "aliases": [
       "Patrik J"
     ],
-    "kill": 10,
+    "kill": 14,
     "teamkill": 1,
     "suicide": 0,
-    "death": 11
+    "death": 15
   },
   "3d9f32dc-c838-46b0-bc2e-5920d99cff38": {
     "name": "Toktotte",
     "aliases": [
       "Toktotte"
     ],
-    "kill": 8,
+    "kill": 14,
     "teamkill": 1,
     "suicide": 1,
-    "death": 23
+    "death": 28
   },
   "2b52ccc3-6a3d-44de-bf51-27dd6fbd2530": {
     "name": "Oscar",
@@ -13569,7 +13570,7 @@
     "kill": 2,
     "teamkill": 0,
     "suicide": 3,
-    "death": 33
+    "death": 38
   },
   "f2e53afd-085c-4f9d-9e7d-7cd4abbcda25": {
     "name": "Dinky236",
@@ -13596,20 +13597,20 @@
     "aliases": [
       "Trojan"
     ],
-    "kill": 30,
+    "kill": 46,
     "teamkill": 1,
-    "suicide": 3,
-    "death": 28
+    "suicide": 5,
+    "death": 40
   },
   "379c8d72-152a-47aa-8d91-82198012471c": {
     "name": "[Peon]",
     "aliases": [
       "[Peon]"
     ],
-    "kill": 54,
-    "teamkill": 3,
-    "suicide": 4,
-    "death": 42
+    "kill": 96,
+    "teamkill": 5,
+    "suicide": 6,
+    "death": 70
   },
   "4095b737-847e-4365-807f-86d0be70b5bf": {
     "name": "roketatar ramazan",
@@ -13646,10 +13647,10 @@
     "aliases": [
       "DrWeedington441"
     ],
-    "kill": 3,
+    "kill": 10,
     "teamkill": 1,
     "suicide": 1,
-    "death": 4
+    "death": 10
   },
   "ca5c2931-603d-4cf1-9d79-1e6801fee247": {
     "name": "Zenin",
@@ -13697,9 +13698,9 @@
       "Lwolfe27"
     ],
     "kill": 5,
-    "teamkill": 0,
-    "suicide": 9,
-    "death": 54
+    "teamkill": 1,
+    "suicide": 13,
+    "death": 64
   },
   "7c64cd1d-30be-4239-8a62-aa22acc1f8bf": {
     "name": "mudki_",
@@ -13766,7 +13767,7 @@
     "aliases": [
       "piileva-kebab"
     ],
-    "kill": 24,
+    "kill": 27,
     "teamkill": 2,
     "suicide": 1,
     "death": 13
@@ -13976,20 +13977,20 @@
     "aliases": [
       "Thwompboss"
     ],
-    "kill": 20,
+    "kill": 46,
     "teamkill": 1,
     "suicide": 2,
-    "death": 35
+    "death": 54
   },
   "8b010eed-2fca-46bf-9eb0-079a1278c787": {
     "name": "TensePlatypus",
     "aliases": [
       "TensePlatypus"
     ],
-    "kill": 7,
-    "teamkill": 0,
-    "suicide": 1,
-    "death": 1
+    "kill": 9,
+    "teamkill": 2,
+    "suicide": 4,
+    "death": 12
   },
   "2a3ea7c2-6a82-4785-a160-9dd255537b70": {
     "name": "Raz3r!",
@@ -14096,10 +14097,10 @@
     "aliases": [
       "rexi"
     ],
-    "kill": 1,
-    "teamkill": 0,
-    "suicide": 5,
-    "death": 23
+    "kill": 4,
+    "teamkill": 2,
+    "suicide": 15,
+    "death": 53
   },
   "4f3078ca-176b-4fed-99c9-7a2528cfe3a9": {
     "name": "Lewski",
@@ -14136,10 +14137,10 @@
     "aliases": [
       "pluggnbxo"
     ],
-    "kill": 15,
-    "teamkill": 1,
+    "kill": 32,
+    "teamkill": 4,
     "suicide": 0,
-    "death": 7
+    "death": 17
   },
   "04eac792-67c7-41cc-80cb-9a39c40edc2a": {
     "name": "notfound4044406",
@@ -14186,10 +14187,10 @@
     "aliases": [
       "Fidel"
     ],
-    "kill": 14,
+    "kill": 22,
     "teamkill": 6,
     "suicide": 6,
-    "death": 23
+    "death": 24
   },
   "6e0fbc81-05f5-4832-a8db-382691eed584": {
     "name": "Swipez",
@@ -14336,10 +14337,10 @@
     "aliases": [
       "Metric"
     ],
-    "kill": 1,
+    "kill": 10,
     "teamkill": 0,
     "suicide": 0,
-    "death": 2
+    "death": 17
   },
   "1ae776d1-9388-4fca-b7d2-3914a03ed191": {
     "name": "Kenay_Killer2",
@@ -14356,10 +14357,10 @@
     "aliases": [
       "Typo"
     ],
-    "kill": 16,
-    "teamkill": 3,
-    "suicide": 3,
-    "death": 14
+    "kill": 20,
+    "teamkill": 4,
+    "suicide": 4,
+    "death": 15
   },
   "96e6f462-b4e6-4f84-9d54-80c32603f287": {
     "name": "toni_nolove",
@@ -14526,10 +14527,10 @@
     "aliases": [
       "jeltethelegend"
     ],
-    "kill": 4,
+    "kill": 10,
     "teamkill": 0,
     "suicide": 1,
-    "death": 10
+    "death": 12
   },
   "2e30f153-fea9-4c16-9add-81cb4ec0e0c9": {
     "name": "Sey_Kono",
@@ -14628,8 +14629,8 @@
     ],
     "kill": 16,
     "teamkill": 0,
-    "suicide": 6,
-    "death": 18
+    "suicide": 8,
+    "death": 25
   },
   "112aeab2-4d18-4c04-a9da-a768e54290c2": {
     "name": "Peikko300",
@@ -14786,10 +14787,10 @@
     "aliases": [
       "DustySpinner"
     ],
-    "kill": 56,
-    "teamkill": 1,
-    "suicide": 22,
-    "death": 85
+    "kill": 71,
+    "teamkill": 4,
+    "suicide": 28,
+    "death": 122
   },
   "e768f3c7-6dee-472c-9870-18b0483fb509": {
     "name": "Harrison3005",
@@ -14896,10 +14897,10 @@
     "aliases": [
       "Fel889"
     ],
-    "kill": 13,
+    "kill": 15,
     "teamkill": 0,
-    "suicide": 1,
-    "death": 5
+    "suicide": 2,
+    "death": 19
   },
   "ef5c1b0d-ce64-4989-9099-6940db5f4726": {
     "name": "locko0707",
@@ -14966,10 +14967,10 @@
     "aliases": [
       "addicted-2-NITRO"
     ],
-    "kill": 5,
+    "kill": 6,
     "teamkill": 0,
     "suicide": 1,
-    "death": 14
+    "death": 16
   },
   "7997c05d-ff2e-4be7-9706-528d7ad2647d": {
     "name": "xoBroly",
@@ -15006,10 +15007,10 @@
     "aliases": [
       "Guanie"
     ],
-    "kill": 26,
-    "teamkill": 0,
-    "suicide": 1,
-    "death": 36
+    "kill": 35,
+    "teamkill": 1,
+    "suicide": 3,
+    "death": 49
   },
   "db9c78db-0dd9-4265-a9bc-a247faad8ee7": {
     "name": "Itzclips-smh",
@@ -15186,20 +15187,20 @@
     "aliases": [
       "DeweyLittle"
     ],
-    "kill": 0,
+    "kill": 1,
     "teamkill": 0,
-    "suicide": 0,
-    "death": 2
+    "suicide": 3,
+    "death": 9
   },
   "45d0abe4-c138-4ee5-817c-8cbb36767d06": {
     "name": "King.sqf",
     "aliases": [
       "King.sqf"
     ],
-    "kill": 105,
+    "kill": 141,
     "teamkill": 2,
-    "suicide": 1,
-    "death": 36
+    "suicide": 4,
+    "death": 59
   },
   "07aa535d-3941-46d7-b9e7-3163af3b50fc": {
     "name": "Nero/nix",
@@ -15347,9 +15348,9 @@
       "Delta7506"
     ],
     "kill": 13,
-    "teamkill": 6,
-    "suicide": 16,
-    "death": 41
+    "teamkill": 7,
+    "suicide": 18,
+    "death": 44
   },
   "281d9f59-0b61-42ee-82da-b007be259ae0": {
     "name": "galaxyhigh_rider",
@@ -15537,7 +15538,7 @@
       "xyurxey"
     ],
     "kill": 1,
-    "teamkill": 0,
+    "teamkill": 1,
     "suicide": 0,
     "death": 1
   },
@@ -15796,10 +15797,10 @@
     "aliases": [
       "Conor028"
     ],
-    "kill": 5,
-    "teamkill": 0,
-    "suicide": 4,
-    "death": 39
+    "kill": 18,
+    "teamkill": 2,
+    "suicide": 10,
+    "death": 85
   },
   "8f551bcf-8e07-4a81-afd1-477f268b12a6": {
     "name": "YungTraditional",
@@ -15826,10 +15827,10 @@
     "aliases": [
       "Arzianii"
     ],
-    "kill": 3,
-    "teamkill": 2,
-    "suicide": 5,
-    "death": 22
+    "kill": 4,
+    "teamkill": 5,
+    "suicide": 8,
+    "death": 27
   },
   "8803ac16-78d4-4a62-9dda-64ceb43e0adb": {
     "name": "TrembiHUN",
@@ -15886,10 +15887,10 @@
     "aliases": [
       "ROSSLAIR"
     ],
-    "kill": 3,
+    "kill": 5,
     "teamkill": 0,
-    "suicide": 2,
-    "death": 11
+    "suicide": 3,
+    "death": 24
   },
   "3f2614f2-ed95-4685-b86a-5c1168ad41b6": {
     "name": "Sochniy Belyash",
@@ -15956,10 +15957,10 @@
     "aliases": [
       "ChieF"
     ],
-    "kill": 2,
-    "teamkill": 0,
-    "suicide": 1,
-    "death": 6
+    "kill": 18,
+    "teamkill": 1,
+    "suicide": 7,
+    "death": 23
   },
   "dd0f009b-fd61-4e56-8e6c-e516494fbebb": {
     "name": "CrazyNorwegian96",
@@ -15986,10 +15987,10 @@
     "aliases": [
       "Tru_Sniper48"
     ],
-    "kill": 31,
-    "teamkill": 2,
-    "suicide": 3,
-    "death": 19
+    "kill": 49,
+    "teamkill": 5,
+    "suicide": 5,
+    "death": 37
   },
   "6287c744-4d11-402e-8e00-b04c22930164": {
     "name": "Semtex",
@@ -16026,10 +16027,10 @@
     "aliases": [
       "Ptachu"
     ],
-    "kill": 35,
-    "teamkill": 1,
+    "kill": 65,
+    "teamkill": 3,
     "suicide": 1,
-    "death": 19
+    "death": 40
   },
   "cb430fba-f222-48e7-abb0-ba8dfb476e2e": {
     "name": "Thijs",
@@ -16066,20 +16067,20 @@
     "aliases": [
       "LLlTyPMAH"
     ],
-    "kill": 15,
-    "teamkill": 2,
-    "suicide": 14,
-    "death": 40
+    "kill": 35,
+    "teamkill": 6,
+    "suicide": 33,
+    "death": 90
   },
   "0b051361-def5-4e44-bd0c-5da2db9ff854": {
     "name": "EbbeL\u00f6wenberg",
     "aliases": [
       "EbbeL\u00f6wenberg"
     ],
-    "kill": 17,
+    "kill": 24,
     "teamkill": 0,
     "suicide": 0,
-    "death": 10
+    "death": 23
   },
   "b4ce61b3-4cac-420f-8a59-97e531982f6c": {
     "name": "BartAbuser420",
@@ -16116,10 +16117,10 @@
     "aliases": [
       "FIN-_Ghost_"
     ],
-    "kill": 4,
+    "kill": 7,
     "teamkill": 0,
     "suicide": 0,
-    "death": 17
+    "death": 19
   },
   "c69535af-b1d2-4be1-9758-042f5c80264d": {
     "name": "T\u00f6ys\u00e4n koripallo toive",
@@ -16136,10 +16137,10 @@
     "aliases": [
       "Bigbadcat0147"
     ],
-    "kill": 0,
-    "teamkill": 0,
-    "suicide": 2,
-    "death": 3
+    "kill": 3,
+    "teamkill": 1,
+    "suicide": 3,
+    "death": 14
   },
   "223c1dbc-02ce-4e29-9da1-c518fb9dfca7": {
     "name": "Zappiermantis",
@@ -16166,20 +16167,20 @@
     "aliases": [
       "P3ziie"
     ],
-    "kill": 0,
-    "teamkill": 0,
-    "suicide": 1,
-    "death": 4
+    "kill": 6,
+    "teamkill": 1,
+    "suicide": 3,
+    "death": 12
   },
   "a61c71c2-2935-4b45-bfbf-af150edb09a3": {
     "name": "andresescalle97",
     "aliases": [
       "andresescalle97"
     ],
-    "kill": 1,
+    "kill": 8,
     "teamkill": 0,
-    "suicide": 0,
-    "death": 4
+    "suicide": 1,
+    "death": 18
   },
   "78c6dc69-0b3d-46fe-9997-132ae8b329aa": {
     "name": "Recker",
@@ -16199,7 +16200,7 @@
     "kill": 8,
     "teamkill": 0,
     "suicide": 2,
-    "death": 25
+    "death": 27
   },
   "ea615bff-88e6-46d7-8764-9800aa991559": {
     "name": "Nikola_3063",
@@ -16246,10 +16247,10 @@
     "aliases": [
       "Eden"
     ],
-    "kill": 14,
-    "teamkill": 0,
+    "kill": 34,
+    "teamkill": 2,
     "suicide": 1,
-    "death": 3
+    "death": 11
   },
   "4f419891-feac-4fca-acd1-7867713c2d7c": {
     "name": "Zbigniew Ziobro",
@@ -16306,20 +16307,20 @@
     "aliases": [
       "Jutix"
     ],
-    "kill": 5,
-    "teamkill": 2,
+    "kill": 63,
+    "teamkill": 3,
     "suicide": 0,
-    "death": 3
+    "death": 22
   },
   "0a44b464-859b-4b66-bdc7-cd4b298f1836": {
     "name": "FWSwestFWS",
     "aliases": [
       "FWSwestFWS"
     ],
-    "kill": 0,
+    "kill": 3,
     "teamkill": 0,
     "suicide": 0,
-    "death": 4
+    "death": 15
   },
   "ba505ef5-5c78-4211-bb2b-7cc12ee068ef": {
     "name": "Itsmaboi2238141",
@@ -16356,20 +16357,20 @@
     "aliases": [
       "Carlunis"
     ],
-    "kill": 2,
+    "kill": 3,
     "teamkill": 0,
     "suicide": 0,
-    "death": 9
+    "death": 12
   },
   "56e6fbcd-d63d-4911-a3cd-452bfb2f6ddd": {
     "name": "FLEXUPTOWN",
     "aliases": [
       "FLEXUPTOWN"
     ],
-    "kill": 9,
+    "kill": 11,
     "teamkill": 1,
     "suicide": 0,
-    "death": 7
+    "death": 9
   },
   "73cf8bf8-33f7-464e-8305-de4e64e27468": {
     "name": "Cam1121",
@@ -16426,10 +16427,10 @@
     "aliases": [
       "BlueShift450"
     ],
-    "kill": 4,
-    "teamkill": 0,
+    "kill": 14,
+    "teamkill": 1,
     "suicide": 1,
-    "death": 14
+    "death": 29
   },
   "997d5f29-90d9-4c02-85b7-5d819c5fce36": {
     "name": "Adam",
@@ -16596,10 +16597,10 @@
     "aliases": [
       "SKTT1_aDeL"
     ],
-    "kill": 6,
+    "kill": 16,
     "teamkill": 0,
-    "suicide": 0,
-    "death": 19
+    "suicide": 1,
+    "death": 25
   },
   "98805760-c18e-43e2-b087-e2e40865074e": {
     "name": "Zico",
@@ -16686,20 +16687,20 @@
     "aliases": [
       "Kribi"
     ],
-    "kill": 2,
+    "kill": 10,
     "teamkill": 0,
-    "suicide": 0,
-    "death": 4
+    "suicide": 1,
+    "death": 12
   },
   "184867ae-82d8-4480-8efc-4114ab03ee72": {
     "name": "NJL-IllusionFake",
     "aliases": [
       "NJL-IllusionFake"
     ],
-    "kill": 3,
-    "teamkill": 2,
-    "suicide": 1,
-    "death": 30
+    "kill": 24,
+    "teamkill": 6,
+    "suicide": 4,
+    "death": 70
   },
   "644ad275-b9a7-4167-b9fb-f64b49463373": {
     "name": "os9m9binballin",
@@ -16746,30 +16747,30 @@
     "aliases": [
       "ChrisS"
     ],
-    "kill": 2,
+    "kill": 3,
     "teamkill": 2,
     "suicide": 0,
-    "death": 15
+    "death": 16
   },
   "813f66cb-c64e-404e-bf72-ad71f12d4abe": {
     "name": "la cucaracha",
     "aliases": [
       "la cucaracha"
     ],
-    "kill": 19,
-    "teamkill": 1,
-    "suicide": 0,
-    "death": 8
+    "kill": 45,
+    "teamkill": 3,
+    "suicide": 1,
+    "death": 41
   },
   "35390322-98f9-4419-9834-9c503d6fb952": {
     "name": "Grett Britain",
     "aliases": [
       "Grett Britain"
     ],
-    "kill": 0,
-    "teamkill": 0,
+    "kill": 2,
+    "teamkill": 2,
     "suicide": 1,
-    "death": 3
+    "death": 11
   },
   "9351c2fc-f149-458c-916f-9a492a5a1ab6": {
     "name": "ANGRY_HATE",
@@ -16786,10 +16787,10 @@
     "aliases": [
       "the Priest"
     ],
-    "kill": 0,
-    "teamkill": 0,
-    "suicide": 0,
-    "death": 7
+    "kill": 3,
+    "teamkill": 1,
+    "suicide": 3,
+    "death": 17
   },
   "f0f9504f-0800-48a9-9245-f7e28b71287f": {
     "name": "Muntman02",
@@ -16826,10 +16827,10 @@
     "aliases": [
       "Moritz_keule"
     ],
-    "kill": 0,
-    "teamkill": 0,
-    "suicide": 0,
-    "death": 2
+    "kill": 6,
+    "teamkill": 2,
+    "suicide": 11,
+    "death": 23
   },
   "c1e07065-3cf0-416f-ac70-cb1f6b886c63": {
     "name": "spo1800",
@@ -16976,10 +16977,10 @@
     "aliases": [
       "EdwardTheEnder"
     ],
-    "kill": 0,
-    "teamkill": 1,
-    "suicide": 1,
-    "death": 8
+    "kill": 7,
+    "teamkill": 2,
+    "suicide": 7,
+    "death": 40
   },
   "049afd0f-f960-414b-b8a0-f47dda446f6a": {
     "name": "TransVexual",
@@ -17038,8 +17039,8 @@
     ],
     "kill": 2,
     "teamkill": 0,
-    "suicide": 1,
-    "death": 7
+    "suicide": 2,
+    "death": 28
   },
   "c571e4ae-f3a5-4e7c-90eb-9602fed0b2bd": {
     "name": "Lo_partes_boy",
@@ -17059,7 +17060,7 @@
     "kill": 0,
     "teamkill": 0,
     "suicide": 1,
-    "death": 10
+    "death": 11
   },
   "6e9ff753-aa0a-4de2-b585-f04280c5cfde": {
     "name": "KN0XTY",
@@ -17106,10 +17107,10 @@
     "aliases": [
       "Defaultis_hit"
     ],
-    "kill": 13,
+    "kill": 26,
     "teamkill": 4,
-    "suicide": 1,
-    "death": 4
+    "suicide": 2,
+    "death": 13
   },
   "693b1672-ecfa-429c-b01b-f403e319f774": {
     "name": "Indiana Jones",
@@ -17158,8 +17159,8 @@
     ],
     "kill": 4,
     "teamkill": 0,
-    "suicide": 0,
-    "death": 4
+    "suicide": 1,
+    "death": 11
   },
   "5e90d37c-a425-478f-b6cb-73e0978afa81": {
     "name": "Matteo3568",
@@ -17176,10 +17177,10 @@
     "aliases": [
       "BakemBait"
     ],
-    "kill": 6,
+    "kill": 34,
     "teamkill": 1,
-    "suicide": 7,
-    "death": 22
+    "suicide": 11,
+    "death": 37
   },
   "561098fd-69e0-46c1-a618-441798837558": {
     "name": "Lucky-7318",
@@ -17219,7 +17220,7 @@
     "kill": 3,
     "teamkill": 1,
     "suicide": 2,
-    "death": 7
+    "death": 8
   },
   "1640cbe1-52a3-4e98-8c3c-3fca4ad3b662": {
     "name": "mindsalad",
@@ -17276,30 +17277,30 @@
     "aliases": [
       "Kronuxen"
     ],
-    "kill": 12,
-    "teamkill": 2,
-    "suicide": 0,
-    "death": 21
+    "kill": 28,
+    "teamkill": 3,
+    "suicide": 1,
+    "death": 52
   },
   "a87041e7-a5f8-414b-914c-0e20c0a37453": {
     "name": "Tengo",
     "aliases": [
       "Tengo"
     ],
-    "kill": 19,
-    "teamkill": 5,
+    "kill": 40,
+    "teamkill": 6,
     "suicide": 2,
-    "death": 22
+    "death": 38
   },
   "5712eec1-f1a3-4d96-b91b-51408985db17": {
     "name": "Uhhstar",
     "aliases": [
       "Uhhstar"
     ],
-    "kill": 38,
-    "teamkill": 13,
-    "suicide": 2,
-    "death": 19
+    "kill": 48,
+    "teamkill": 15,
+    "suicide": 4,
+    "death": 35
   },
   "8904142a-d84c-4822-867c-ac31aa3195fc": {
     "name": "amosburton2350",
@@ -17326,10 +17327,10 @@
     "aliases": [
       "xiValleyix"
     ],
-    "kill": 1,
-    "teamkill": 0,
+    "kill": 7,
+    "teamkill": 1,
     "suicide": 1,
-    "death": 3
+    "death": 7
   },
   "a71f9839-3e18-4488-bbcc-64cc2916a5c4": {
     "name": "poormanslambo",
@@ -17366,10 +17367,10 @@
     "aliases": [
       "CBshelly"
     ],
-    "kill": 0,
-    "teamkill": 2,
-    "suicide": 7,
-    "death": 14
+    "kill": 4,
+    "teamkill": 3,
+    "suicide": 12,
+    "death": 33
   },
   "d176f423-a838-432a-a285-c1259f02a274": {
     "name": "Concobhar sruth\u00e1n 1",
@@ -17406,10 +17407,10 @@
     "aliases": [
       "TheParanoidChef"
     ],
-    "kill": 0,
+    "kill": 3,
     "teamkill": 1,
-    "suicide": 1,
-    "death": 2
+    "suicide": 3,
+    "death": 8
   },
   "4877e3a7-1841-48b5-8519-e25fcc5d21ba": {
     "name": "Pet_er86",
@@ -17476,10 +17477,10 @@
     "aliases": [
       "Skiita"
     ],
-    "kill": 0,
+    "kill": 1,
     "teamkill": 0,
-    "suicide": 0,
-    "death": 1
+    "suicide": 4,
+    "death": 14
   },
   "b625d9a1-6502-4d97-9e42-dcef158d4b72": {
     "name": "jey1401",
@@ -17496,10 +17497,10 @@
     "aliases": [
       "bernard1910"
     ],
-    "kill": 2,
+    "kill": 7,
     "teamkill": 1,
     "suicide": 3,
-    "death": 17
+    "death": 20
   },
   "54cee4ff-8b66-4b07-a90d-f6c32ba704b0": {
     "name": "JS-MONKE",
@@ -17569,7 +17570,7 @@
     "kill": 0,
     "teamkill": 0,
     "suicide": 1,
-    "death": 1
+    "death": 4
   },
   "94faa3ff-cd7c-4e45-bb17-0b4807ba713b": {
     "name": "Blaiiiine",
@@ -17618,8 +17619,8 @@
     ],
     "kill": 0,
     "teamkill": 0,
-    "suicide": 1,
-    "death": 1
+    "suicide": 3,
+    "death": 5
   },
   "1cfe8835-2ab4-44e8-a85c-4d2eed1e2b0d": {
     "name": "pvt doofy",
@@ -17656,10 +17657,10 @@
     "aliases": [
       "Ramirez_Cartel3"
     ],
-    "kill": 3,
-    "teamkill": 0,
-    "suicide": 1,
-    "death": 8
+    "kill": 6,
+    "teamkill": 1,
+    "suicide": 2,
+    "death": 17
   },
   "5774b3f0-a573-47fd-a32e-055d15266e56": {
     "name": "X_Golden-_-",
@@ -17676,30 +17677,30 @@
     "aliases": [
       "TMalone93"
     ],
-    "kill": 0,
+    "kill": 1,
     "teamkill": 1,
-    "suicide": 3,
-    "death": 11
+    "suicide": 4,
+    "death": 13
   },
   "ffd323ef-3e58-4961-be90-42581fa7ba40": {
     "name": "Budimental",
     "aliases": [
       "Budimental"
     ],
-    "kill": 3,
+    "kill": 4,
     "teamkill": 3,
-    "suicide": 2,
-    "death": 10
+    "suicide": 3,
+    "death": 22
   },
   "9fb03c4b-cf9f-4097-8e72-28e94048d744": {
     "name": "l_TEAM_UK_l",
     "aliases": [
       "l_TEAM_UK_l"
     ],
-    "kill": 0,
-    "teamkill": 2,
-    "suicide": 3,
-    "death": 7
+    "kill": 6,
+    "teamkill": 4,
+    "suicide": 4,
+    "death": 23
   },
   "a9a3ad6a-438d-47e0-8a3c-812ec399a114": {
     "name": "Smiggie Balls",
@@ -17796,10 +17797,10 @@
     "aliases": [
       "mescalito2002"
     ],
-    "kill": 9,
-    "teamkill": 0,
-    "suicide": 0,
-    "death": 4
+    "kill": 34,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 20
   },
   "b3890b2e-1985-4635-b6a7-298bf779c2be": {
     "name": "A1Doz24",
@@ -17819,7 +17820,7 @@
     "kill": 0,
     "teamkill": 0,
     "suicide": 0,
-    "death": 1
+    "death": 3
   },
   "27d1a71f-a165-4f26-ba7a-416286b52901": {
     "name": "MovingTargett",
@@ -17866,10 +17867,10 @@
     "aliases": [
       "StankyFranky96"
     ],
-    "kill": 0,
+    "kill": 24,
     "teamkill": 0,
-    "suicide": 1,
-    "death": 1
+    "suicide": 3,
+    "death": 17
   },
   "7e61269f-259a-4fdd-8a13-e83e31c45d4c": {
     "name": "Don_Qsr",
@@ -17886,10 +17887,10 @@
     "aliases": [
       "stonky_birb88"
     ],
-    "kill": 3,
-    "teamkill": 0,
-    "suicide": 3,
-    "death": 13
+    "kill": 5,
+    "teamkill": 1,
+    "suicide": 4,
+    "death": 21
   },
   "b8e6bea5-423b-4bc6-ac55-e2e99b9f732e": {
     "name": "Enrickfagotts\u00ebn",
@@ -17906,10 +17907,10 @@
     "aliases": [
       "GameOfLoads"
     ],
-    "kill": 10,
-    "teamkill": 0,
-    "suicide": 5,
-    "death": 20
+    "kill": 51,
+    "teamkill": 1,
+    "suicide": 9,
+    "death": 52
   },
   "b8a5074b-ab6f-4e45-9357-d54eea0914e0": {
     "name": "Dom\u042b",
@@ -17956,10 +17957,10 @@
     "aliases": [
       "[SVB] soulja"
     ],
-    "kill": 1,
+    "kill": 14,
     "teamkill": 0,
-    "suicide": 1,
-    "death": 2
+    "suicide": 4,
+    "death": 8
   },
   "6a098683-7176-487b-8fec-125d1f74ecfb": {
     "name": "Jameswalker1997",
@@ -17990,5 +17991,1635 @@
     "teamkill": 0,
     "suicide": 0,
     "death": 2
+  },
+  "c18e0c3c-f957-4443-b18c-24eb48596ab2": {
+    "name": "R0nin",
+    "aliases": [
+      "R0nin"
+    ],
+    "kill": 5,
+    "teamkill": 2,
+    "suicide": 5,
+    "death": 14
+  },
+  "a7a33e8a-4c9a-4c8c-9ca9-b96d2ed77940": {
+    "name": "MorganFreeWomaan",
+    "aliases": [
+      "MorganFreeWomaan"
+    ],
+    "kill": 15,
+    "teamkill": 0,
+    "suicide": 8,
+    "death": 29
+  },
+  "82ad97f8-b721-46d6-ad41-ef97d386a8a0": {
+    "name": "DIR-TU",
+    "aliases": [
+      "DIR-TU"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 2
+  },
+  "b7d07a56-2235-4958-96ba-dc5397ba2a6d": {
+    "name": "Kazeet",
+    "aliases": [
+      "Kazeet"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "14893496-fb1b-40f4-bd27-8f06aa2fd588": {
+    "name": "FE4R_itself7",
+    "aliases": [
+      "FE4R_itself7"
+    ],
+    "kill": 9,
+    "teamkill": 1,
+    "suicide": 15,
+    "death": 75
+  },
+  "c0236be3-1aaf-44f8-bee5-477d425de002": {
+    "name": "Vicious",
+    "aliases": [
+      "Vicious"
+    ],
+    "kill": 4,
+    "teamkill": 0,
+    "suicide": 3,
+    "death": 8
+  },
+  "359911d5-33fe-45fb-beac-05926f416334": {
+    "name": "ell",
+    "aliases": [
+      "ell"
+    ],
+    "kill": 77,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 34
+  },
+  "79bb37c0-f941-4d4c-ac4f-9c4d3429bde7": {
+    "name": "vita_cola554",
+    "aliases": [
+      "vita_cola554"
+    ],
+    "kill": 30,
+    "teamkill": 2,
+    "suicide": 12,
+    "death": 32
+  },
+  "c0096de7-9e69-462d-a397-133d0f9f8a1f": {
+    "name": "exer fire",
+    "aliases": [
+      "exer fire"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 5
+  },
+  "9c144a04-f102-4d4a-a668-977779e1f10d": {
+    "name": "avishai95",
+    "aliases": [
+      "avishai95"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "57f837ae-9071-4be4-a3d6-113aa1ac0c7a": {
+    "name": "VienOnSarrange13",
+    "aliases": [
+      "VienOnSarrange13"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "8a903608-0b63-44df-9353-c7b59a286d4b": {
+    "name": "truediver24",
+    "aliases": [
+      "truediver24"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 15
+  },
+  "9fa5c90a-5686-4e83-8f48-8cffcc69324f": {
+    "name": "animowany \u017c\u00f3\u0142w",
+    "aliases": [
+      "animowany \u017c\u00f3\u0142w"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "9d177896-c05a-4c6e-9097-4e652136bc43": {
+    "name": "N\u0113\u014d \u0129\u015f \u0412a\u0441K \u30c3",
+    "aliases": [
+      "N\u0113\u014d \u0129\u015f \u0412a\u0441K \u30c3"
+    ],
+    "kill": 1,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 2
+  },
+  "ff0706a5-a09c-49f8-8359-f106c1d27571": {
+    "name": "Kenlor",
+    "aliases": [
+      "Kenlor"
+    ],
+    "kill": 7,
+    "teamkill": 1,
+    "suicide": 2,
+    "death": 11
+  },
+  "de3614b7-8fe2-40c0-a24a-5f6a7286d2d3": {
+    "name": "Kyst snayper",
+    "aliases": [
+      "Kyst snayper"
+    ],
+    "kill": 4,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 9
+  },
+  "42684de3-c0d5-400b-8eff-ae32d21a9c9d": {
+    "name": "ii-TKs",
+    "aliases": [
+      "ii-TKs"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 5
+  },
+  "56b912e8-71ca-4a7b-a829-f6d1cc441e80": {
+    "name": "ethan12951",
+    "aliases": [
+      "ethan12951"
+    ],
+    "kill": 4,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 15
+  },
+  "d11fb7ce-6e96-4a4e-b352-61aaa56e35e1": {
+    "name": "Frank Hill",
+    "aliases": [
+      "Frank Hill"
+    ],
+    "kill": 10,
+    "teamkill": 0,
+    "suicide": 3,
+    "death": 11
+  },
+  "1318bb27-a0d1-4275-ad54-b42685b3f9bf": {
+    "name": "Kask",
+    "aliases": [
+      "Kask"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 5
+  },
+  "8076bbb9-98e4-4e33-8cb5-bb77ad71951d": {
+    "name": "Gerald",
+    "aliases": [
+      "Gerald"
+    ],
+    "kill": 7,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 3
+  },
+  "576bde8d-c614-4b1d-a229-5d089e5f065e": {
+    "name": "ClownMamat21",
+    "aliases": [
+      "ClownMamat21"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 2
+  },
+  "7a5d3692-ac34-4df3-bb7a-5b108cb24ddf": {
+    "name": "DMS-InfamusKila1",
+    "aliases": [
+      "DMS-InfamusKila1"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "796c4cdd-3af3-4225-9793-31aea210ec15": {
+    "name": "mathis007",
+    "aliases": [
+      "mathis007"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 5
+  },
+  "71f8b851-c0e8-43c8-947d-15e473fb35f9": {
+    "name": "Petrild",
+    "aliases": [
+      "Petrild"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 10
+  },
+  "63be3761-5c82-44c0-82f3-68813736738e": {
+    "name": "bounty hunter",
+    "aliases": [
+      "bounty hunter"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 4,
+    "death": 5
+  },
+  "fa205292-d542-470f-a9b6-a79b596aa77b": {
+    "name": "Opsec Rivi",
+    "aliases": [
+      "Opsec Rivi"
+    ],
+    "kill": 5,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 6
+  },
+  "e37a7e66-0e90-4714-a121-5beb24a99205": {
+    "name": "qscounii",
+    "aliases": [
+      "qscounii"
+    ],
+    "kill": 0,
+    "teamkill": 2,
+    "suicide": 0,
+    "death": 0
+  },
+  "cfc7a3a9-87e9-49d8-8b52-cd243d2fe801": {
+    "name": "M4GICswarmzy",
+    "aliases": [
+      "M4GICswarmzy"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 2
+  },
+  "f4d8929d-d679-4a6d-8022-0ecea2564aa4": {
+    "name": "xLENMEISTERx",
+    "aliases": [
+      "xLENMEISTERx"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "7698e7b2-95e5-42f8-9578-c8941ddbf542": {
+    "name": "Snowcap",
+    "aliases": [
+      "Snowcap"
+    ],
+    "kill": 5,
+    "teamkill": 2,
+    "suicide": 0,
+    "death": 12
+  },
+  "91dce510-b937-47ee-a7ee-b19e243a226a": {
+    "name": "WILLX",
+    "aliases": [
+      "WILLX"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 2
+  },
+  "e0bf4646-5bba-4045-a885-8cfab7ef4964": {
+    "name": "Khabahb",
+    "aliases": [
+      "Khabahb"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 3
+  },
+  "18e57271-9d4a-495f-b8ae-69f4407aeb95": {
+    "name": "Mr.Anderson",
+    "aliases": [
+      "Mr.Anderson"
+    ],
+    "kill": 9,
+    "teamkill": 2,
+    "suicide": 2,
+    "death": 20
+  },
+  "c21026d4-5e6c-456a-b233-997957961e69": {
+    "name": "ECFR__Choucroute",
+    "aliases": [
+      "ECFR__Choucroute"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 4
+  },
+  "85b3fed6-99df-4032-ab30-b16eec9f727c": {
+    "name": "HairyToedFish",
+    "aliases": [
+      "HairyToedFish"
+    ],
+    "kill": 7,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 33
+  },
+  "94ec6ef5-4ea6-4ce0-8b62-c7938efe5f22": {
+    "name": "BigWEFFLE",
+    "aliases": [
+      "BigWEFFLE"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 3,
+    "death": 7
+  },
+  "e934b2fe-08ff-4297-8ba7-30866ac9abd0": {
+    "name": "Rillander",
+    "aliases": [
+      "Rillander"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 4
+  },
+  "b10c15b0-8511-49ec-9ded-7af163aa559e": {
+    "name": "ADC SilentNite7",
+    "aliases": [
+      "ADC SilentNite7"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 6
+  },
+  "d81254b9-d0a7-433f-bed4-36e8884eb17a": {
+    "name": "AverageHoncy",
+    "aliases": [
+      "AverageHoncy"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 4
+  },
+  "11ed696a-4d21-4c78-b36a-3be9d6aa4412": {
+    "name": "Laio",
+    "aliases": [
+      "Laio"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 2
+  },
+  "46325ecc-10ac-4554-b072-1528518cbff2": {
+    "name": "Hyperion_the_Great",
+    "aliases": [
+      "Hyperion_the_Great"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 11
+  },
+  "3bf86e45-bc25-4680-80c4-b2fdd8e314ad": {
+    "name": "SirMello",
+    "aliases": [
+      "SirMello"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 9
+  },
+  "30602e19-016d-4a63-9e40-ae18a21d2a2b": {
+    "name": "Richter",
+    "aliases": [
+      "Richter"
+    ],
+    "kill": 11,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 5
+  },
+  "eb7543db-b973-43e5-8521-6c21c963ffc7": {
+    "name": "hiub",
+    "aliases": [
+      "hiub"
+    ],
+    "kill": 7,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 6
+  },
+  "87a569eb-01f3-47e7-ae4f-226629bae58d": {
+    "name": "Darleef",
+    "aliases": [
+      "Darleef"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 4
+  },
+  "c9e18b39-6b62-447d-bed0-c8f55c1bf4f0": {
+    "name": "Echo 1.3",
+    "aliases": [
+      "Echo 1.3"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 12
+  },
+  "a652beea-1f6d-4484-a12d-17f01755976c": {
+    "name": "Lazar_FireYT",
+    "aliases": [
+      "Lazar_FireYT"
+    ],
+    "kill": 8,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 23
+  },
+  "b9e345d6-218c-4ba2-8e1e-6634ff5c065e": {
+    "name": "gustas",
+    "aliases": [
+      "gustas"
+    ],
+    "kill": 51,
+    "teamkill": 0,
+    "suicide": 6,
+    "death": 18
+  },
+  "313d98d6-03c8-4274-ace4-d522a7ec7e18": {
+    "name": "MicroZenax",
+    "aliases": [
+      "MicroZenax"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "fd48af58-1eff-443e-a7d1-a581be87c830": {
+    "name": "Ice Cold Sprite",
+    "aliases": [
+      "Ice Cold Sprite"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 7
+  },
+  "37efcd33-dca6-401d-b658-bd9926a24e3b": {
+    "name": "Journey",
+    "aliases": [
+      "Journey"
+    ],
+    "kill": 22,
+    "teamkill": 2,
+    "suicide": 5,
+    "death": 15
+  },
+  "d0b73b61-6cf5-4aa8-baf1-1718c4374843": {
+    "name": "Molestos\u0142aw",
+    "aliases": [
+      "Molestos\u0142aw"
+    ],
+    "kill": 34,
+    "teamkill": 1,
+    "suicide": 3,
+    "death": 36
+  },
+  "8db3eaca-44b5-443c-893b-87ec78ea259e": {
+    "name": "InYaFartBox",
+    "aliases": [
+      "InYaFartBox"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 3,
+    "death": 6
+  },
+  "f8056fe7-d454-4a4f-bd80-3ee74793639e": {
+    "name": "Pazzfossil",
+    "aliases": [
+      "Pazzfossil"
+    ],
+    "kill": 19,
+    "teamkill": 4,
+    "suicide": 3,
+    "death": 30
+  },
+  "af488aa9-fe08-4710-af2c-92740838563f": {
+    "name": "IloveUSAw",
+    "aliases": [
+      "IloveUSAw"
+    ],
+    "kill": 4,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 22
+  },
+  "7c95112a-0b49-47d4-8881-64f2738083a5": {
+    "name": "MiStiK-_-DZ",
+    "aliases": [
+      "MiStiK-_-DZ"
+    ],
+    "kill": 6,
+    "teamkill": 0,
+    "suicide": 3,
+    "death": 7
+  },
+  "387b480e-c6df-4c6c-854f-079985b6f551": {
+    "name": "Ghosty1154500",
+    "aliases": [
+      "Ghosty1154500"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "cbe6a1d6-e084-41ec-b5dd-0fd89be57049": {
+    "name": "Jelkov",
+    "aliases": [
+      "Jelkov"
+    ],
+    "kill": 2,
+    "teamkill": 1,
+    "suicide": 4,
+    "death": 9
+  },
+  "798bb423-e8ba-4934-96d9-768d14342d02": {
+    "name": "trickyallyda679",
+    "aliases": [
+      "trickyallyda679"
+    ],
+    "kill": 4,
+    "teamkill": 2,
+    "suicide": 2,
+    "death": 13
+  },
+  "1a67b153-da12-427f-91ea-d965754a1fad": {
+    "name": "P4BL0 [ITA]",
+    "aliases": [
+      "P4BL0 [ITA]"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 5
+  },
+  "584b9f33-ed27-4a98-a143-fbf4a2a757e7": {
+    "name": "bionic-pluto9",
+    "aliases": [
+      "bionic-pluto9"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "819d7d3d-85a1-463e-b781-6165014d2f37": {
+    "name": "Spoonman",
+    "aliases": [
+      "Spoonman"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 4
+  },
+  "3d2faed0-4d4a-498d-8427-3b72cd27faed": {
+    "name": "Haza65_FIN",
+    "aliases": [
+      "Haza65_FIN"
+    ],
+    "kill": 17,
+    "teamkill": 2,
+    "suicide": 3,
+    "death": 30
+  },
+  "f89ca7f8-4c47-405b-9a9a-82b226bc3e4a": {
+    "name": "Certified_Iceyy",
+    "aliases": [
+      "Certified_Iceyy"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 14
+  },
+  "3ee28c2e-ad75-4c73-9bcb-8f33ada17d1c": {
+    "name": "ValkLightyear",
+    "aliases": [
+      "ValkLightyear"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 6
+  },
+  "ec6395b6-77b4-4975-bc33-15d23e9582a5": {
+    "name": "stevenbrown128",
+    "aliases": [
+      "stevenbrown128"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 7
+  },
+  "6356ea86-c863-4083-bcdc-2e24c6651f64": {
+    "name": "lewieben7",
+    "aliases": [
+      "lewieben7"
+    ],
+    "kill": 2,
+    "teamkill": 7,
+    "suicide": 6,
+    "death": 16
+  },
+  "8e4be0fb-ebaf-4d63-9cc7-728ff1261ae3": {
+    "name": "monpol12313",
+    "aliases": [
+      "monpol12313"
+    ],
+    "kill": 3,
+    "teamkill": 2,
+    "suicide": 4,
+    "death": 21
+  },
+  "27bfc29b-77d3-4471-aa8c-43b6c15ba75e": {
+    "name": "BonkaZ",
+    "aliases": [
+      "BonkaZ"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "98af7c31-5839-4ef1-b8c8-d578d51a46a0": {
+    "name": "AXAP_Youngy",
+    "aliases": [
+      "AXAP_Youngy"
+    ],
+    "kill": 7,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 11
+  },
+  "f859df0a-6d12-4d0c-9c8e-8422393f04ac": {
+    "name": "Cygu\u015b nygu\u015b CSGOSKINS",
+    "aliases": [
+      "Cygu\u015b nygu\u015b CSGOSKINS"
+    ],
+    "kill": 6,
+    "teamkill": 0,
+    "suicide": 4,
+    "death": 20
+  },
+  "66a74169-3b21-425c-9bdd-8faae39dc296": {
+    "name": "Dorito1203",
+    "aliases": [
+      "Dorito1203"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 1
+  },
+  "2c0919c0-fed2-4764-94b4-893999545b12": {
+    "name": "TheErichBA",
+    "aliases": [
+      "TheErichBA"
+    ],
+    "kill": 6,
+    "teamkill": 0,
+    "suicide": 3,
+    "death": 19
+  },
+  "fafcd0e7-8b11-4dd7-aa08-14b203c662c2": {
+    "name": "Raccoon",
+    "aliases": [
+      "Raccoon"
+    ],
+    "kill": 23,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 6
+  },
+  "43362620-a3ef-4ddd-a853-1f010db505f0": {
+    "name": "monster101092",
+    "aliases": [
+      "monster101092"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 8
+  },
+  "a859922c-5043-4292-a579-9449e211ab25": {
+    "name": "kaydelyon",
+    "aliases": [
+      "kaydelyon"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "99b67b42-f668-4f17-8fb2-8a4cc4920b6c": {
+    "name": "jugo",
+    "aliases": [
+      "jugo"
+    ],
+    "kill": 5,
+    "teamkill": 0,
+    "suicide": 4,
+    "death": 11
+  },
+  "2dd73461-e3fe-45ee-a412-17c91cca7072": {
+    "name": "smithbeau43",
+    "aliases": [
+      "smithbeau43"
+    ],
+    "kill": 2,
+    "teamkill": 3,
+    "suicide": 6,
+    "death": 19
+  },
+  "a633c69c-2998-461e-9387-cb876110ce9b": {
+    "name": "justicethegamer",
+    "aliases": [
+      "justicethegamer"
+    ],
+    "kill": 2,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 9
+  },
+  "59fe9c9b-8c19-428f-b6de-669f5ece96e0": {
+    "name": "Kaizun \u30ad\u30e2\u30ea\u2661\u26a3",
+    "aliases": [
+      "Kaizun \u30ad\u30e2\u30ea\u2661\u26a3"
+    ],
+    "kill": 7,
+    "teamkill": 2,
+    "suicide": 1,
+    "death": 11
+  },
+  "9911f00c-63df-4b07-aded-5d42a82a203d": {
+    "name": "TTV-battle_tune",
+    "aliases": [
+      "TTV-battle_tune"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 2
+  },
+  "b4f6427c-22d2-4dba-b02e-1b5908fbc628": {
+    "name": "Cosmonaut_Pain",
+    "aliases": [
+      "Cosmonaut_Pain"
+    ],
+    "kill": 3,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 9
+  },
+  "51f26dee-4af1-4e70-ad2f-cfa0b32be3e2": {
+    "name": "Stonarrrrd",
+    "aliases": [
+      "Stonarrrrd"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 4,
+    "death": 9
+  },
+  "feeb2a37-f959-49be-aaca-ab9079682a0c": {
+    "name": "ContourWolf",
+    "aliases": [
+      "ContourWolf"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "757bd76a-5e5d-458a-9aa6-6b29bdc96b84": {
+    "name": "TheCoffeemaker_",
+    "aliases": [
+      "TheCoffeemaker_"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 5
+  },
+  "49e2a55e-d6be-470b-8a4a-da18d34079ec": {
+    "name": "II KayZen dZ",
+    "aliases": [
+      "II KayZen dZ"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 4
+  },
+  "8fa7d2ec-7229-4e2f-bf8a-aba5c40d027b": {
+    "name": "MizticTrauma",
+    "aliases": [
+      "MizticTrauma"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 11
+  },
+  "a0f31482-8126-4c53-b250-40ce4116fccc": {
+    "name": "GRANNYQUEEFE",
+    "aliases": [
+      "GRANNYQUEEFE"
+    ],
+    "kill": 0,
+    "teamkill": 2,
+    "suicide": 1,
+    "death": 2
+  },
+  "9aac6fbb-751e-425f-879e-5af98c2e9975": {
+    "name": "x-Razor57",
+    "aliases": [
+      "x-Razor57"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 1
+  },
+  "2d4a962d-878e-4ca5-81fb-0f909649f24e": {
+    "name": "Efeu-Fortuna",
+    "aliases": [
+      "Efeu-Fortuna"
+    ],
+    "kill": 0,
+    "teamkill": 15,
+    "suicide": 1,
+    "death": 6
+  },
+  "a65a1289-c237-4e45-8efe-0a3a4c57a1f8": {
+    "name": "(FIN) Temuli00",
+    "aliases": [
+      "(FIN) Temuli00"
+    ],
+    "kill": 4,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 4
+  },
+  "4ebe7e4a-5520-404e-9cc8-447bdc520f05": {
+    "name": "Valhalla_420420",
+    "aliases": [
+      "Valhalla_420420"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 14
+  },
+  "a70566ac-88f3-4488-a88e-3b9ad23ffb11": {
+    "name": "stovies7",
+    "aliases": [
+      "stovies7"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 4,
+    "death": 20
+  },
+  "9603b747-416b-4d4f-b0a0-edf60b04b17f": {
+    "name": "s1m0nhae",
+    "aliases": [
+      "s1m0nhae"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 5
+  },
+  "29bae55f-1f8f-479b-a6a9-fd661c4b7edb": {
+    "name": "Maj.Immortal",
+    "aliases": [
+      "Maj.Immortal"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 2
+  },
+  "7a2b1aa2-538d-4e73-a07d-66bf3f80f17b": {
+    "name": "Pvt.Joker",
+    "aliases": [
+      "Pvt.Joker"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "63294f3c-b17b-4196-9273-836f87d574e5": {
+    "name": "TrapMatikx",
+    "aliases": [
+      "TrapMatikx"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 3
+  },
+  "5e8fa993-2a60-46e0-98b1-a2c954f0f61b": {
+    "name": "DannieChannie",
+    "aliases": [
+      "DannieChannie"
+    ],
+    "kill": 3,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 6
+  },
+  "c453d506-30e9-4db0-a974-6af3899a0710": {
+    "name": "Dietwater",
+    "aliases": [
+      "Dietwater"
+    ],
+    "kill": 18,
+    "teamkill": 1,
+    "suicide": 6,
+    "death": 24
+  },
+  "5fceb97b-f654-44cd-9193-1ad9a94bd250": {
+    "name": "SteadyStaite",
+    "aliases": [
+      "SteadyStaite"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 4,
+    "death": 8
+  },
+  "f03b2013-cfb1-42ef-a90c-b8df852b3a07": {
+    "name": "cnqrrr",
+    "aliases": [
+      "cnqrrr"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "8cdf879b-f120-4a4e-8e36-69d4ef0f5161": {
+    "name": "Dekadent549",
+    "aliases": [
+      "Dekadent549"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 3,
+    "death": 13
+  },
+  "363fba80-94b9-45b3-b39c-dbfc5713de95": {
+    "name": "Prozac Swordsman",
+    "aliases": [
+      "Prozac Swordsman"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 4
+  },
+  "aec96cd4-4db5-46df-b660-f5e43b34e5aa": {
+    "name": "ReWillBill",
+    "aliases": [
+      "ReWillBill"
+    ],
+    "kill": 16,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 20
+  },
+  "d8607fe8-ba17-4d29-849d-a4b365d1a78b": {
+    "name": "SonnieD6",
+    "aliases": [
+      "SonnieD6"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 6
+  },
+  "3e8801af-cb6c-4f44-81af-cc7579a4e144": {
+    "name": "_KH9I3b_BuToBT_",
+    "aliases": [
+      "_KH9I3b_BuToBT_"
+    ],
+    "kill": 5,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 4
+  },
+  "fc8addb8-7018-4ef2-9e9b-5a3e41e950d4": {
+    "name": "pandajoss",
+    "aliases": [
+      "pandajoss"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 8
+  },
+  "772c5b3f-bfee-4c5f-bb30-2f418c925605": {
+    "name": "Zesales",
+    "aliases": [
+      "Zesales"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 3
+  },
+  "d520263c-0f30-44da-a595-8b5332a60959": {
+    "name": "TakerOfWit",
+    "aliases": [
+      "TakerOfWit"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 3
+  },
+  "5dee4b2f-e59b-4f3c-858d-978683581bca": {
+    "name": "AreaMan_",
+    "aliases": [
+      "AreaMan_"
+    ],
+    "kill": 4,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 11
+  },
+  "b835239b-0244-4637-8225-28026a92b770": {
+    "name": "Czeski elo",
+    "aliases": [
+      "Czeski elo"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "4bedb506-77ad-4dba-97da-79dd53b4b3af": {
+    "name": "Unobtainium-Wolf",
+    "aliases": [
+      "Unobtainium-Wolf"
+    ],
+    "kill": 3,
+    "teamkill": 2,
+    "suicide": 4,
+    "death": 12
+  },
+  "9a8705c3-15c9-4942-b834-cae9c59b086e": {
+    "name": "[LCPL] B. Zabo",
+    "aliases": [
+      "[LCPL] B. Zabo"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 4
+  },
+  "2fc27d8f-a1b5-47fd-8963-006ac8d4d591": {
+    "name": "acepxl",
+    "aliases": [
+      "acepxl"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 12
+  },
+  "f4405156-5f85-46d5-b294-b068e5d0deba": {
+    "name": "WALTER WHITE THE LAST METHBENDER",
+    "aliases": [
+      "WALTER WHITE THE LAST METHBENDER"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 1
+  },
+  "c1677c69-9873-4cf4-ace9-fc232641ef27": {
+    "name": "ArmaReforger859",
+    "aliases": [
+      "ArmaReforger859"
+    ],
+    "kill": 2,
+    "teamkill": 1,
+    "suicide": 3,
+    "death": 8
+  },
+  "e0d0b49e-99ee-40fa-8047-08168fabea7c": {
+    "name": "TheNephilimmmm",
+    "aliases": [
+      "TheNephilimmmm"
+    ],
+    "kill": 10,
+    "teamkill": 1,
+    "suicide": 2,
+    "death": 20
+  },
+  "eb79a4c1-f4d0-4e65-aabc-896cd6b37b5a": {
+    "name": "ETHANTESTO11",
+    "aliases": [
+      "ETHANTESTO11"
+    ],
+    "kill": 1,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 0
+  },
+  "70a99351-aed1-46aa-a079-72b4819a5dfc": {
+    "name": "JackM2398",
+    "aliases": [
+      "JackM2398"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "1411ad6f-3dd8-4299-bbb6-016f7282f663": {
+    "name": "\u26e7BOT\u26e7",
+    "aliases": [
+      "\u26e7BOT\u26e7"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "387b455b-5029-413c-8627-ba405a6231ce": {
+    "name": "MIKEY_BARNES",
+    "aliases": [
+      "MIKEY_BARNES"
+    ],
+    "kill": 19,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 5
+  },
+  "ab70fe2c-80f4-41d6-a899-6fd883d1aee0": {
+    "name": "lewi3caven04",
+    "aliases": [
+      "lewi3caven04"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 1
+  },
+  "943a8308-c832-4aae-849c-6f21924ca768": {
+    "name": "Ramo254",
+    "aliases": [
+      "Ramo254"
+    ],
+    "kill": 1,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 3
+  },
+  "d15f714d-62c9-47de-bfc7-34565fee4d32": {
+    "name": "Angrybob8025",
+    "aliases": [
+      "Angrybob8025"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 3,
+    "death": 10
+  },
+  "2e966633-14af-4b92-9a52-1807eb760f18": {
+    "name": "Jeff Epstien518",
+    "aliases": [
+      "Jeff Epstien518"
+    ],
+    "kill": 9,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 6
+  },
+  "d7cf838c-2d0e-4f30-8a2f-03275867124a": {
+    "name": "DreamMachine",
+    "aliases": [
+      "DreamMachine"
+    ],
+    "kill": 6,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 5
+  },
+  "e896eefe-10e2-4037-aa8f-901a4a6f4dc8": {
+    "name": "patsyIS200",
+    "aliases": [
+      "patsyIS200"
+    ],
+    "kill": 3,
+    "teamkill": 1,
+    "suicide": 1,
+    "death": 5
+  },
+  "5f9d9d9c-10e2-4d55-8ca5-716d51c4d691": {
+    "name": "-=N.i.C.e=-",
+    "aliases": [
+      "-=N.i.C.e=-"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 3
+  },
+  "8d91af7b-8e18-46b1-8895-72793a7bf226": {
+    "name": "andymato",
+    "aliases": [
+      "andymato"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 7
+  },
+  "0da65491-874d-40c0-a059-b3caddfb2a74": {
+    "name": "Dandolive",
+    "aliases": [
+      "Dandolive"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "ec54ab62-5a27-43e7-bd76-c72260823f64": {
+    "name": "Handynads",
+    "aliases": [
+      "Handynads"
+    ],
+    "kill": 4,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 10
+  },
+  "6861cca6-db13-4ae0-8ce5-002bb8365023": {
+    "name": "Li3ToM3",
+    "aliases": [
+      "Li3ToM3"
+    ],
+    "kill": 3,
+    "teamkill": 1,
+    "suicide": 3,
+    "death": 11
+  },
+  "f9c9cb17-8c15-4f86-ad3e-71632341e7e9": {
+    "name": "KyudoTimeOut",
+    "aliases": [
+      "KyudoTimeOut"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "7661ce5e-f6aa-4b58-ad28-462a49bae50b": {
+    "name": "bushy333",
+    "aliases": [
+      "bushy333"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 1
+  },
+  "e9d06a2c-addc-49d3-b855-f259cf16cb96": {
+    "name": "AlfieYoung2202",
+    "aliases": [
+      "AlfieYoung2202"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 1
+  },
+  "ff1a691d-32ae-4e5b-8edd-c2cd1e4ca133": {
+    "name": "KludiQ",
+    "aliases": [
+      "KludiQ"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "d39f38e9-cb8b-4628-b22a-66c3473a22fb": {
+    "name": "II Rabby II",
+    "aliases": [
+      "II Rabby II"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "fe603be8-6e57-4012-85e5-fadf68d9011d": {
+    "name": "Suss",
+    "aliases": [
+      "Suss"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 3
+  },
+  "cd6f590c-921c-4851-974d-f431ad51625a": {
+    "name": "PizzaFurtive",
+    "aliases": [
+      "PizzaFurtive"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 0
+  },
+  "ecb6ab8f-a982-4c14-83d2-1054c9e1b740": {
+    "name": "Athene",
+    "aliases": [
+      "Athene"
+    ],
+    "kill": 4,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 0
+  },
+  "a5e915b6-2088-49e3-abd1-d487464f97c7": {
+    "name": "DanAram",
+    "aliases": [
+      "DanAram"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "3c703b0a-7db0-465c-b969-3e0f99b8f7e0": {
+    "name": "YungeenShay",
+    "aliases": [
+      "YungeenShay"
+    ],
+    "kill": 1,
+    "teamkill": 1,
+    "suicide": 2,
+    "death": 4
+  },
+  "5e4b8fc0-2a23-46a5-bb33-e29a533140aa": {
+    "name": "Winters",
+    "aliases": [
+      "Winters"
+    ],
+    "kill": 16,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "eafdf70a-6443-451c-8199-fd4fc923cf53": {
+    "name": "mad_dayekh",
+    "aliases": [
+      "mad_dayekh"
+    ],
+    "kill": 1,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 8
+  },
+  "f8165c84-4b63-466e-a695-bc3d189b2052": {
+    "name": "blakebey21",
+    "aliases": [
+      "blakebey21"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 5
+  },
+  "56720c1f-8c84-4fca-96a9-3c91608d73db": {
+    "name": "young_star3d0gg",
+    "aliases": [
+      "young_star3d0gg"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "b7c4a5d1-4fdf-487d-984a-420643c710d4": {
+    "name": "MESHALAMTA",
+    "aliases": [
+      "MESHALAMTA"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 4
+  },
+  "4bf38161-9290-4ab6-bd30-aad84a098f3a": {
+    "name": "Max_G300",
+    "aliases": [
+      "Max_G300"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 9
+  },
+  "eaa7cbdd-0aca-4a0a-b7ab-b195e0dd76c1": {
+    "name": "MC-Micky-Mush",
+    "aliases": [
+      "MC-Micky-Mush"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 7
+  },
+  "e1031e64-fa2f-4279-9fd8-a16a3929c91f": {
+    "name": "Scottperry_",
+    "aliases": [
+      "Scottperry_"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "4456a577-463b-460b-89d3-a8fd2c5f1ce3": {
+    "name": "dragonballsagna",
+    "aliases": [
+      "dragonballsagna"
+    ],
+    "kill": 4,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 8
+  },
+  "8a38afff-9ca8-49fa-8f1d-92ab950f0a41": {
+    "name": "youbunz420",
+    "aliases": [
+      "youbunz420"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 0
+  },
+  "35ba469b-0508-4c4b-bb38-e7df5b894e5c": {
+    "name": "Nmsdude101",
+    "aliases": [
+      "Nmsdude101"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 4
+  },
+  "b4839ed2-22e4-4a65-885c-e50ab665846e": {
+    "name": "Marlboro",
+    "aliases": [
+      "Marlboro"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 0,
+    "death": 2
+  },
+  "a5a1fb9a-b2bd-4057-b18c-34fe9492081a": {
+    "name": "Fr x Viper",
+    "aliases": [
+      "Fr x Viper"
+    ],
+    "kill": 3,
+    "teamkill": 0,
+    "suicide": 2,
+    "death": 13
+  },
+  "664134ea-ad18-4b02-b1a5-b6752d0824fa": {
+    "name": "MelvatronPrime",
+    "aliases": [
+      "MelvatronPrime"
+    ],
+    "kill": 2,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
+  },
+  "c9704df5-b406-4b4b-b375-c91b0d36608b": {
+    "name": "Sinkatze",
+    "aliases": [
+      "Sinkatze"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 6
+  },
+  "ac5bf95e-3046-43f0-99fa-edfa05b992e9": {
+    "name": "KAPGAN",
+    "aliases": [
+      "KAPGAN"
+    ],
+    "kill": 4,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 2
+  },
+  "f37a9b5b-9f8e-47cf-8d21-f66f418974f2": {
+    "name": "SlapHeadJUD",
+    "aliases": [
+      "SlapHeadJUD"
+    ],
+    "kill": 1,
+    "teamkill": 0,
+    "suicide": 1,
+    "death": 3
+  },
+  "50996623-92fa-42ac-a6f8-b97d5428b3a9": {
+    "name": "Geauss",
+    "aliases": [
+      "Geauss"
+    ],
+    "kill": 0,
+    "teamkill": 1,
+    "suicide": 3,
+    "death": 10
+  },
+  "3eea8b6e-d4c1-4a76-aa00-341b801c8e79": {
+    "name": "Chadley ThunderBrock",
+    "aliases": [
+      "Chadley ThunderBrock"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 4
+  },
+  "9e0b7413-e9fd-474b-b5e6-13eddaf2cea1": {
+    "name": "hendrik038",
+    "aliases": [
+      "hendrik038"
+    ],
+    "kill": 2,
+    "teamkill": 4,
+    "suicide": 3,
+    "death": 5
   }
 }
