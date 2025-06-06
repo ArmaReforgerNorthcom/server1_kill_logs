@@ -32,3 +32,5 @@
 {"timestamp":"2025-06-06T09:03:59Z","killer_uid":"8e4be0fb-ebaf-4d63-9cc7-728ff1261ae3","killer_name":"monpol12313","killer_faction":"SCR_CampaignFaction<0x000001F1FDF9E730>","action":"suicide","victim_uid":"8e4be0fb-ebaf-4d63-9cc7-728ff1261ae3","victim_name":"monpol12313","victim_faction":"SCR_CampaignFaction<0x000001F1FDF9E730>"}
 ,
 {"timestamp":"2025-06-06T09:11:49Z","killer_uid":"ce76d6c7-67d1-474d-ab8b-b12c627f5e0c","killer_name":"kristacheee","killer_faction":"SCR_CampaignFaction<0x000001F1FDF9E730>","action":"suicide","victim_uid":"ce76d6c7-67d1-474d-ab8b-b12c627f5e0c","victim_name":"kristacheee","victim_faction":"SCR_CampaignFaction<0x000001F1FDF9E730>"}
+,
+{"timestamp":"2025-06-06T09:15:51Z","killer_uid":"ce76d6c7-67d1-474d-ab8b-b12c627f5e0c","killer_name":"kristacheee","killer_faction":"SCR_CampaignFaction<0x000001F1FDF9E730>","action":"kill","victim_uid":"1f59cafb-50db-4429-883a-7bd6ff74ebb8","victim_name":"Azlerrr","victim_faction":"SCR_CampaignFaction<0x000001F1FDF9E8D0>"}
