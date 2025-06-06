@@ -177,7 +177,7 @@
     "kill": 104,
     "teamkill": 25,
     "suicide": 26,
-    "death": 133
+    "death": 135
   },
   "dbd58405-5a2e-4671-aadb-a42c0c19df74": {
     "name": "Mrdinklepick",
@@ -6129,7 +6129,7 @@
     "kill": 33,
     "teamkill": 5,
     "suicide": 21,
-    "death": 85
+    "death": 86
   },
   "3db50784-f6a7-475e-95e1-3b85862c6010": {
     "name": "zyman",
@@ -10986,10 +10986,10 @@
     "aliases": [
       "Sturmthe"
     ],
-    "kill": 18,
-    "teamkill": 3,
-    "suicide": 10,
-    "death": 64
+    "kill": 22,
+    "teamkill": 4,
+    "suicide": 12,
+    "death": 71
   },
   "fe5af7b0-25fa-4d90-a1c9-6b95dbcf581d": {
     "name": "MORRISssssss",
@@ -13329,8 +13329,8 @@
     ],
     "kill": 26,
     "teamkill": 1,
-    "suicide": 3,
-    "death": 33
+    "suicide": 4,
+    "death": 34
   },
   "55c201eb-9c24-424e-95e7-b0b2cf39545e": {
     "name": "Kust",
@@ -17657,10 +17657,10 @@
     "aliases": [
       "Ramirez_Cartel3"
     ],
-    "kill": 6,
+    "kill": 8,
     "teamkill": 1,
-    "suicide": 2,
-    "death": 17
+    "suicide": 6,
+    "death": 21
   },
   "5774b3f0-a573-47fd-a32e-055d15266e56": {
     "name": "X_Golden-_-",
@@ -18049,8 +18049,8 @@
     ],
     "kill": 4,
     "teamkill": 0,
-    "suicide": 3,
-    "death": 8
+    "suicide": 4,
+    "death": 9
   },
   "359911d5-33fe-45fb-beac-05926f416334": {
     "name": "ell",
@@ -18927,10 +18927,10 @@
     "aliases": [
       "stovies7"
     ],
-    "kill": 0,
+    "kill": 3,
     "teamkill": 0,
-    "suicide": 4,
-    "death": 20
+    "suicide": 6,
+    "death": 23
   },
   "9603b747-416b-4d4f-b0a0-edf60b04b17f": {
     "name": "s1m0nhae",
@@ -19621,5 +19621,15 @@
     "teamkill": 4,
     "suicide": 3,
     "death": 5
+  },
+  "a988be84-f59d-481f-a214-9447161d54b5": {
+    "name": "Johan_Toss25",
+    "aliases": [
+      "Johan_Toss25"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
   }
 }

@@ -36,3 +36,7 @@
 {"timestamp":"2025-06-06T10:52:13Z","killer_uid":"9d8f396c-9def-4be7-a4eb-d61145364c0d","killer_name":"krish24722","killer_faction":"SCR_CampaignFaction<0x0000027F93CFA730>","action":"kill","victim_uid":"f7474edf-d187-4ead-a90d-161dda3524c6","victim_name":"Cope Destroyer","victim_faction":"SCR_CampaignFaction<0x0000027F93CFA8D0>"}
 ,
 {"timestamp":"2025-06-06T10:52:36Z","killer_uid":"bffd40b8-1679-48bd-afcb-77a83433532a","killer_name":"Tristan_Cartyer","killer_faction":"SCR_CampaignFaction<0x0000027F93CFA8D0>","action":"kill","victim_uid":"9d8f396c-9def-4be7-a4eb-d61145364c0d","victim_name":"krish24722","victim_faction":"SCR_CampaignFaction<0x0000027F93CFA730>"}
+,
+{"timestamp":"2025-06-06T10:58:59Z","killer_uid":"5f715ad2-da9f-49c9-a708-438d3163c461","killer_name":"HaiLuxSkyWalker","killer_faction":"SCR_CampaignFaction<0x0000027F93CFA730>","action":"suicide","victim_uid":"5f715ad2-da9f-49c9-a708-438d3163c461","victim_name":"HaiLuxSkyWalker","victim_faction":"SCR_CampaignFaction<0x0000027F93CFA730>"}
+,
+{"timestamp":"2025-06-06T11:01:40Z","killer_uid":"9d8f396c-9def-4be7-a4eb-d61145364c0d","killer_name":"krish24722","killer_faction":"SCR_CampaignFaction<0x0000027F93CFA730>","action":"suicide","victim_uid":"9d8f396c-9def-4be7-a4eb-d61145364c0d","victim_name":"krish24722","victim_faction":"SCR_CampaignFaction<0x0000027F93CFA730>"}
