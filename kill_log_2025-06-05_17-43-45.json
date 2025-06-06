@@ -7334,3 +7334,41 @@
 {"timestamp":"2025-06-06T01:34:45Z","killer_uid":"101f97b0-15f9-4226-bf64-3fbacc4b10f8","killer_name":"Dark De'mora","killer_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>","action":"kill","victim_uid":"de425dc3-f9ef-47da-a4f6-f33b9973c6f8","victim_name":"Lovewing","victim_faction":"SCR_CampaignFaction<0x000001EA224FA730>"}
 ,
 {"timestamp":"2025-06-06T01:34:48Z","killer_uid":"c034068e-5183-40fa-8d08-60fef19a61af","killer_name":"Unreal_DxrkFN","killer_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>","action":"suicide","victim_uid":"c034068e-5183-40fa-8d08-60fef19a61af","victim_name":"Unreal_DxrkFN","victim_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>"}
+,
+{"timestamp":"2025-06-06T01:35:41Z","killer_uid":"b50f8ef7-ac94-4a7b-b5e6-86cb32b46f9c","killer_name":"Dexter Morgan","killer_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>","action":"teamkill","victim_uid":"3a558311-7082-43a2-8428-7c7df7c20bc9","victim_name":"CrazyyWolf69","victim_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>"}
+,
+{"timestamp":"2025-06-06T01:36:12Z","killer_uid":"de425dc3-f9ef-47da-a4f6-f33b9973c6f8","killer_name":"Lovewing","killer_faction":"SCR_CampaignFaction<0x000001EA224FA730>","action":"suicide","victim_uid":"de425dc3-f9ef-47da-a4f6-f33b9973c6f8","victim_name":"Lovewing","victim_faction":"SCR_CampaignFaction<0x000001EA224FA730>"}
+,
+{"timestamp":"2025-06-06T01:36:44Z","killer_uid":"101f97b0-15f9-4226-bf64-3fbacc4b10f8","killer_name":"Dark De'mora","killer_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>","action":"kill","victim_uid":"2c42c29f-d9b7-489a-9f4d-7f6c0a4b1837","victim_name":"Viper-team-45","victim_faction":"SCR_CampaignFaction<0x000001EA224FA730>"}
+,
+{"timestamp":"2025-06-06T01:36:57Z","killer_uid":"3a558311-7082-43a2-8428-7c7df7c20bc9","killer_name":"CrazyyWolf69","killer_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>","action":"teamkill","victim_uid":"b50f8ef7-ac94-4a7b-b5e6-86cb32b46f9c","victim_name":"Dexter Morgan","victim_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>"}
+,
+{"timestamp":"2025-06-06T01:37:00Z","killer_uid":"de425dc3-f9ef-47da-a4f6-f33b9973c6f8","killer_name":"Lovewing","killer_faction":"SCR_CampaignFaction<0x000001EA224FA730>","action":"suicide","victim_uid":"de425dc3-f9ef-47da-a4f6-f33b9973c6f8","victim_name":"Lovewing","victim_faction":"SCR_CampaignFaction<0x000001EA224FA730>"}
+,
+{"timestamp":"2025-06-06T01:37:24Z","killer_uid":"3a558311-7082-43a2-8428-7c7df7c20bc9","killer_name":"CrazyyWolf69","killer_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>","action":"suicide","victim_uid":"3a558311-7082-43a2-8428-7c7df7c20bc9","victim_name":"CrazyyWolf69","victim_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>"}
+,
+{"timestamp":"2025-06-06T01:38:04Z","killer_uid":"","killer_name":"","killer_faction":"NULL","action":"kill","victim_uid":"3a558311-7082-43a2-8428-7c7df7c20bc9","victim_name":"CrazyyWolf69","victim_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>"}
+,
+{"timestamp":"2025-06-06T01:40:13Z","killer_uid":"b50f8ef7-ac94-4a7b-b5e6-86cb32b46f9c","killer_name":"Dexter Morgan","killer_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>","action":"teamkill","victim_uid":"3a558311-7082-43a2-8428-7c7df7c20bc9","victim_name":"CrazyyWolf69","victim_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>"}
+,
+{"timestamp":"2025-06-06T01:41:26Z","killer_uid":"d2f11c88-0c4f-4d18-8100-b9e4b84b9eca","killer_name":"nookie","killer_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>","action":"kill","victim_uid":"75982bd7-3307-4e71-8c06-1786e3438d17","victim_name":"passerby","victim_faction":"SCR_CampaignFaction<0x000001EA224FA730>"}
+,
+{"timestamp":"2025-06-06T01:41:26Z","killer_uid":"b50f8ef7-ac94-4a7b-b5e6-86cb32b46f9c","killer_name":"Dexter Morgan","killer_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>","action":"teamkill","victim_uid":"3a558311-7082-43a2-8428-7c7df7c20bc9","victim_name":"CrazyyWolf69","victim_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>"}
+,
+{"timestamp":"2025-06-06T01:41:59Z","killer_uid":"101f97b0-15f9-4226-bf64-3fbacc4b10f8","killer_name":"Dark De'mora","killer_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>","action":"kill","victim_uid":"08d60f42-49b4-48e3-9b17-b6f3515f595a","victim_name":"minos-prime-","victim_faction":"SCR_CampaignFaction<0x000001EA224FA730>"}
+,
+{"timestamp":"2025-06-06T01:42:07Z","killer_uid":"75982bd7-3307-4e71-8c06-1786e3438d17","killer_name":"passerby","killer_faction":"SCR_CampaignFaction<0x000001EA224FA730>","action":"suicide","victim_uid":"75982bd7-3307-4e71-8c06-1786e3438d17","victim_name":"passerby","victim_faction":"SCR_CampaignFaction<0x000001EA224FA730>"}
+,
+{"timestamp":"2025-06-06T01:42:34Z","killer_uid":"4676a5ee-8a78-4078-ac23-acaa2f1f8e8c","killer_name":"Wolfsauge","killer_faction":"SCR_CampaignFaction<0x000001EA224FA730>","action":"kill","victim_uid":"d2f11c88-0c4f-4d18-8100-b9e4b84b9eca","victim_name":"nookie","victim_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>"}
+,
+{"timestamp":"2025-06-06T01:43:09Z","killer_uid":"3a558311-7082-43a2-8428-7c7df7c20bc9","killer_name":"CrazyyWolf69","killer_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>","action":"teamkill","victim_uid":"b50f8ef7-ac94-4a7b-b5e6-86cb32b46f9c","victim_name":"Dexter Morgan","victim_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>"}
+,
+{"timestamp":"2025-06-06T01:43:30Z","killer_uid":"d2f11c88-0c4f-4d18-8100-b9e4b84b9eca","killer_name":"nookie","killer_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>","action":"kill","victim_uid":"bc39c6ef-0a64-4758-b877-39f3164cc0f1","victim_name":"puucielicker420","victim_faction":"SCR_CampaignFaction<0x000001EA224FA730>"}
+,
+{"timestamp":"2025-06-06T01:43:32Z","killer_uid":"b50f8ef7-ac94-4a7b-b5e6-86cb32b46f9c","killer_name":"Dexter Morgan","killer_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>","action":"teamkill","victim_uid":"3a558311-7082-43a2-8428-7c7df7c20bc9","victim_name":"CrazyyWolf69","victim_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>"}
+,
+{"timestamp":"2025-06-06T01:44:28Z","killer_uid":"3a558311-7082-43a2-8428-7c7df7c20bc9","killer_name":"CrazyyWolf69","killer_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>","action":"teamkill","victim_uid":"b50f8ef7-ac94-4a7b-b5e6-86cb32b46f9c","victim_name":"Dexter Morgan","victim_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>"}
+,
+{"timestamp":"2025-06-06T01:44:43Z","killer_uid":"b50f8ef7-ac94-4a7b-b5e6-86cb32b46f9c","killer_name":"Dexter Morgan","killer_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>","action":"teamkill","victim_uid":"3a558311-7082-43a2-8428-7c7df7c20bc9","victim_name":"CrazyyWolf69","victim_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>"}
+,
+{"timestamp":"2025-06-06T01:44:49Z","killer_uid":"101f97b0-15f9-4226-bf64-3fbacc4b10f8","killer_name":"Dark De'mora","killer_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>","action":"kill","victim_uid":"387b455b-5029-413c-8627-ba405a6231ce","victim_name":"MIKEY_BARNES","victim_faction":"SCR_CampaignFaction<0x000001EA224FA730>"}
