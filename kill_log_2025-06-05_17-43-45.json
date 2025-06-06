@@ -7448,3 +7448,5 @@
 {"timestamp":"2025-06-06T03:30:26Z","killer_uid":"a59efc87-c9ee-44de-b316-4bc296ebb358","killer_name":"Sargent_Pickle10","killer_faction":"SCR_CampaignFaction<0x000001EA224FA730>","action":"suicide","victim_uid":"a59efc87-c9ee-44de-b316-4bc296ebb358","victim_name":"Sargent_Pickle10","victim_faction":"SCR_CampaignFaction<0x000001EA224FA730>"}
 ,
 {"timestamp":"2025-06-06T03:33:10Z","killer_uid":"01eb8c3e-0de0-4f8b-a160-a31a42b76883","killer_name":"TurtleMcTurtle7","killer_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>","action":"kill","victim_uid":"a59efc87-c9ee-44de-b316-4bc296ebb358","victim_name":"Sargent_Pickle10","victim_faction":"SCR_CampaignFaction<0x000001EA224FA730>"}
+,
+{"timestamp":"2025-06-06T03:35:13Z","killer_uid":"01eb8c3e-0de0-4f8b-a160-a31a42b76883","killer_name":"TurtleMcTurtle7","killer_faction":"SCR_CampaignFaction<0x000001EA224FA8D0>","action":"kill","victim_uid":"a59efc87-c9ee-44de-b316-4bc296ebb358","victim_name":"Sargent_Pickle10","victim_faction":"SCR_CampaignFaction<0x000001EA224FA730>"}
