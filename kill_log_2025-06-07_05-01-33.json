@@ -184,3 +184,25 @@
 {"timestamp":"2025-06-07T09:42:43Z","killer_uid":"3970dc16-472d-4e70-a14c-d615be57d523","killer_name":"mindblowie","killer_faction":"SCR_CampaignFaction<0x000001A896CEE730>","action":"kill","victim_uid":"62eb01f7-38ce-474c-8cd3-a5fd3947fb77","victim_name":"Brzezinski","victim_faction":"SCR_CampaignFaction<0x000001A896CEE8D0>"}
 ,
 {"timestamp":"2025-06-07T09:44:38Z","killer_uid":"62eb01f7-38ce-474c-8cd3-a5fd3947fb77","killer_name":"Brzezinski","killer_faction":"SCR_CampaignFaction<0x000001A896CEE8D0>","action":"kill","victim_uid":"3970dc16-472d-4e70-a14c-d615be57d523","victim_name":"mindblowie","victim_faction":"SCR_CampaignFaction<0x000001A896CEE730>"}
+,
+{"timestamp":"2025-06-07T09:45:52Z","killer_uid":"b0f87838-52f9-4f81-b27f-d14af1701e3c","killer_name":"arpad_222","killer_faction":"SCR_CampaignFaction<0x000001A896CEE730>","action":"kill","victim_uid":"f9851c40-b0cd-4788-9c8a-b3a19d1a3249","victim_name":"ChieF","victim_faction":"SCR_CampaignFaction<0x000001A896CEE8D0>"}
+,
+{"timestamp":"2025-06-07T09:45:59Z","killer_uid":"62eb01f7-38ce-474c-8cd3-a5fd3947fb77","killer_name":"Brzezinski","killer_faction":"SCR_CampaignFaction<0x000001A896CEE8D0>","action":"kill","victim_uid":"b0f87838-52f9-4f81-b27f-d14af1701e3c","victim_name":"arpad_222","victim_faction":"SCR_CampaignFaction<0x000001A896CEE730>"}
+,
+{"timestamp":"2025-06-07T09:46:24Z","killer_uid":"62e71ddb-6c90-480c-a56f-d7d8889112b5","killer_name":"Kewolsky","killer_faction":"SCR_CampaignFaction<0x000001A896CEE8D0>","action":"kill","victim_uid":"bffd40b8-1679-48bd-afcb-77a83433532a","victim_name":"Tristan_Cartyer","victim_faction":"SCR_CampaignFaction<0x000001A896CEE730>"}
+,
+{"timestamp":"2025-06-07T09:47:07Z","killer_uid":"3970dc16-472d-4e70-a14c-d615be57d523","killer_name":"mindblowie","killer_faction":"SCR_CampaignFaction<0x000001A896CEE730>","action":"kill","victim_uid":"62e71ddb-6c90-480c-a56f-d7d8889112b5","victim_name":"Kewolsky","victim_faction":"SCR_CampaignFaction<0x000001A896CEE8D0>"}
+,
+{"timestamp":"2025-06-07T09:48:35Z","killer_uid":"3970dc16-472d-4e70-a14c-d615be57d523","killer_name":"mindblowie","killer_faction":"SCR_CampaignFaction<0x000001A896CEE730>","action":"kill","victim_uid":"62eb01f7-38ce-474c-8cd3-a5fd3947fb77","victim_name":"Brzezinski","victim_faction":"SCR_CampaignFaction<0x000001A896CEE8D0>"}
+,
+{"timestamp":"2025-06-07T09:48:48Z","killer_uid":"d69e48ee-57b1-4e46-bb3d-bc579ad5cb99","killer_name":"StankyFranky96","killer_faction":"SCR_CampaignFaction<0x000001A896CEE8D0>","action":"suicide","victim_uid":"d69e48ee-57b1-4e46-bb3d-bc579ad5cb99","victim_name":"StankyFranky96","victim_faction":"SCR_CampaignFaction<0x000001A896CEE8D0>"}
+,
+{"timestamp":"2025-06-07T09:49:14Z","killer_uid":"969f3552-7d48-438d-9303-b6580bd4453a","killer_name":"Стая Блох","killer_faction":"SCR_CampaignFaction<0x000001A896CEE730>","action":"kill","victim_uid":"f9851c40-b0cd-4788-9c8a-b3a19d1a3249","victim_name":"ChieF","victim_faction":"SCR_CampaignFaction<0x000001A896CEE8D0>"}
+,
+{"timestamp":"2025-06-07T09:50:01Z","killer_uid":"a33fe8af-ac92-4cd9-a339-b01d36475a19","killer_name":"Holy","killer_faction":"SCR_CampaignFaction<0x000001A896CEE8D0>","action":"suicide","victim_uid":"a33fe8af-ac92-4cd9-a339-b01d36475a19","victim_name":"Holy","victim_faction":"SCR_CampaignFaction<0x000001A896CEE8D0>"}
+,
+{"timestamp":"2025-06-07T09:50:11Z","killer_uid":"c46b95b5-1cb9-4ae3-99af-8b764899e4d2","killer_name":"Oufh Matrix","killer_faction":"SCR_CampaignFaction<0x000001A896CEE730>","action":"suicide","victim_uid":"c46b95b5-1cb9-4ae3-99af-8b764899e4d2","victim_name":"Oufh Matrix","victim_faction":"SCR_CampaignFaction<0x000001A896CEE730>"}
+,
+{"timestamp":"2025-06-07T09:52:26Z","killer_uid":"5baa064a-b292-4c2a-bf05-d7c7c8b97ebe","killer_name":"wembleyy213","killer_faction":"SCR_CampaignFaction<0x000001A896CEE8D0>","action":"suicide","victim_uid":"5baa064a-b292-4c2a-bf05-d7c7c8b97ebe","victim_name":"wembleyy213","victim_faction":"SCR_CampaignFaction<0x000001A896CEE8D0>"}
+,
+{"timestamp":"2025-06-07T09:54:37Z","killer_uid":"62e71ddb-6c90-480c-a56f-d7d8889112b5","killer_name":"Kewolsky","killer_faction":"SCR_CampaignFaction<0x000001A896CEE8D0>","action":"kill","victim_uid":"bffd40b8-1679-48bd-afcb-77a83433532a","victim_name":"Tristan_Cartyer","victim_faction":"SCR_CampaignFaction<0x000001A896CEE730>"}
