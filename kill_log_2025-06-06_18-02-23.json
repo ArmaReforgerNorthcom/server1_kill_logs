@@ -6788,3 +6788,7 @@
 {"timestamp":"2025-06-07T01:42:01Z","killer_uid":"c26f20c2-a0cd-4c95-b4e4-87fcb79b6b5e","killer_name":"Argonni","killer_faction":"SCR_CampaignFaction<0x000001D5895FA730>","action":"kill","victim_uid":"79501539-f9b5-48d2-8658-cf1c6d49e3a6","victim_name":"Ucankismyars","victim_faction":"SCR_CampaignFaction<0x000001D5895FA8D0>"}
 ,
 {"timestamp":"2025-06-07T01:44:55Z","killer_uid":"7a4f459c-ae83-471b-b364-3a54d9be8a2a","killer_name":"Love Dumpster","killer_faction":"SCR_CampaignFaction<0x000001D5895FA730>","action":"suicide","victim_uid":"7a4f459c-ae83-471b-b364-3a54d9be8a2a","victim_name":"Love Dumpster","victim_faction":"SCR_CampaignFaction<0x000001D5895FA730>"}
+,
+{"timestamp":"2025-06-07T01:45:43Z","killer_uid":"15630ebd-abf5-4e83-9d24-37401cd68a39","killer_name":"donal_Farrelly03","killer_faction":"SCR_CampaignFaction<0x000001D5895FA8D0>","action":"suicide","victim_uid":"15630ebd-abf5-4e83-9d24-37401cd68a39","victim_name":"donal_Farrelly03","victim_faction":"SCR_CampaignFaction<0x000001D5895FA8D0>"}
+,
+{"timestamp":"2025-06-07T01:50:06Z","killer_uid":"8fa7d2ec-7229-4e2f-bf8a-aba5c40d027b","killer_name":"MizticTrauma","killer_faction":"SCR_CampaignFaction<0x000001D5895FA8D0>","action":"kill","victim_uid":"4b09c555-eecc-43b2-a240-e88c6e1b2bd0","victim_name":"facestabber51","victim_faction":"SCR_CampaignFaction<0x000001D5895FA730>"}
