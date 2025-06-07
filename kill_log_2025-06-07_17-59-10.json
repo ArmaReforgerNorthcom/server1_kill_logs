@@ -1,0 +1,14 @@
+[
+{"timestamp":"2025-06-07T18:02:42Z","killer_uid":"0fa5fc14-1030-4772-8273-8ef4b889555f","killer_name":"Matthew 10:34","killer_faction":"SCR_CampaignFaction<0x0000017CB7CF2730>","action":"suicide","victim_uid":"0fa5fc14-1030-4772-8273-8ef4b889555f","victim_name":"Matthew 10:34","victim_faction":"SCR_CampaignFaction<0x0000017CB7CF2730>"}
+,
+{"timestamp":"2025-06-07T18:03:14Z","killer_uid":"52eb78cb-f436-4214-bbcb-2125cfaedeb4","killer_name":"pigeony","killer_faction":"SCR_CampaignFaction<0x0000017CB7CF2730>","action":"suicide","victim_uid":"52eb78cb-f436-4214-bbcb-2125cfaedeb4","victim_name":"pigeony","victim_faction":"SCR_CampaignFaction<0x0000017CB7CF2730>"}
+,
+{"timestamp":"2025-06-07T18:03:26Z","killer_uid":"36d8ec92-73a5-4fb7-abcb-5c7fb46fcfb1","killer_name":"mongchat","killer_faction":"SCR_CampaignFaction<0x0000017CB7CF2730>","action":"suicide","victim_uid":"36d8ec92-73a5-4fb7-abcb-5c7fb46fcfb1","victim_name":"mongchat","victim_faction":"SCR_CampaignFaction<0x0000017CB7CF2730>"}
+,
+{"timestamp":"2025-06-07T18:04:24Z","killer_uid":"24e9a1d9-df08-4bcf-8f94-e83cbc7ffa91","killer_name":"SilentMK","killer_faction":"SCR_CampaignFaction<0x0000017CB7CF2730>","action":"suicide","victim_uid":"24e9a1d9-df08-4bcf-8f94-e83cbc7ffa91","victim_name":"SilentMK","victim_faction":"SCR_CampaignFaction<0x0000017CB7CF2730>"}
+,
+{"timestamp":"2025-06-07T18:04:46Z","killer_uid":"f3a0cb12-f1c4-4e08-97b7-2ed4541ce9a3","killer_name":"Mike","killer_faction":"SCR_CampaignFaction<0x0000017CB7CF28D0>","action":"teamkill","victim_uid":"42759f3d-fd46-456e-8c5c-fc7034b6e0bc","victim_name":"syncs","victim_faction":"SCR_CampaignFaction<0x0000017CB7CF28D0>"}
+,
+{"timestamp":"2025-06-07T18:04:46Z","killer_uid":"f3a0cb12-f1c4-4e08-97b7-2ed4541ce9a3","killer_name":"Mike","killer_faction":"SCR_CampaignFaction<0x0000017CB7CF28D0>","action":"teamkill","victim_uid":"844bb3e2-ab87-4fcf-8611-f948b902bc55","victim_name":"Avent","victim_faction":"SCR_CampaignFaction<0x0000017CB7CF28D0>"}
+,
+{"timestamp":"2025-06-07T18:04:46Z","killer_uid":"f3a0cb12-f1c4-4e08-97b7-2ed4541ce9a3","killer_name":"Mike","killer_faction":"SCR_CampaignFaction<0x0000017CB7CF28D0>","action":"suicide","victim_uid":"f3a0cb12-f1c4-4e08-97b7-2ed4541ce9a3","victim_name":"Mike","victim_faction":"SCR_CampaignFaction<0x0000017CB7CF28D0>"}
