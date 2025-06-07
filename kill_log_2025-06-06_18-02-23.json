@@ -6792,3 +6792,7 @@
 {"timestamp":"2025-06-07T01:45:43Z","killer_uid":"15630ebd-abf5-4e83-9d24-37401cd68a39","killer_name":"donal_Farrelly03","killer_faction":"SCR_CampaignFaction<0x000001D5895FA8D0>","action":"suicide","victim_uid":"15630ebd-abf5-4e83-9d24-37401cd68a39","victim_name":"donal_Farrelly03","victim_faction":"SCR_CampaignFaction<0x000001D5895FA8D0>"}
 ,
 {"timestamp":"2025-06-07T01:50:06Z","killer_uid":"8fa7d2ec-7229-4e2f-bf8a-aba5c40d027b","killer_name":"MizticTrauma","killer_faction":"SCR_CampaignFaction<0x000001D5895FA8D0>","action":"kill","victim_uid":"4b09c555-eecc-43b2-a240-e88c6e1b2bd0","victim_name":"facestabber51","victim_faction":"SCR_CampaignFaction<0x000001D5895FA730>"}
+,
+{"timestamp":"2025-06-07T01:55:22Z","killer_uid":"15630ebd-abf5-4e83-9d24-37401cd68a39","killer_name":"donal_Farrelly03","killer_faction":"SCR_CampaignFaction<0x000001D5895FA8D0>","action":"suicide","victim_uid":"15630ebd-abf5-4e83-9d24-37401cd68a39","victim_name":"donal_Farrelly03","victim_faction":"SCR_CampaignFaction<0x000001D5895FA8D0>"}
+,
+{"timestamp":"2025-06-07T02:04:43Z","killer_uid":"8fa7d2ec-7229-4e2f-bf8a-aba5c40d027b","killer_name":"MizticTrauma","killer_faction":"SCR_CampaignFaction<0x000001D5895FA8D0>","action":"suicide","victim_uid":"8fa7d2ec-7229-4e2f-bf8a-aba5c40d027b","victim_name":"MizticTrauma","victim_faction":"SCR_CampaignFaction<0x000001D5895FA8D0>"}
