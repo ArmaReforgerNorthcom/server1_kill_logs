@@ -42,3 +42,9 @@
 {"timestamp":"2025-06-07T08:34:15Z","killer_uid":"89ec472e-d38c-4ee8-870f-5fbde4b69184","killer_name":"I Govern0r I","killer_faction":"SCR_CampaignFaction<0x000001A896CEE8D0>","action":"kill","victim_uid":"ff21f889-90fe-4fa4-b3a1-341311bf77e4","victim_name":"White-Mamba-hu","victim_faction":"SCR_CampaignFaction<0x000001A896CEE730>"}
 ,
 {"timestamp":"2025-06-07T08:34:52Z","killer_uid":"b0f87838-52f9-4f81-b27f-d14af1701e3c","killer_name":"arpad_222","killer_faction":"SCR_CampaignFaction<0x000001A896CEE730>","action":"suicide","victim_uid":"b0f87838-52f9-4f81-b27f-d14af1701e3c","victim_name":"arpad_222","victim_faction":"SCR_CampaignFaction<0x000001A896CEE730>"}
+,
+{"timestamp":"2025-06-07T08:40:54Z","killer_uid":"f9851c40-b0cd-4788-9c8a-b3a19d1a3249","killer_name":"ChieF","killer_faction":"SCR_CampaignFaction<0x000001A896CEE8D0>","action":"suicide","victim_uid":"f9851c40-b0cd-4788-9c8a-b3a19d1a3249","victim_name":"ChieF","victim_faction":"SCR_CampaignFaction<0x000001A896CEE8D0>"}
+,
+{"timestamp":"2025-06-07T08:41:27Z","killer_uid":"5504ba7b-1f18-4b17-ad5f-0a77b08cb112","killer_name":"Unsensitiv","killer_faction":"SCR_CampaignFaction<0x000001A896CEE730>","action":"suicide","victim_uid":"5504ba7b-1f18-4b17-ad5f-0a77b08cb112","victim_name":"Unsensitiv","victim_faction":"SCR_CampaignFaction<0x000001A896CEE730>"}
+,
+{"timestamp":"2025-06-07T08:44:41Z","killer_uid":"969f3552-7d48-438d-9303-b6580bd4453a","killer_name":"Стая Блох","killer_faction":"SCR_CampaignFaction<0x000001A896CEE730>","action":"kill","victim_uid":"89ec472e-d38c-4ee8-870f-5fbde4b69184","victim_name":"I Govern0r I","victim_faction":"SCR_CampaignFaction<0x000001A896CEE8D0>"}
