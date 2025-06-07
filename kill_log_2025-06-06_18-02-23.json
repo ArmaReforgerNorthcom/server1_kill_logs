@@ -6772,3 +6772,19 @@
 {"timestamp":"2025-06-07T01:32:36Z","killer_uid":"36d8ec92-73a5-4fb7-abcb-5c7fb46fcfb1","killer_name":"mongchat","killer_faction":"SCR_CampaignFaction<0x000001D5895FA730>","action":"teamkill","victim_uid":"c26f20c2-a0cd-4c95-b4e4-87fcb79b6b5e","victim_name":"Argonni","victim_faction":"SCR_CampaignFaction<0x000001D5895FA730>"}
 ,
 {"timestamp":"2025-06-07T01:34:37Z","killer_uid":"36d8ec92-73a5-4fb7-abcb-5c7fb46fcfb1","killer_name":"mongchat","killer_faction":"SCR_CampaignFaction<0x000001D5895FA730>","action":"kill","victim_uid":"15630ebd-abf5-4e83-9d24-37401cd68a39","victim_name":"donal_Farrelly03","victim_faction":"SCR_CampaignFaction<0x000001D5895FA8D0>"}
+,
+{"timestamp":"2025-06-07T01:35:20Z","killer_uid":"67d0890c-ca44-4ea1-8273-defa835e5dd1","killer_name":"Foton","killer_faction":"SCR_CampaignFaction<0x000001D5895FA730>","action":"kill","victim_uid":"b8e30eda-5882-4897-83ca-10be33a13c2b","victim_name":"Drkmlc","victim_faction":"SCR_CampaignFaction<0x000001D5895FA8D0>"}
+,
+{"timestamp":"2025-06-07T01:36:52Z","killer_uid":"67d0890c-ca44-4ea1-8273-defa835e5dd1","killer_name":"Foton","killer_faction":"SCR_CampaignFaction<0x000001D5895FA730>","action":"kill","victim_uid":"811a12d8-12b5-484c-851a-9020cd76e61a","victim_name":"Kameleon123345","victim_faction":"SCR_CampaignFaction<0x000001D5895FA8D0>"}
+,
+{"timestamp":"2025-06-07T01:37:44Z","killer_uid":"7a4f459c-ae83-471b-b364-3a54d9be8a2a","killer_name":"Love Dumpster","killer_faction":"SCR_CampaignFaction<0x000001D5895FA730>","action":"suicide","victim_uid":"7a4f459c-ae83-471b-b364-3a54d9be8a2a","victim_name":"Love Dumpster","victim_faction":"SCR_CampaignFaction<0x000001D5895FA730>"}
+,
+{"timestamp":"2025-06-07T01:38:38Z","killer_uid":"15630ebd-abf5-4e83-9d24-37401cd68a39","killer_name":"donal_Farrelly03","killer_faction":"SCR_CampaignFaction<0x000001D5895FA8D0>","action":"suicide","victim_uid":"15630ebd-abf5-4e83-9d24-37401cd68a39","victim_name":"donal_Farrelly03","victim_faction":"SCR_CampaignFaction<0x000001D5895FA8D0>"}
+,
+{"timestamp":"2025-06-07T01:39:34Z","killer_uid":"15630ebd-abf5-4e83-9d24-37401cd68a39","killer_name":"donal_Farrelly03","killer_faction":"SCR_CampaignFaction<0x000001D5895FA8D0>","action":"kill","victim_uid":"36d8ec92-73a5-4fb7-abcb-5c7fb46fcfb1","victim_name":"mongchat","victim_faction":"SCR_CampaignFaction<0x000001D5895FA730>"}
+,
+{"timestamp":"2025-06-07T01:41:24Z","killer_uid":"85c4502b-07a8-456e-a658-f848e0072fbd","killer_name":"Karlsson_3321","killer_faction":"SCR_CampaignFaction<0x000001D5895FA730>","action":"suicide","victim_uid":"85c4502b-07a8-456e-a658-f848e0072fbd","victim_name":"Karlsson_3321","victim_faction":"SCR_CampaignFaction<0x000001D5895FA730>"}
+,
+{"timestamp":"2025-06-07T01:42:01Z","killer_uid":"c26f20c2-a0cd-4c95-b4e4-87fcb79b6b5e","killer_name":"Argonni","killer_faction":"SCR_CampaignFaction<0x000001D5895FA730>","action":"kill","victim_uid":"79501539-f9b5-48d2-8658-cf1c6d49e3a6","victim_name":"Ucankismyars","victim_faction":"SCR_CampaignFaction<0x000001D5895FA8D0>"}
+,
+{"timestamp":"2025-06-07T01:44:55Z","killer_uid":"7a4f459c-ae83-471b-b364-3a54d9be8a2a","killer_name":"Love Dumpster","killer_faction":"SCR_CampaignFaction<0x000001D5895FA730>","action":"suicide","victim_uid":"7a4f459c-ae83-471b-b364-3a54d9be8a2a","victim_name":"Love Dumpster","victim_faction":"SCR_CampaignFaction<0x000001D5895FA730>"}
