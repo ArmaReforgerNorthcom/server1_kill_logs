@@ -347,7 +347,7 @@
     "kill": 58,
     "teamkill": 3,
     "suicide": 18,
-    "death": 159
+    "death": 161
   },
   "e5ba9644-0e78-4e69-b06f-6f4dcb7069b6": {
     "name": "IwillSiege4Life",
@@ -4406,10 +4406,10 @@
     "aliases": [
       "kristacheee"
     ],
-    "kill": 50,
+    "kill": 51,
     "teamkill": 7,
-    "suicide": 4,
-    "death": 37
+    "suicide": 6,
+    "death": 39
   },
   "9d3aef2e-0e9c-4cb6-a2db-f89d73f35657": {
     "name": "Mytelion",
@@ -7309,8 +7309,8 @@
     ],
     "kill": 6,
     "teamkill": 1,
-    "suicide": 17,
-    "death": 40
+    "suicide": 18,
+    "death": 42
   },
   "627294f7-f743-4208-992f-a68afe00f2a4": {
     "name": "Erdzo",
@@ -9728,10 +9728,10 @@
     "aliases": [
       "Waszaj"
     ],
-    "kill": 70,
+    "kill": 71,
     "teamkill": 7,
-    "suicide": 5,
-    "death": 46
+    "suicide": 7,
+    "death": 49
   },
   "c3c68218-8dc2-45aa-b199-c499eb6eb81b": {
     "name": "Mahmut Karakum",
@@ -11351,8 +11351,8 @@
     ],
     "kill": 64,
     "teamkill": 5,
-    "suicide": 17,
-    "death": 76
+    "suicide": 18,
+    "death": 77
   },
   "0558d722-aba6-4ccc-b340-a5a706489344": {
     "name": "!KAMENOV",
@@ -12742,8 +12742,8 @@
     ],
     "kill": 76,
     "teamkill": 6,
-    "suicide": 13,
-    "death": 65
+    "suicide": 15,
+    "death": 67
   },
   "b3014159-0731-4808-9338-2a0954c7dd96": {
     "name": "LiveCrayfish471",
@@ -18681,9 +18681,9 @@
       "monpol12313"
     ],
     "kill": 3,
-    "teamkill": 2,
-    "suicide": 4,
-    "death": 21
+    "teamkill": 3,
+    "suicide": 11,
+    "death": 28
   },
   "27bfc29b-77d3-4471-aa8c-43b6c15ba75e": {
     "name": "BonkaZ",
@@ -18712,8 +18712,8 @@
     ],
     "kill": 8,
     "teamkill": 0,
-    "suicide": 5,
-    "death": 24
+    "suicide": 7,
+    "death": 27
   },
   "66a74169-3b21-425c-9bdd-8faae39dc296": {
     "name": "Dorito1203",
@@ -23961,10 +23961,10 @@
     "aliases": [
       "TurtleMcTurtle7"
     ],
-    "kill": 6,
-    "teamkill": 0,
-    "suicide": 13,
-    "death": 19
+    "kill": 8,
+    "teamkill": 1,
+    "suicide": 19,
+    "death": 25
   },
   "a59efc87-c9ee-44de-b316-4bc296ebb358": {
     "name": "Sargent_Pickle10",
@@ -23975,5 +23975,15 @@
     "teamkill": 0,
     "suicide": 2,
     "death": 8
+  },
+  "1f59cafb-50db-4429-883a-7bd6ff74ebb8": {
+    "name": "Azlerrr",
+    "aliases": [
+      "Azlerrr"
+    ],
+    "kill": 0,
+    "teamkill": 0,
+    "suicide": 0,
+    "death": 1
   }
 }
