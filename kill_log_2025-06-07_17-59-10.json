@@ -7068,3 +7068,5 @@
 {"timestamp":"2025-06-08T03:41:35Z","killer_uid":"553d5bc3-18cf-4d9a-9880-29034a48efcb","killer_name":"SeamedPuma6869","killer_faction":"SCR_CampaignFaction<0x0000017CB7CF28D0>","action":"suicide","victim_uid":"553d5bc3-18cf-4d9a-9880-29034a48efcb","victim_name":"SeamedPuma6869","victim_faction":"SCR_CampaignFaction<0x0000017CB7CF28D0>"}
 ,
 {"timestamp":"2025-06-08T03:48:55Z","killer_uid":"3e1d6d00-9733-47f4-b45f-d9f20faa1cc5","killer_name":"Kharza","killer_faction":"SCR_CampaignFaction<0x0000017CB7CF2730>","action":"suicide","victim_uid":"3e1d6d00-9733-47f4-b45f-d9f20faa1cc5","victim_name":"Kharza","victim_faction":"SCR_CampaignFaction<0x0000017CB7CF2730>"}
+,
+{"timestamp":"2025-06-08T04:32:45Z","killer_uid":"45d0abe4-c138-4ee5-817c-8cbb36767d06","killer_name":"King.sqf","killer_faction":"SCR_CampaignFaction<0x0000017CB7CF2A70>","action":"kill","victim_uid":"3e1d6d00-9733-47f4-b45f-d9f20faa1cc5","victim_name":"Kharza","victim_faction":"SCR_CampaignFaction<0x0000017CB7CF2730>"}
