@@ -7020,3 +7020,15 @@
 {"timestamp":"2025-06-08T02:42:09Z","killer_uid":"2ab2edd9-5ad1-4c8c-bd65-c726d1296e79","killer_name":"GReX626","killer_faction":"SCR_CampaignFaction<0x0000017CB7CF2730>","action":"suicide","victim_uid":"2ab2edd9-5ad1-4c8c-bd65-c726d1296e79","victim_name":"GReX626","victim_faction":"SCR_CampaignFaction<0x0000017CB7CF2730>"}
 ,
 {"timestamp":"2025-06-08T02:44:05Z","killer_uid":"6024bf8b-efa1-4039-98a3-dfb4fc765763","killer_name":"o344f","killer_faction":"SCR_CampaignFaction<0x0000017CB7CF2730>","action":"kill","victim_uid":"7019492f-0e44-489c-971a-115846a2c578","victim_name":"_LastSpermurai","victim_faction":"SCR_CampaignFaction<0x0000017CB7CF28D0>"}
+,
+{"timestamp":"2025-06-08T02:46:51Z","killer_uid":"01eb8c3e-0de0-4f8b-a160-a31a42b76883","killer_name":"TurtleMcTurtle7","killer_faction":"SCR_CampaignFaction<0x0000017CB7CF28D0>","action":"suicide","victim_uid":"01eb8c3e-0de0-4f8b-a160-a31a42b76883","victim_name":"TurtleMcTurtle7","victim_faction":"SCR_CampaignFaction<0x0000017CB7CF28D0>"}
+,
+{"timestamp":"2025-06-08T02:47:26Z","killer_uid":"fadac66c-67fc-4c46-9144-4f936fb78491","killer_name":"Kade12341786","killer_faction":"SCR_CampaignFaction<0x0000017CB7CF28D0>","action":"suicide","victim_uid":"fadac66c-67fc-4c46-9144-4f936fb78491","victim_name":"Kade12341786","victim_faction":"SCR_CampaignFaction<0x0000017CB7CF28D0>"}
+,
+{"timestamp":"2025-06-08T02:47:36Z","killer_uid":"2bf5e3f0-8151-4c96-aef8-49f4e3654019","killer_name":"venatbomb","killer_faction":"SCR_CampaignFaction<0x0000017CB7CF2730>","action":"kill","victim_uid":"04eac792-67c7-41cc-80cb-9a39c40edc2a","victim_name":"notfound4044406","victim_faction":"SCR_CampaignFaction<0x0000017CB7CF28D0>"}
+,
+{"timestamp":"2025-06-08T02:47:36Z","killer_uid":"2bf5e3f0-8151-4c96-aef8-49f4e3654019","killer_name":"venatbomb","killer_faction":"SCR_CampaignFaction<0x0000017CB7CF2730>","action":"kill","victim_uid":"01eb8c3e-0de0-4f8b-a160-a31a42b76883","victim_name":"TurtleMcTurtle7","victim_faction":"SCR_CampaignFaction<0x0000017CB7CF28D0>"}
+,
+{"timestamp":"2025-06-08T02:48:04Z","killer_uid":"40cc8a3c-8359-41ba-8933-56cc0a64d36a","killer_name":"charlie_11_moon","killer_faction":"SCR_CampaignFaction<0x0000017CB7CF2730>","action":"kill","victim_uid":"c2b7ed74-5821-42be-918e-eeb5eb4b75be","victim_name":"TBH_your_dadLEFT","victim_faction":"SCR_CampaignFaction<0x0000017CB7CF28D0>"}
+,
+{"timestamp":"2025-06-08T02:51:24Z","killer_uid":"ca478b31-b3a0-4485-ab59-19d9a0a776e2","killer_name":"Chris850911","killer_faction":"SCR_CampaignFaction<0x0000017CB7CF28D0>","action":"suicide","victim_uid":"ca478b31-b3a0-4485-ab59-19d9a0a776e2","victim_name":"Chris850911","victim_faction":"SCR_CampaignFaction<0x0000017CB7CF28D0>"}
