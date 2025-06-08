@@ -7064,3 +7064,5 @@
 {"timestamp":"2025-06-08T03:11:25Z","killer_uid":"01eb8c3e-0de0-4f8b-a160-a31a42b76883","killer_name":"TurtleMcTurtle7","killer_faction":"SCR_CampaignFaction<0x0000017CB7CF28D0>","action":"suicide","victim_uid":"01eb8c3e-0de0-4f8b-a160-a31a42b76883","victim_name":"TurtleMcTurtle7","victim_faction":"SCR_CampaignFaction<0x0000017CB7CF28D0>"}
 ,
 {"timestamp":"2025-06-08T03:18:08Z","killer_uid":"3e1d6d00-9733-47f4-b45f-d9f20faa1cc5","killer_name":"Kharza","killer_faction":"SCR_CampaignFaction<0x0000017CB7CF2730>","action":"suicide","victim_uid":"3e1d6d00-9733-47f4-b45f-d9f20faa1cc5","victim_name":"Kharza","victim_faction":"SCR_CampaignFaction<0x0000017CB7CF2730>"}
+,
+{"timestamp":"2025-06-08T03:41:35Z","killer_uid":"553d5bc3-18cf-4d9a-9880-29034a48efcb","killer_name":"SeamedPuma6869","killer_faction":"SCR_CampaignFaction<0x0000017CB7CF28D0>","action":"suicide","victim_uid":"553d5bc3-18cf-4d9a-9880-29034a48efcb","victim_name":"SeamedPuma6869","victim_faction":"SCR_CampaignFaction<0x0000017CB7CF28D0>"}
