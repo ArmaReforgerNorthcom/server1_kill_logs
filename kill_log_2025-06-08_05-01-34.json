@@ -68,3 +68,15 @@
 {"timestamp":"2025-06-08T09:21:04Z","killer_uid":"1a492f70-0ea0-4f23-a127-c71b859cd076","killer_name":"Vu","killer_faction":"SCR_CampaignFaction<0x000001BE12256730>","action":"suicide","victim_uid":"1a492f70-0ea0-4f23-a127-c71b859cd076","victim_name":"Vu","victim_faction":"SCR_CampaignFaction<0x000001BE12256730>"}
 ,
 {"timestamp":"2025-06-08T09:22:47Z","killer_uid":"5baa064a-b292-4c2a-bf05-d7c7c8b97ebe","killer_name":"wembleyy213","killer_faction":"SCR_CampaignFaction<0x000001BE122568D0>","action":"suicide","victim_uid":"5baa064a-b292-4c2a-bf05-d7c7c8b97ebe","victim_name":"wembleyy213","victim_faction":"SCR_CampaignFaction<0x000001BE122568D0>"}
+,
+{"timestamp":"2025-06-08T09:26:16Z","killer_uid":"3e1d6d00-9733-47f4-b45f-d9f20faa1cc5","killer_name":"Kharza","killer_faction":"SCR_CampaignFaction<0x000001BE122568D0>","action":"kill","victim_uid":"55c201eb-9c24-424e-95e7-b0b2cf39545e","victim_name":"Kust","victim_faction":"SCR_CampaignFaction<0x000001BE12256730>"}
+,
+{"timestamp":"2025-06-08T09:26:40Z","killer_uid":"55c201eb-9c24-424e-95e7-b0b2cf39545e","killer_name":"Kust","killer_faction":"SCR_CampaignFaction<0x000001BE12256730>","action":"kill","victim_uid":"3e1d6d00-9733-47f4-b45f-d9f20faa1cc5","victim_name":"Kharza","victim_faction":"SCR_CampaignFaction<0x000001BE122568D0>"}
+,
+{"timestamp":"2025-06-08T09:31:45Z","killer_uid":"55c201eb-9c24-424e-95e7-b0b2cf39545e","killer_name":"Kust","killer_faction":"SCR_CampaignFaction<0x000001BE12256730>","action":"kill","victim_uid":"3e1d6d00-9733-47f4-b45f-d9f20faa1cc5","victim_name":"Kharza","victim_faction":"SCR_CampaignFaction<0x000001BE122568D0>"}
+,
+{"timestamp":"2025-06-08T09:32:57Z","killer_uid":"258256ee-af9e-433d-ab3b-294400a0a7e3","killer_name":"Toni2000Ger","killer_faction":"SCR_CampaignFaction<0x000001BE122568D0>","action":"kill","victim_uid":"2f219002-0c8b-4286-a0ea-43cca3327f53","victim_name":"LEDT_Zlodey","victim_faction":"SCR_CampaignFaction<0x000001BE12256730>"}
+,
+{"timestamp":"2025-06-08T09:33:56Z","killer_uid":"8d5070f5-91fe-462b-a5cf-2ce2e17196f1","killer_name":"Chellie_1830","killer_faction":"SCR_CampaignFaction<0x000001BE12256730>","action":"kill","victim_uid":"9d9c678f-08f3-4957-aedb-0750aca51de6","victim_name":"SGT CH0NG","victim_faction":"SCR_CampaignFaction<0x000001BE122568D0>"}
+,
+{"timestamp":"2025-06-08T09:34:30Z","killer_uid":"3e1d6d00-9733-47f4-b45f-d9f20faa1cc5","killer_name":"Kharza","killer_faction":"SCR_CampaignFaction<0x000001BE122568D0>","action":"suicide","victim_uid":"3e1d6d00-9733-47f4-b45f-d9f20faa1cc5","victim_name":"Kharza","victim_faction":"SCR_CampaignFaction<0x000001BE122568D0>"}
