@@ -10,3 +10,5 @@
 {"timestamp":"2025-06-08T07:57:28Z","killer_uid":"3da78493-c4f1-47f8-9148-1a5d40bc69f7","killer_name":"Mumpitz","killer_faction":"SCR_CampaignFaction<0x000001BE122568D0>","action":"suicide","victim_uid":"3da78493-c4f1-47f8-9148-1a5d40bc69f7","victim_name":"Mumpitz","victim_faction":"SCR_CampaignFaction<0x000001BE122568D0>"}
 ,
 {"timestamp":"2025-06-08T08:01:17Z","killer_uid":"4d81831d-af08-433b-ac58-d91ae1bc4592","killer_name":"McCabe_ONLINE","killer_faction":"SCR_CampaignFaction<0x000001BE122568D0>","action":"kill","victim_uid":"2f219002-0c8b-4286-a0ea-43cca3327f53","victim_name":"LEDT_Zlodey","victim_faction":"SCR_CampaignFaction<0x000001BE12256730>"}
+,
+{"timestamp":"2025-06-08T08:07:27Z","killer_uid":"3da78493-c4f1-47f8-9148-1a5d40bc69f7","killer_name":"Mumpitz","killer_faction":"SCR_CampaignFaction<0x000001BE122568D0>","action":"kill","victim_uid":"2f219002-0c8b-4286-a0ea-43cca3327f53","victim_name":"LEDT_Zlodey","victim_faction":"SCR_CampaignFaction<0x000001BE12256730>"}
