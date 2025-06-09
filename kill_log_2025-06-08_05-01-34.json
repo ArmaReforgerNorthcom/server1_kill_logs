@@ -15070,3 +15070,4 @@
 {"timestamp":"2025-06-09T02:10:42Z","killer_uid":"52691442-e479-4973-80f7-cd9777140ce4","killer_name":"Handy_andy2000","killer_faction":"SCR_CampaignFaction<0x000001BE12256730>","action":"teamkill","victim_uid":"39fdf328-3d56-4d51-ba05-af7f92b89956","victim_name":"Axel","victim_faction":"SCR_CampaignFaction<0x000001BE12256730>"}
 ,
 {"timestamp":"2025-06-09T02:10:43Z","killer_uid":"39fdf328-3d56-4d51-ba05-af7f92b89956","killer_name":"Axel","killer_faction":"SCR_CampaignFaction<0x000001BE12256730>","action":"teamkill","victim_uid":"52691442-e479-4973-80f7-cd9777140ce4","victim_name":"Handy_andy2000","victim_faction":"SCR_CampaignFaction<0x000001BE12256730>"}
+]
