@@ -15034,3 +15034,7 @@
 {"timestamp":"2025-06-09T01:30:39Z","killer_uid":"67dc9ecf-0491-456e-a7a7-6e66bc208c32","killer_name":"koldoaguirre","killer_faction":"SCR_CampaignFaction<0x000001BE122568D0>","action":"suicide","victim_uid":"67dc9ecf-0491-456e-a7a7-6e66bc208c32","victim_name":"koldoaguirre","victim_faction":"SCR_CampaignFaction<0x000001BE122568D0>"}
 ,
 {"timestamp":"2025-06-09T01:31:00Z","killer_uid":"39fdf328-3d56-4d51-ba05-af7f92b89956","killer_name":"Axel","killer_faction":"SCR_CampaignFaction<0x000001BE12256730>","action":"suicide","victim_uid":"39fdf328-3d56-4d51-ba05-af7f92b89956","victim_name":"Axel","victim_faction":"SCR_CampaignFaction<0x000001BE12256730>"}
+,
+{"timestamp":"2025-06-09T01:37:27Z","killer_uid":"b3ac55b5-5494-4415-ab12-675d0444cfeb","killer_name":"Crcaidan","killer_faction":"SCR_CampaignFaction<0x000001BE122568D0>","action":"suicide","victim_uid":"b3ac55b5-5494-4415-ab12-675d0444cfeb","victim_name":"Crcaidan","victim_faction":"SCR_CampaignFaction<0x000001BE122568D0>"}
+,
+{"timestamp":"2025-06-09T01:40:10Z","killer_uid":"b3ac55b5-5494-4415-ab12-675d0444cfeb","killer_name":"Crcaidan","killer_faction":"SCR_CampaignFaction<0x000001BE122568D0>","action":"suicide","victim_uid":"b3ac55b5-5494-4415-ab12-675d0444cfeb","victim_name":"Crcaidan","victim_faction":"SCR_CampaignFaction<0x000001BE122568D0>"}
