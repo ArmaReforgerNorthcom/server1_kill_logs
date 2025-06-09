@@ -1,0 +1,10 @@
+[
+{"timestamp":"2025-06-09T23:00:14Z","killer_uid":"982633bf-3b6e-469e-9fba-79effc4e4bf3","killer_name":"Cian65676","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"suicide","victim_uid":"982633bf-3b6e-469e-9fba-79effc4e4bf3","victim_name":"Cian65676","victim_faction":"SCR_CampaignFaction<0x000001E9258128D0>"}
+,
+{"timestamp":"2025-06-09T23:00:25Z","killer_uid":"5f174ae5-cf77-4305-b241-e65c5a513235","killer_name":"FGardiner14","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"suicide","victim_uid":"5f174ae5-cf77-4305-b241-e65c5a513235","victim_name":"FGardiner14","victim_faction":"SCR_CampaignFaction<0x000001E9258128D0>"}
+,
+{"timestamp":"2025-06-09T23:03:18Z","killer_uid":"da5aac2b-57cb-4e17-925d-f60a4256b881","killer_name":"BlueShift450","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"teamkill","victim_uid":"982633bf-3b6e-469e-9fba-79effc4e4bf3","victim_name":"Cian65676","victim_faction":"SCR_CampaignFaction<0x000001E9258128D0>"}
+,
+{"timestamp":"2025-06-09T23:03:31Z","killer_uid":"04eac792-67c7-41cc-80cb-9a39c40edc2a","killer_name":"notfound4044406","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"suicide","victim_uid":"04eac792-67c7-41cc-80cb-9a39c40edc2a","victim_name":"notfound4044406","victim_faction":"SCR_CampaignFaction<0x000001E9258128D0>"}
+,
+{"timestamp":"2025-06-09T23:03:50Z","killer_uid":"ff7cf0e4-ebd7-4c69-98f4-894e57d11695","killer_name":"MrMurv07","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"teamkill","victim_uid":"494a5d1d-576c-4fa9-ae6d-8f9d55cf5e40","victim_name":"Nacotix_","victim_faction":"SCR_CampaignFaction<0x000001E9258128D0>"}
