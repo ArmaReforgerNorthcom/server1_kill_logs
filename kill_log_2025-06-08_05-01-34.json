@@ -15052,3 +15052,11 @@
 {"timestamp":"2025-06-09T01:51:25Z","killer_uid":"39fdf328-3d56-4d51-ba05-af7f92b89956","killer_name":"Axel","killer_faction":"SCR_CampaignFaction<0x000001BE12256730>","action":"suicide","victim_uid":"39fdf328-3d56-4d51-ba05-af7f92b89956","victim_name":"Axel","victim_faction":"SCR_CampaignFaction<0x000001BE12256730>"}
 ,
 {"timestamp":"2025-06-09T01:53:23Z","killer_uid":"39fdf328-3d56-4d51-ba05-af7f92b89956","killer_name":"Axel","killer_faction":"SCR_CampaignFaction<0x000001BE12256730>","action":"suicide","victim_uid":"39fdf328-3d56-4d51-ba05-af7f92b89956","victim_name":"Axel","victim_faction":"SCR_CampaignFaction<0x000001BE12256730>"}
+,
+{"timestamp":"2025-06-09T01:57:18Z","killer_uid":"1b9db696-01a0-4c29-897d-c4a5a078792a","killer_name":"X_DARK_GHOST_X99","killer_faction":"SCR_CampaignFaction<0x000001BE12256730>","action":"kill","victim_uid":"66dfb214-e1cf-4478-a5a1-08f5c68dd6fd","victim_name":"watsonmatt","victim_faction":"SCR_CampaignFaction<0x000001BE122568D0>"}
+,
+{"timestamp":"2025-06-09T01:57:42Z","killer_uid":"39fdf328-3d56-4d51-ba05-af7f92b89956","killer_name":"Axel","killer_faction":"SCR_CampaignFaction<0x000001BE12256730>","action":"suicide","victim_uid":"39fdf328-3d56-4d51-ba05-af7f92b89956","victim_name":"Axel","victim_faction":"SCR_CampaignFaction<0x000001BE12256730>"}
+,
+{"timestamp":"2025-06-09T01:58:13Z","killer_uid":"11b26b6b-709c-4695-89ed-cc53aabc1e55","killer_name":"KnoxeR12354","killer_faction":"SCR_CampaignFaction<0x000001BE12256730>","action":"suicide","victim_uid":"11b26b6b-709c-4695-89ed-cc53aabc1e55","victim_name":"KnoxeR12354","victim_faction":"SCR_CampaignFaction<0x000001BE12256730>"}
+,
+{"timestamp":"2025-06-09T02:01:24Z","killer_uid":"8e11a365-b731-401f-b1b7-c3153e84702f","killer_name":"Raekkenthegamer2","killer_faction":"SCR_CampaignFaction<0x000001BE12256730>","action":"teamkill","victim_uid":"2b91b6ab-03b7-4f8f-b744-912c25fe1f2c","victim_name":"GrayAnarchyAWR","victim_faction":"SCR_CampaignFaction<0x000001BE12256730>"}
