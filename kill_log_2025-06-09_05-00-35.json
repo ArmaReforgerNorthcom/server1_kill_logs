@@ -70,3 +70,7 @@
 {"timestamp":"2025-06-09T08:54:15Z","killer_uid":"8d307b3d-e7d2-4599-9be9-408d2980426d","killer_name":"Waszaj","killer_faction":"SCR_CampaignFaction<0x0000024F3B7528D0>","action":"kill","victim_uid":"39718a6d-3313-468d-9ece-d66a0257013f","victim_name":"Sinko Pekka","victim_faction":"SCR_CampaignFaction<0x0000024F3B752730>"}
 ,
 {"timestamp":"2025-06-09T08:54:27Z","killer_uid":"8d307b3d-e7d2-4599-9be9-408d2980426d","killer_name":"Waszaj","killer_faction":"SCR_CampaignFaction<0x0000024F3B7528D0>","action":"kill","victim_uid":"6dd3f57b-4c16-44cd-992b-dc2dba8121ca","victim_name":"TorbenDK2136","victim_faction":"SCR_CampaignFaction<0x0000024F3B752730>"}
+,
+{"timestamp":"2025-06-09T09:03:25Z","killer_uid":"39718a6d-3313-468d-9ece-d66a0257013f","killer_name":"Sinko Pekka","killer_faction":"SCR_CampaignFaction<0x0000024F3B752730>","action":"suicide","victim_uid":"39718a6d-3313-468d-9ece-d66a0257013f","victim_name":"Sinko Pekka","victim_faction":"SCR_CampaignFaction<0x0000024F3B752730>"}
+,
+{"timestamp":"2025-06-09T09:04:56Z","killer_uid":"39718a6d-3313-468d-9ece-d66a0257013f","killer_name":"Sinko Pekka","killer_faction":"SCR_CampaignFaction<0x0000024F3B752730>","action":"kill","victim_uid":"cc1555ae-c4b9-46ec-951c-f29c17cf3c32","victim_name":"Evolva","victim_faction":"SCR_CampaignFaction<0x0000024F3B7528D0>"}
