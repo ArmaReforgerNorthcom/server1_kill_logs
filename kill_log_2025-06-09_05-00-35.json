@@ -40,3 +40,15 @@
 {"timestamp":"2025-06-09T08:33:15Z","killer_uid":"3da78493-c4f1-47f8-9148-1a5d40bc69f7","killer_name":"Mumpitz","killer_faction":"SCR_CampaignFaction<0x0000024F3B7528D0>","action":"kill","victim_uid":"39718a6d-3313-468d-9ece-d66a0257013f","victim_name":"Sinko Pekka","victim_faction":"SCR_CampaignFaction<0x0000024F3B752730>"}
 ,
 {"timestamp":"2025-06-09T08:33:41Z","killer_uid":"cc1555ae-c4b9-46ec-951c-f29c17cf3c32","killer_name":"Evolva","killer_faction":"SCR_CampaignFaction<0x0000024F3B7528D0>","action":"suicide","victim_uid":"cc1555ae-c4b9-46ec-951c-f29c17cf3c32","victim_name":"Evolva","victim_faction":"SCR_CampaignFaction<0x0000024F3B7528D0>"}
+,
+{"timestamp":"2025-06-09T08:35:06Z","killer_uid":"98b45acf-8447-47ab-8024-b6518772a136","killer_name":"paukku_spede","killer_faction":"SCR_CampaignFaction<0x0000024F3B752730>","action":"suicide","victim_uid":"98b45acf-8447-47ab-8024-b6518772a136","victim_name":"paukku_spede","victim_faction":"SCR_CampaignFaction<0x0000024F3B752730>"}
+,
+{"timestamp":"2025-06-09T08:35:19Z","killer_uid":"cc1555ae-c4b9-46ec-951c-f29c17cf3c32","killer_name":"Evolva","killer_faction":"SCR_CampaignFaction<0x0000024F3B7528D0>","action":"suicide","victim_uid":"cc1555ae-c4b9-46ec-951c-f29c17cf3c32","victim_name":"Evolva","victim_faction":"SCR_CampaignFaction<0x0000024F3B7528D0>"}
+,
+{"timestamp":"2025-06-09T08:35:44Z","killer_uid":"98b45acf-8447-47ab-8024-b6518772a136","killer_name":"paukku_spede","killer_faction":"SCR_CampaignFaction<0x0000024F3B752730>","action":"kill","victim_uid":"3da78493-c4f1-47f8-9148-1a5d40bc69f7","victim_name":"Mumpitz","victim_faction":"SCR_CampaignFaction<0x0000024F3B7528D0>"}
+,
+{"timestamp":"2025-06-09T08:39:23Z","killer_uid":"6a512207-c48c-496f-9e91-7f6cc399df4f","killer_name":"Depth.Charge","killer_faction":"SCR_CampaignFaction<0x0000024F3B7528D0>","action":"kill","victim_uid":"98b45acf-8447-47ab-8024-b6518772a136","victim_name":"paukku_spede","victim_faction":"SCR_CampaignFaction<0x0000024F3B752730>"}
+,
+{"timestamp":"2025-06-09T08:40:15Z","killer_uid":"f9851c40-b0cd-4788-9c8a-b3a19d1a3249","killer_name":"ChieF","killer_faction":"SCR_CampaignFaction<0x0000024F3B7528D0>","action":"teamkill","victim_uid":"6a512207-c48c-496f-9e91-7f6cc399df4f","victim_name":"Depth.Charge","victim_faction":"SCR_CampaignFaction<0x0000024F3B7528D0>"}
+,
+{"timestamp":"2025-06-09T08:43:16Z","killer_uid":"cc1555ae-c4b9-46ec-951c-f29c17cf3c32","killer_name":"Evolva","killer_faction":"SCR_CampaignFaction<0x0000024F3B7528D0>","action":"suicide","victim_uid":"cc1555ae-c4b9-46ec-951c-f29c17cf3c32","victim_name":"Evolva","victim_faction":"SCR_CampaignFaction<0x0000024F3B7528D0>"}
