@@ -282,3 +282,49 @@
 {"timestamp":"2025-06-09T23:54:56Z","killer_uid":"07e5edb6-9b5f-459f-8d27-f0a92cf0ed1f","killer_name":"Teletubbie Vacuum","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"kill","victim_uid":"2b1eded5-1940-4582-9e6a-1d45e5f8f996","victim_name":"Ghost_Face_S96","victim_faction":"SCR_CampaignFaction<0x000001E925812730>"}
 ,
 {"timestamp":"2025-06-09T23:54:59Z","killer_uid":"c1677c69-9873-4cf4-ace9-fc232641ef27","killer_name":"ArmaReforger859","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"teamkill","victim_uid":"e0d0b49e-99ee-40fa-8047-08168fabea7c","victim_name":"TheNephilimmmm","victim_faction":"SCR_CampaignFaction<0x000001E9258128D0>"}
+,
+{"timestamp":"2025-06-09T23:55:09Z","killer_uid":"101f97b0-15f9-4226-bf64-3fbacc4b10f8","killer_name":"Dark De'mora","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"kill","victim_uid":"0d76b211-b6e1-4002-bcf4-713bdec723ba","victim_name":"GSR304","victim_faction":"SCR_CampaignFaction<0x000001E925812730>"}
+,
+{"timestamp":"2025-06-09T23:55:11Z","killer_uid":"e0d0b49e-99ee-40fa-8047-08168fabea7c","killer_name":"TheNephilimmmm","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"teamkill","victim_uid":"c1677c69-9873-4cf4-ace9-fc232641ef27","victim_name":"ArmaReforger859","victim_faction":"SCR_CampaignFaction<0x000001E9258128D0>"}
+,
+{"timestamp":"2025-06-09T23:55:38Z","killer_uid":"e0d0b49e-99ee-40fa-8047-08168fabea7c","killer_name":"TheNephilimmmm","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"teamkill","victim_uid":"c1677c69-9873-4cf4-ace9-fc232641ef27","victim_name":"ArmaReforger859","victim_faction":"SCR_CampaignFaction<0x000001E9258128D0>"}
+,
+{"timestamp":"2025-06-09T23:55:42Z","killer_uid":"c1677c69-9873-4cf4-ace9-fc232641ef27","killer_name":"ArmaReforger859","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"teamkill","victim_uid":"e0d0b49e-99ee-40fa-8047-08168fabea7c","victim_name":"TheNephilimmmm","victim_faction":"SCR_CampaignFaction<0x000001E9258128D0>"}
+,
+{"timestamp":"2025-06-09T23:55:54Z","killer_uid":"66de2ad3-3d45-4a00-9625-c06f623bb770","killer_name":"xTunguzka","killer_faction":"SCR_CampaignFaction<0x000001E925812730>","action":"kill","victim_uid":"e0eac939-1d99-42ed-a183-e19b9589994d","victim_name":"ComeRag","victim_faction":"SCR_CampaignFaction<0x000001E9258128D0>"}
+,
+{"timestamp":"2025-06-09T23:56:06Z","killer_uid":"101f97b0-15f9-4226-bf64-3fbacc4b10f8","killer_name":"Dark De'mora","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"kill","victim_uid":"66de2ad3-3d45-4a00-9625-c06f623bb770","victim_name":"xTunguzka","victim_faction":"SCR_CampaignFaction<0x000001E925812730>"}
+,
+{"timestamp":"2025-06-09T23:56:14Z","killer_uid":"0b30a240-318c-46e7-8562-5b7bdc545df1","killer_name":"Michael","killer_faction":"SCR_CampaignFaction<0x000001E925812730>","action":"teamkill","victim_uid":"09e06bc5-1845-4e6f-b044-711b0d52f9b7","victim_name":"tax evader","victim_faction":"SCR_CampaignFaction<0x000001E925812730>"}
+,
+{"timestamp":"2025-06-09T23:57:07Z","killer_uid":"e0d0b49e-99ee-40fa-8047-08168fabea7c","killer_name":"TheNephilimmmm","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"teamkill","victim_uid":"c1677c69-9873-4cf4-ace9-fc232641ef27","victim_name":"ArmaReforger859","victim_faction":"SCR_CampaignFaction<0x000001E9258128D0>"}
+,
+{"timestamp":"2025-06-09T23:57:52Z","killer_uid":"c1677c69-9873-4cf4-ace9-fc232641ef27","killer_name":"ArmaReforger859","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"teamkill","victim_uid":"e0d0b49e-99ee-40fa-8047-08168fabea7c","victim_name":"TheNephilimmmm","victim_faction":"SCR_CampaignFaction<0x000001E9258128D0>"}
+,
+{"timestamp":"2025-06-09T23:58:26Z","killer_uid":"a2d4d5c7-56f5-47c8-8870-f04dc7d8b51b","killer_name":"GoblinMEAT69","killer_faction":"SCR_CampaignFaction<0x000001E925812730>","action":"suicide","victim_uid":"a2d4d5c7-56f5-47c8-8870-f04dc7d8b51b","victim_name":"GoblinMEAT69","victim_faction":"SCR_CampaignFaction<0x000001E925812730>"}
+,
+{"timestamp":"2025-06-09T23:58:26Z","killer_uid":"c1677c69-9873-4cf4-ace9-fc232641ef27","killer_name":"ArmaReforger859","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"teamkill","victim_uid":"e0d0b49e-99ee-40fa-8047-08168fabea7c","victim_name":"TheNephilimmmm","victim_faction":"SCR_CampaignFaction<0x000001E9258128D0>"}
+,
+{"timestamp":"2025-06-09T23:58:53Z","killer_uid":"c1677c69-9873-4cf4-ace9-fc232641ef27","killer_name":"ArmaReforger859","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"teamkill","victim_uid":"e0d0b49e-99ee-40fa-8047-08168fabea7c","victim_name":"TheNephilimmmm","victim_faction":"SCR_CampaignFaction<0x000001E9258128D0>"}
+,
+{"timestamp":"2025-06-09T23:59:25Z","killer_uid":"07e5edb6-9b5f-459f-8d27-f0a92cf0ed1f","killer_name":"Teletubbie Vacuum","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"kill","victim_uid":"2ab2edd9-5ad1-4c8c-bd65-c726d1296e79","victim_name":"GReX626","victim_faction":"SCR_CampaignFaction<0x000001E925812730>"}
+,
+{"timestamp":"2025-06-09T23:59:41Z","killer_uid":"e0d0b49e-99ee-40fa-8047-08168fabea7c","killer_name":"TheNephilimmmm","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"teamkill","victim_uid":"c1677c69-9873-4cf4-ace9-fc232641ef27","victim_name":"ArmaReforger859","victim_faction":"SCR_CampaignFaction<0x000001E9258128D0>"}
+,
+{"timestamp":"2025-06-10T00:01:51Z","killer_uid":"07e5edb6-9b5f-459f-8d27-f0a92cf0ed1f","killer_name":"Teletubbie Vacuum","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"kill","victim_uid":"5e8fa993-2a60-46e0-98b1-a2c954f0f61b","victim_name":"DannieChannie","victim_faction":"SCR_CampaignFaction<0x000001E925812730>"}
+,
+{"timestamp":"2025-06-10T00:01:52Z","killer_uid":"8fa7d2ec-7229-4e2f-bf8a-aba5c40d027b","killer_name":"MizticTrauma","killer_faction":"SCR_CampaignFaction<0x000001E925812730>","action":"kill","victim_uid":"07e5edb6-9b5f-459f-8d27-f0a92cf0ed1f","victim_name":"Teletubbie Vacuum","victim_faction":"SCR_CampaignFaction<0x000001E9258128D0>"}
+,
+{"timestamp":"2025-06-10T00:02:02Z","killer_uid":"a2d4d5c7-56f5-47c8-8870-f04dc7d8b51b","killer_name":"GoblinMEAT69","killer_faction":"SCR_CampaignFaction<0x000001E925812730>","action":"suicide","victim_uid":"a2d4d5c7-56f5-47c8-8870-f04dc7d8b51b","victim_name":"GoblinMEAT69","victim_faction":"SCR_CampaignFaction<0x000001E925812730>"}
+,
+{"timestamp":"2025-06-10T00:02:22Z","killer_uid":"e0d0b49e-99ee-40fa-8047-08168fabea7c","killer_name":"TheNephilimmmm","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"teamkill","victim_uid":"c1677c69-9873-4cf4-ace9-fc232641ef27","victim_name":"ArmaReforger859","victim_faction":"SCR_CampaignFaction<0x000001E9258128D0>"}
+,
+{"timestamp":"2025-06-10T00:03:46Z","killer_uid":"101f97b0-15f9-4226-bf64-3fbacc4b10f8","killer_name":"Dark De'mora","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"kill","victim_uid":"8fa7d2ec-7229-4e2f-bf8a-aba5c40d027b","victim_name":"MizticTrauma","victim_faction":"SCR_CampaignFaction<0x000001E925812730>"}
+,
+{"timestamp":"2025-06-10T00:04:00Z","killer_uid":"3e23f0cd-98a0-43eb-beb1-6b97c15622d9","killer_name":"Dragonsheart15","killer_faction":"SCR_CampaignFaction<0x000001E925812730>","action":"suicide","victim_uid":"3e23f0cd-98a0-43eb-beb1-6b97c15622d9","victim_name":"Dragonsheart15","victim_faction":"SCR_CampaignFaction<0x000001E925812730>"}
+,
+{"timestamp":"2025-06-10T00:04:05Z","killer_uid":"c1677c69-9873-4cf4-ace9-fc232641ef27","killer_name":"ArmaReforger859","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"teamkill","victim_uid":"e0d0b49e-99ee-40fa-8047-08168fabea7c","victim_name":"TheNephilimmmm","victim_faction":"SCR_CampaignFaction<0x000001E9258128D0>"}
+,
+{"timestamp":"2025-06-10T00:04:56Z","killer_uid":"e0cdbac8-26a4-4863-bb2a-5008ed7db45c","killer_name":"The Milkman#","killer_faction":"SCR_CampaignFaction<0x000001E925812730>","action":"suicide","victim_uid":"e0cdbac8-26a4-4863-bb2a-5008ed7db45c","victim_name":"The Milkman#","victim_faction":"SCR_CampaignFaction<0x000001E925812730>"}
+,
+{"timestamp":"2025-06-10T00:05:02Z","killer_uid":"c1677c69-9873-4cf4-ace9-fc232641ef27","killer_name":"ArmaReforger859","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"teamkill","victim_uid":"e0d0b49e-99ee-40fa-8047-08168fabea7c","victim_name":"TheNephilimmmm","victim_faction":"SCR_CampaignFaction<0x000001E9258128D0>"}
