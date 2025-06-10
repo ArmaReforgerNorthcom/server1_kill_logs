@@ -66,3 +66,9 @@
 {"timestamp":"2025-06-10T10:09:32Z","killer_uid":"ff21f889-90fe-4fa4-b3a1-341311bf77e4","killer_name":"White-Mamba-hu","killer_faction":"SCR_CampaignFaction<0x000002129DC56730>","action":"kill","victim_uid":"0f7a6cf5-ae87-40cf-a1a5-fdf4ebf2dfaa","victim_name":"Cooper","victim_faction":"SCR_CampaignFaction<0x000002129DC568D0>"}
 ,
 {"timestamp":"2025-06-10T10:12:51Z","killer_uid":"79f06554-f7a2-4157-82ba-acd7f1ada012","killer_name":"Weezn94","killer_faction":"SCR_CampaignFaction<0x000002129DC56730>","action":"suicide","victim_uid":"79f06554-f7a2-4157-82ba-acd7f1ada012","victim_name":"Weezn94","victim_faction":"SCR_CampaignFaction<0x000002129DC56730>"}
+,
+{"timestamp":"2025-06-10T10:20:46Z","killer_uid":"5f715ad2-da9f-49c9-a708-438d3163c461","killer_name":"HaiLuxSkyWalker","killer_faction":"SCR_CampaignFaction<0x000002129DC568D0>","action":"suicide","victim_uid":"5f715ad2-da9f-49c9-a708-438d3163c461","victim_name":"HaiLuxSkyWalker","victim_faction":"SCR_CampaignFaction<0x000002129DC568D0>"}
+,
+{"timestamp":"2025-06-10T10:22:05Z","killer_uid":"06de3313-b18a-47d2-86f6-dd1e9a8a5a01","killer_name":"Grzybowy","killer_faction":"SCR_CampaignFaction<0x000002129DC56730>","action":"kill","victim_uid":"5baa064a-b292-4c2a-bf05-d7c7c8b97ebe","victim_name":"wembleyy213","victim_faction":"SCR_CampaignFaction<0x000002129DC568D0>"}
+,
+{"timestamp":"2025-06-10T10:24:59Z","killer_uid":"06de3313-b18a-47d2-86f6-dd1e9a8a5a01","killer_name":"Grzybowy","killer_faction":"SCR_CampaignFaction<0x000002129DC56730>","action":"kill","victim_uid":"3e1d6d00-9733-47f4-b45f-d9f20faa1cc5","victim_name":"Kharza","victim_faction":"SCR_CampaignFaction<0x000002129DC568D0>"}
