@@ -536,3 +536,5 @@
 {"timestamp":"2025-06-10T01:52:38Z","killer_uid":"2fc27d8f-a1b5-47fd-8963-006ac8d4d591","killer_name":"acepxl","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"kill","victim_uid":"8fa7d2ec-7229-4e2f-bf8a-aba5c40d027b","victim_name":"MizticTrauma","victim_faction":"SCR_CampaignFaction<0x000001E925812730>"}
 ,
 {"timestamp":"2025-06-10T01:54:14Z","killer_uid":"2fc27d8f-a1b5-47fd-8963-006ac8d4d591","killer_name":"acepxl","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"kill","victim_uid":"387b455b-5029-413c-8627-ba405a6231ce","victim_name":"MIKEY_BARNES","victim_faction":"SCR_CampaignFaction<0x000001E925812730>"}
+,
+{"timestamp":"2025-06-10T02:03:19Z","killer_uid":"2fc27d8f-a1b5-47fd-8963-006ac8d4d591","killer_name":"acepxl","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"kill","victim_uid":"8fa7d2ec-7229-4e2f-bf8a-aba5c40d027b","victim_name":"MizticTrauma","victim_faction":"SCR_CampaignFaction<0x000001E925812730>"}
