@@ -524,3 +524,5 @@
 {"timestamp":"2025-06-10T01:27:46Z","killer_uid":"aec96cd4-4db5-46df-b660-f5e43b34e5aa","killer_name":"ReWillBill","killer_faction":"SCR_CampaignFaction<0x000001E925812730>","action":"suicide","victim_uid":"aec96cd4-4db5-46df-b660-f5e43b34e5aa","victim_name":"ReWillBill","victim_faction":"SCR_CampaignFaction<0x000001E925812730>"}
 ,
 {"timestamp":"2025-06-10T01:34:24Z","killer_uid":"2fc27d8f-a1b5-47fd-8963-006ac8d4d591","killer_name":"acepxl","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"suicide","victim_uid":"2fc27d8f-a1b5-47fd-8963-006ac8d4d591","victim_name":"acepxl","victim_faction":"SCR_CampaignFaction<0x000001E9258128D0>"}
+,
+{"timestamp":"2025-06-10T01:36:51Z","killer_uid":"2fc27d8f-a1b5-47fd-8963-006ac8d4d591","killer_name":"acepxl","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"suicide","victim_uid":"2fc27d8f-a1b5-47fd-8963-006ac8d4d591","victim_name":"acepxl","victim_faction":"SCR_CampaignFaction<0x000001E9258128D0>"}
