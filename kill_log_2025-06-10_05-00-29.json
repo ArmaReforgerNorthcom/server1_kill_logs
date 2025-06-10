@@ -88,3 +88,7 @@
 {"timestamp":"2025-06-10T10:47:22Z","killer_uid":"5baa064a-b292-4c2a-bf05-d7c7c8b97ebe","killer_name":"wembleyy213","killer_faction":"SCR_CampaignFaction<0x000002129DC568D0>","action":"suicide","victim_uid":"5baa064a-b292-4c2a-bf05-d7c7c8b97ebe","victim_name":"wembleyy213","victim_faction":"SCR_CampaignFaction<0x000002129DC568D0>"}
 ,
 {"timestamp":"2025-06-10T10:55:54Z","killer_uid":"cd0f29ca-2dba-400b-84bf-f08bf56246bd","killer_name":"SNOKE999","killer_faction":"SCR_CampaignFaction<0x000002129DC56730>","action":"kill","victim_uid":"5baa064a-b292-4c2a-bf05-d7c7c8b97ebe","victim_name":"wembleyy213","victim_faction":"SCR_CampaignFaction<0x000002129DC568D0>"}
+,
+{"timestamp":"2025-06-10T11:05:59Z","killer_uid":"1a492f70-0ea0-4f23-a127-c71b859cd076","killer_name":"Vu","killer_faction":"SCR_CampaignFaction<0x000002129DC56730>","action":"kill","victim_uid":"471657b4-6ec3-44ce-8bbd-b4882decbd53","victim_name":"X_DASMOJI_X","victim_faction":"SCR_CampaignFaction<0x000002129DC568D0>"}
+,
+{"timestamp":"2025-06-10T11:06:03Z","killer_uid":"1a492f70-0ea0-4f23-a127-c71b859cd076","killer_name":"Vu","killer_faction":"SCR_CampaignFaction<0x000002129DC56730>","action":"kill","victim_uid":"9f397408-2325-4f98-8da9-03f8b38b27e4","victim_name":"II_DARKcuby_II","victim_faction":"SCR_CampaignFaction<0x000002129DC568D0>"}
