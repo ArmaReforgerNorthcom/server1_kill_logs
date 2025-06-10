@@ -546,3 +546,7 @@
 {"timestamp":"2025-06-10T02:15:32Z","killer_uid":"2fc27d8f-a1b5-47fd-8963-006ac8d4d591","killer_name":"acepxl","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"suicide","victim_uid":"2fc27d8f-a1b5-47fd-8963-006ac8d4d591","victim_name":"acepxl","victim_faction":"SCR_CampaignFaction<0x000001E9258128D0>"}
 ,
 {"timestamp":"2025-06-10T02:20:44Z","killer_uid":"2fc27d8f-a1b5-47fd-8963-006ac8d4d591","killer_name":"acepxl","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"kill","victim_uid":"af033670-2f95-49eb-a3c1-a01cd680b3ec","victim_name":"Flokiloky","victim_faction":"SCR_CampaignFaction<0x000001E925812730>"}
+,
+{"timestamp":"2025-06-10T02:25:20Z","killer_uid":"2fc27d8f-a1b5-47fd-8963-006ac8d4d591","killer_name":"acepxl","killer_faction":"SCR_CampaignFaction<0x000001E9258128D0>","action":"suicide","victim_uid":"2fc27d8f-a1b5-47fd-8963-006ac8d4d591","victim_name":"acepxl","victim_faction":"SCR_CampaignFaction<0x000001E9258128D0>"}
+,
+{"timestamp":"2025-06-10T02:26:05Z","killer_uid":"ab52fb8d-9fc8-4833-bfd9-339298e03300","killer_name":"ENTBHHLY-","killer_faction":"SCR_CampaignFaction<0x000001E925812730>","action":"suicide","victim_uid":"ab52fb8d-9fc8-4833-bfd9-339298e03300","victim_name":"ENTBHHLY-","victim_faction":"SCR_CampaignFaction<0x000001E925812730>"}
