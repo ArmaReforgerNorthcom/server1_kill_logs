@@ -9936,3 +9936,9 @@
 {"timestamp":"2025-06-11T02:10:52Z","killer_uid":"387b455b-5029-413c-8627-ba405a6231ce","killer_name":"MIKEY_BARNES","killer_faction":"SCR_CampaignFaction<0x000001A7D4796730>","action":"suicide","victim_uid":"387b455b-5029-413c-8627-ba405a6231ce","victim_name":"MIKEY_BARNES","victim_faction":"SCR_CampaignFaction<0x000001A7D4796730>"}
 ,
 {"timestamp":"2025-06-11T02:10:58Z","killer_uid":"c9eabb5d-a20d-4724-a1fd-c4dae624a858","killer_name":"Nithead","killer_faction":"SCR_CampaignFaction<0x000001A7D47968D0>","action":"suicide","victim_uid":"c9eabb5d-a20d-4724-a1fd-c4dae624a858","victim_name":"Nithead","victim_faction":"SCR_CampaignFaction<0x000001A7D47968D0>"}
+,
+{"timestamp":"2025-06-11T02:15:56Z","killer_uid":"c9eabb5d-a20d-4724-a1fd-c4dae624a858","killer_name":"Nithead","killer_faction":"SCR_CampaignFaction<0x000001A7D47968D0>","action":"suicide","victim_uid":"c9eabb5d-a20d-4724-a1fd-c4dae624a858","victim_name":"Nithead","victim_faction":"SCR_CampaignFaction<0x000001A7D47968D0>"}
+,
+{"timestamp":"2025-06-11T02:17:25Z","killer_uid":"387b455b-5029-413c-8627-ba405a6231ce","killer_name":"MIKEY_BARNES","killer_faction":"SCR_CampaignFaction<0x000001A7D4796730>","action":"kill","victim_uid":"95c8f1c2-6df2-4534-9c75-2b3a86cf9ca7","victim_name":"atom_dogo1","victim_faction":"SCR_CampaignFaction<0x000001A7D47968D0>"}
+,
+{"timestamp":"2025-06-11T02:19:57Z","killer_uid":"101f97b0-15f9-4226-bf64-3fbacc4b10f8","killer_name":"Dark De'mora","killer_faction":"SCR_CampaignFaction<0x000001A7D47968D0>","action":"suicide","victim_uid":"101f97b0-15f9-4226-bf64-3fbacc4b10f8","victim_name":"Dark De'mora","victim_faction":"SCR_CampaignFaction<0x000001A7D47968D0>"}
