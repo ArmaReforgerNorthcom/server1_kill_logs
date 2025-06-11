@@ -12,3 +12,13 @@
 {"timestamp":"2025-06-11T08:49:37Z","killer_uid":"e883bc94-ff3f-45fe-911d-7956cdd4b16c","killer_name":"GorgFace","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>","action":"suicide","victim_uid":"e883bc94-ff3f-45fe-911d-7956cdd4b16c","victim_name":"GorgFace","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>"}
 ,
 {"timestamp":"2025-06-11T08:53:48Z","killer_uid":"ff21f889-90fe-4fa4-b3a1-341311bf77e4","killer_name":"White-Mamba-hu","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA730>","action":"suicide","victim_uid":"ff21f889-90fe-4fa4-b3a1-341311bf77e4","victim_name":"White-Mamba-hu","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA730>"}
+,
+{"timestamp":"2025-06-11T08:56:02Z","killer_uid":"f61f5231-4d5a-45ce-ba44-7a3b4affda53","killer_name":"Keggit","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>","action":"suicide","victim_uid":"f61f5231-4d5a-45ce-ba44-7a3b4affda53","victim_name":"Keggit","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>"}
+,
+{"timestamp":"2025-06-11T08:56:52Z","killer_uid":"51717f21-25a0-4c09-969e-d0f23367aedc","killer_name":"mar10AP","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA730>","action":"kill","victim_uid":"8a5207f6-db61-4bb7-b43c-0f0b41adf341","victim_name":"Flare","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>"}
+,
+{"timestamp":"2025-06-11T08:58:31Z","killer_uid":"5baa064a-b292-4c2a-bf05-d7c7c8b97ebe","killer_name":"wembleyy213","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>","action":"suicide","victim_uid":"5baa064a-b292-4c2a-bf05-d7c7c8b97ebe","victim_name":"wembleyy213","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>"}
+,
+{"timestamp":"2025-06-11T08:58:47Z","killer_uid":"e883bc94-ff3f-45fe-911d-7956cdd4b16c","killer_name":"GorgFace","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>","action":"suicide","victim_uid":"e883bc94-ff3f-45fe-911d-7956cdd4b16c","victim_name":"GorgFace","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>"}
+,
+{"timestamp":"2025-06-11T09:02:59Z","killer_uid":"51717f21-25a0-4c09-969e-d0f23367aedc","killer_name":"mar10AP","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA730>","action":"kill","victim_uid":"8a5207f6-db61-4bb7-b43c-0f0b41adf341","victim_name":"Flare","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>"}
