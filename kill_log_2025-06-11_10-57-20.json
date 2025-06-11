@@ -112,3 +112,27 @@
 {"timestamp":"2025-06-11T12:33:36Z","killer_uid":"1318bb27-a0d1-4275-ad54-b42685b3f9bf","killer_name":"Kask","killer_faction":"SCR_CampaignFaction<0x000001E4A774A8D0>","action":"suicide","victim_uid":"1318bb27-a0d1-4275-ad54-b42685b3f9bf","victim_name":"Kask","victim_faction":"SCR_CampaignFaction<0x000001E4A774A8D0>"}
 ,
 {"timestamp":"2025-06-11T12:34:30Z","killer_uid":"5300b864-a231-4a1f-9fbb-3c4309552e6e","killer_name":"gunnerboyrick","killer_faction":"SCR_CampaignFaction<0x000001E4A774A8D0>","action":"suicide","victim_uid":"5300b864-a231-4a1f-9fbb-3c4309552e6e","victim_name":"gunnerboyrick","victim_faction":"SCR_CampaignFaction<0x000001E4A774A8D0>"}
+,
+{"timestamp":"2025-06-11T12:36:03Z","killer_uid":"4fdc4266-2ba4-412c-b37b-7be2b720b2e6","killer_name":"Lemon The Potatoe","killer_faction":"SCR_CampaignFaction<0x000001E4A774A730>","action":"kill","victim_uid":"a7517cfc-1061-4ce2-94da-d2075b875512","victim_name":"Miraf-","victim_faction":"SCR_CampaignFaction<0x000001E4A774A8D0>"}
+,
+{"timestamp":"2025-06-11T12:39:15Z","killer_uid":"24e9a1d9-df08-4bcf-8f94-e83cbc7ffa91","killer_name":"SilentMK","killer_faction":"SCR_CampaignFaction<0x000001E4A774A730>","action":"kill","victim_uid":"584b9f33-ed27-4a98-a143-fbf4a2a757e7","victim_name":"bionic-pluto9","victim_faction":"SCR_CampaignFaction<0x000001E4A774A8D0>"}
+,
+{"timestamp":"2025-06-11T12:40:01Z","killer_uid":"cc1555ae-c4b9-46ec-951c-f29c17cf3c32","killer_name":"Evolva","killer_faction":"SCR_CampaignFaction<0x000001E4A774A730>","action":"suicide","victim_uid":"cc1555ae-c4b9-46ec-951c-f29c17cf3c32","victim_name":"Evolva","victim_faction":"SCR_CampaignFaction<0x000001E4A774A730>"}
+,
+{"timestamp":"2025-06-11T12:40:07Z","killer_uid":"4fdc4266-2ba4-412c-b37b-7be2b720b2e6","killer_name":"Lemon The Potatoe","killer_faction":"SCR_CampaignFaction<0x000001E4A774A730>","action":"kill","victim_uid":"1318bb27-a0d1-4275-ad54-b42685b3f9bf","victim_name":"Kask","victim_faction":"SCR_CampaignFaction<0x000001E4A774A8D0>"}
+,
+{"timestamp":"2025-06-11T12:40:10Z","killer_uid":"a7517cfc-1061-4ce2-94da-d2075b875512","killer_name":"Miraf-","killer_faction":"SCR_CampaignFaction<0x000001E4A774A8D0>","action":"kill","victim_uid":"51717f21-25a0-4c09-969e-d0f23367aedc","victim_name":"mar10AP","victim_faction":"SCR_CampaignFaction<0x000001E4A774A730>"}
+,
+{"timestamp":"2025-06-11T12:40:15Z","killer_uid":"a7517cfc-1061-4ce2-94da-d2075b875512","killer_name":"Miraf-","killer_faction":"SCR_CampaignFaction<0x000001E4A774A8D0>","action":"kill","victim_uid":"4fdc4266-2ba4-412c-b37b-7be2b720b2e6","victim_name":"Lemon The Potatoe","victim_faction":"SCR_CampaignFaction<0x000001E4A774A730>"}
+,
+{"timestamp":"2025-06-11T12:40:41Z","killer_uid":"d0770f51-730e-4e77-a3dd-797888f5f602","killer_name":"Rennug","killer_faction":"SCR_CampaignFaction<0x000001E4A774A730>","action":"suicide","victim_uid":"d0770f51-730e-4e77-a3dd-797888f5f602","victim_name":"Rennug","victim_faction":"SCR_CampaignFaction<0x000001E4A774A730>"}
+,
+{"timestamp":"2025-06-11T12:43:10Z","killer_uid":"1318bb27-a0d1-4275-ad54-b42685b3f9bf","killer_name":"Kask","killer_faction":"SCR_CampaignFaction<0x000001E4A774A8D0>","action":"kill","victim_uid":"3357869b-0e05-4ba7-8eb4-8202420f7dfd","victim_name":"Borny","victim_faction":"SCR_CampaignFaction<0x000001E4A774A730>"}
+,
+{"timestamp":"2025-06-11T12:43:11Z","killer_uid":"6770843d-f0b4-41bd-9bed-5da124a296ff","killer_name":"Euronymous","killer_faction":"SCR_CampaignFaction<0x000001E4A774A8D0>","action":"suicide","victim_uid":"6770843d-f0b4-41bd-9bed-5da124a296ff","victim_name":"Euronymous","victim_faction":"SCR_CampaignFaction<0x000001E4A774A8D0>"}
+,
+{"timestamp":"2025-06-11T12:43:16Z","killer_uid":"f22af8bc-0ef3-4f16-ac25-ec419ae4f7e5","killer_name":"Vesna","killer_faction":"SCR_CampaignFaction<0x000001E4A774A730>","action":"kill","victim_uid":"5baa064a-b292-4c2a-bf05-d7c7c8b97ebe","victim_name":"wembleyy213","victim_faction":"SCR_CampaignFaction<0x000001E4A774A8D0>"}
+,
+{"timestamp":"2025-06-11T12:43:46Z","killer_uid":"","killer_name":"","killer_faction":"NULL","action":"kill","victim_uid":"3357869b-0e05-4ba7-8eb4-8202420f7dfd","victim_name":"Borny","victim_faction":"SCR_CampaignFaction<0x000001E4A774A730>"}
+,
+{"timestamp":"2025-06-11T12:44:25Z","killer_uid":"f22af8bc-0ef3-4f16-ac25-ec419ae4f7e5","killer_name":"Vesna","killer_faction":"SCR_CampaignFaction<0x000001E4A774A730>","action":"kill","victim_uid":"3a6d4921-5aa1-420a-a7ae-f9edecd830fc","victim_name":"xTANK UK","victim_faction":"SCR_CampaignFaction<0x000001E4A774A8D0>"}
