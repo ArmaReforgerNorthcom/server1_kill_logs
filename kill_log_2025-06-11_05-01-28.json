@@ -60,3 +60,23 @@
 {"timestamp":"2025-06-11T10:42:33Z","killer_uid":"035ab8e3-3fa3-4083-b4ae-904bee2fd064","killer_name":"Synti","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA730>","action":"suicide","victim_uid":"035ab8e3-3fa3-4083-b4ae-904bee2fd064","victim_name":"Synti","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA730>"}
 ,
 {"timestamp":"2025-06-11T10:44:09Z","killer_uid":"4f515224-888f-474b-af4d-c4fee03f1032","killer_name":"JensK_Ims","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA730>","action":"suicide","victim_uid":"4f515224-888f-474b-af4d-c4fee03f1032","victim_name":"JensK_Ims","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA730>"}
+,
+{"timestamp":"2025-06-11T10:48:35Z","killer_uid":"ce75d4b5-62c4-4b77-87c1-c3a8525dca27","killer_name":"Spetsnaz-Socol","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>","action":"suicide","victim_uid":"ce75d4b5-62c4-4b77-87c1-c3a8525dca27","victim_name":"Spetsnaz-Socol","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>"}
+,
+{"timestamp":"2025-06-11T10:49:06Z","killer_uid":"5baa064a-b292-4c2a-bf05-d7c7c8b97ebe","killer_name":"wembleyy213","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>","action":"kill","victim_uid":"8d307b3d-e7d2-4599-9be9-408d2980426d","victim_name":"Waszaj","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA730>"}
+,
+{"timestamp":"2025-06-11T10:49:07Z","killer_uid":"1036bdb5-c3f4-4727-8443-fde4d5989b0c","killer_name":"SGT Kowaski","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA730>","action":"suicide","victim_uid":"1036bdb5-c3f4-4727-8443-fde4d5989b0c","victim_name":"SGT Kowaski","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA730>"}
+,
+{"timestamp":"2025-06-11T10:49:07Z","killer_uid":"1036bdb5-c3f4-4727-8443-fde4d5989b0c","killer_name":"SGT Kowaski","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA730>","action":"teamkill","victim_uid":"4acd2861-74b4-4ddb-8c74-54cc5fc0e973","victim_name":"Erypsilon","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA730>"}
+,
+{"timestamp":"2025-06-11T10:51:05Z","killer_uid":"5baa064a-b292-4c2a-bf05-d7c7c8b97ebe","killer_name":"wembleyy213","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>","action":"kill","victim_uid":"1036bdb5-c3f4-4727-8443-fde4d5989b0c","victim_name":"SGT Kowaski","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA730>"}
+,
+{"timestamp":"2025-06-11T10:51:47Z","killer_uid":"e883bc94-ff3f-45fe-911d-7956cdd4b16c","killer_name":"GorgFace","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>","action":"suicide","victim_uid":"e883bc94-ff3f-45fe-911d-7956cdd4b16c","victim_name":"GorgFace","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>"}
+,
+{"timestamp":"2025-06-11T10:52:04Z","killer_uid":"2d19828f-9b7a-4bbd-a101-2fbc54950db8","killer_name":"LtWinter","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA730>","action":"kill","victim_uid":"5baa064a-b292-4c2a-bf05-d7c7c8b97ebe","victim_name":"wembleyy213","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>"}
+,
+{"timestamp":"2025-06-11T10:53:56Z","killer_uid":"ce75d4b5-62c4-4b77-87c1-c3a8525dca27","killer_name":"Spetsnaz-Socol","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>","action":"kill","victim_uid":"4acd2861-74b4-4ddb-8c74-54cc5fc0e973","victim_name":"Erypsilon","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA730>"}
+,
+{"timestamp":"2025-06-11T10:54:01Z","killer_uid":"4f515224-888f-474b-af4d-c4fee03f1032","killer_name":"JensK_Ims","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA730>","action":"kill","victim_uid":"5300b864-a231-4a1f-9fbb-3c4309552e6e","victim_name":"gunnerboyrick","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>"}
+,
+{"timestamp":"2025-06-11T10:54:31Z","killer_uid":"c9eabb5d-a20d-4724-a1fd-c4dae624a858","killer_name":"Nithead","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>","action":"kill","victim_uid":"4f515224-888f-474b-af4d-c4fee03f1032","victim_name":"JensK_Ims","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA730>"}
