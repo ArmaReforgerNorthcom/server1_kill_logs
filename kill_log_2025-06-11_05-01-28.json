@@ -56,3 +56,7 @@
 {"timestamp":"2025-06-11T10:15:20Z","killer_uid":"e883bc94-ff3f-45fe-911d-7956cdd4b16c","killer_name":"GorgFace","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>","action":"suicide","victim_uid":"e883bc94-ff3f-45fe-911d-7956cdd4b16c","victim_name":"GorgFace","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>"}
 ,
 {"timestamp":"2025-06-11T10:16:52Z","killer_uid":"f61f5231-4d5a-45ce-ba44-7a3b4affda53","killer_name":"Keggit","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>","action":"suicide","victim_uid":"f61f5231-4d5a-45ce-ba44-7a3b4affda53","victim_name":"Keggit","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>"}
+,
+{"timestamp":"2025-06-11T10:42:33Z","killer_uid":"035ab8e3-3fa3-4083-b4ae-904bee2fd064","killer_name":"Synti","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA730>","action":"suicide","victim_uid":"035ab8e3-3fa3-4083-b4ae-904bee2fd064","victim_name":"Synti","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA730>"}
+,
+{"timestamp":"2025-06-11T10:44:09Z","killer_uid":"4f515224-888f-474b-af4d-c4fee03f1032","killer_name":"JensK_Ims","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA730>","action":"suicide","victim_uid":"4f515224-888f-474b-af4d-c4fee03f1032","victim_name":"JensK_Ims","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA730>"}
