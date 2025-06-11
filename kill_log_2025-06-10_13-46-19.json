@@ -9960,3 +9960,7 @@
 {"timestamp":"2025-06-11T04:00:33Z","killer_uid":"da710760-1669-449b-bf5e-295c9e62a8a9","killer_name":"Vito-DiDonato","killer_faction":"SCR_CampaignFaction<0x000001A7D4796730>","action":"suicide","victim_uid":"da710760-1669-449b-bf5e-295c9e62a8a9","victim_name":"Vito-DiDonato","victim_faction":"SCR_CampaignFaction<0x000001A7D4796730>"}
 ,
 {"timestamp":"2025-06-11T04:01:44Z","killer_uid":"45d0abe4-c138-4ee5-817c-8cbb36767d06","killer_name":"King.sqf","killer_faction":"SCR_CampaignFaction<0x000001A7D4796A70>","action":"kill","victim_uid":"a73da248-1b0a-4579-b441-055438ff4fd6","victim_name":"Oddball_E8","victim_faction":"SCR_CampaignFaction<0x000001A7D4796730>"}
+,
+{"timestamp":"2025-06-11T04:49:39Z","killer_uid":"45d0abe4-c138-4ee5-817c-8cbb36767d06","killer_name":"King.sqf","killer_faction":"SCR_CampaignFaction<0x000001A7D4796A70>","action":"suicide","victim_uid":"45d0abe4-c138-4ee5-817c-8cbb36767d06","victim_name":"King.sqf","victim_faction":"SCR_CampaignFaction<0x000001A7D4796A70>"}
+,
+{"timestamp":"2025-06-11T04:54:11Z","killer_uid":"45d0abe4-c138-4ee5-817c-8cbb36767d06","killer_name":"King.sqf","killer_faction":"SCR_CampaignFaction<0x000001A7D4796A70>","action":"suicide","victim_uid":"45d0abe4-c138-4ee5-817c-8cbb36767d06","victim_name":"King.sqf","victim_faction":"SCR_CampaignFaction<0x000001A7D4796A70>"}
