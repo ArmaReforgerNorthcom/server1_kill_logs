@@ -22,3 +22,5 @@
 {"timestamp":"2025-06-11T08:58:47Z","killer_uid":"e883bc94-ff3f-45fe-911d-7956cdd4b16c","killer_name":"GorgFace","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>","action":"suicide","victim_uid":"e883bc94-ff3f-45fe-911d-7956cdd4b16c","victim_name":"GorgFace","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>"}
 ,
 {"timestamp":"2025-06-11T09:02:59Z","killer_uid":"51717f21-25a0-4c09-969e-d0f23367aedc","killer_name":"mar10AP","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA730>","action":"kill","victim_uid":"8a5207f6-db61-4bb7-b43c-0f0b41adf341","victim_name":"Flare","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>"}
+,
+{"timestamp":"2025-06-11T09:05:43Z","killer_uid":"2e966633-14af-4b92-9a52-1807eb760f18","killer_name":"Jeff Epstien518","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>","action":"suicide","victim_uid":"2e966633-14af-4b92-9a52-1807eb760f18","victim_name":"Jeff Epstien518","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>"}
