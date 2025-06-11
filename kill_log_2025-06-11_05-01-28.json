@@ -42,3 +42,5 @@
 {"timestamp":"2025-06-11T09:38:09Z","killer_uid":"a70566ac-88f3-4488-a88e-3b9ad23ffb11","killer_name":"stovies7","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA730>","action":"suicide","victim_uid":"a70566ac-88f3-4488-a88e-3b9ad23ffb11","victim_name":"stovies7","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA730>"}
 ,
 {"timestamp":"2025-06-11T09:39:31Z","killer_uid":"4f515224-888f-474b-af4d-c4fee03f1032","killer_name":"JensK_Ims","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA730>","action":"kill","victim_uid":"f61f5231-4d5a-45ce-ba44-7a3b4affda53","victim_name":"Keggit","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA8D0>"}
+,
+{"timestamp":"2025-06-11T10:02:45Z","killer_uid":"2d19828f-9b7a-4bbd-a101-2fbc54950db8","killer_name":"LtWinter","killer_faction":"SCR_CampaignFaction<0x00000296BD6DA730>","action":"suicide","victim_uid":"2d19828f-9b7a-4bbd-a101-2fbc54950db8","victim_name":"LtWinter","victim_faction":"SCR_CampaignFaction<0x00000296BD6DA730>"}
