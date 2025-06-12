@@ -30,3 +30,13 @@
 {"timestamp":"2025-06-12T01:13:15Z","killer_uid":"97c0f77b-4209-4bcf-b7a4-4cab0c566aee","killer_name":"Clsupreme705","killer_faction":"SCR_CampaignFaction<0x00000213716DA8D0>","action":"teamkill","victim_uid":"d2f11c88-0c4f-4d18-8100-b9e4b84b9eca","victim_name":"nookie","victim_faction":"SCR_CampaignFaction<0x00000213716DA8D0>"}
 ,
 {"timestamp":"2025-06-12T01:14:59Z","killer_uid":"d2f11c88-0c4f-4d18-8100-b9e4b84b9eca","killer_name":"nookie","killer_faction":"SCR_CampaignFaction<0x00000213716DA8D0>","action":"teamkill","victim_uid":"97c0f77b-4209-4bcf-b7a4-4cab0c566aee","victim_name":"Clsupreme705","victim_faction":"SCR_CampaignFaction<0x00000213716DA8D0>"}
+,
+{"timestamp":"2025-06-12T01:15:07Z","killer_uid":"d2f11c88-0c4f-4d18-8100-b9e4b84b9eca","killer_name":"nookie","killer_faction":"SCR_CampaignFaction<0x00000213716DA8D0>","action":"teamkill","victim_uid":"b9ceb668-b508-4c7f-923e-6cbe1b92403d","victim_name":"jace1009","victim_faction":"SCR_CampaignFaction<0x00000213716DA8D0>"}
+,
+{"timestamp":"2025-06-12T01:15:58Z","killer_uid":"b9ceb668-b508-4c7f-923e-6cbe1b92403d","killer_name":"jace1009","killer_faction":"SCR_CampaignFaction<0x00000213716DA8D0>","action":"teamkill","victim_uid":"d2f11c88-0c4f-4d18-8100-b9e4b84b9eca","victim_name":"nookie","victim_faction":"SCR_CampaignFaction<0x00000213716DA8D0>"}
+,
+{"timestamp":"2025-06-12T01:16:10Z","killer_uid":"b9ceb668-b508-4c7f-923e-6cbe1b92403d","killer_name":"jace1009","killer_faction":"SCR_CampaignFaction<0x00000213716DA8D0>","action":"teamkill","victim_uid":"d2f11c88-0c4f-4d18-8100-b9e4b84b9eca","victim_name":"nookie","victim_faction":"SCR_CampaignFaction<0x00000213716DA8D0>"}
+,
+{"timestamp":"2025-06-12T01:22:18Z","killer_uid":"d2f11c88-0c4f-4d18-8100-b9e4b84b9eca","killer_name":"nookie","killer_faction":"SCR_CampaignFaction<0x00000213716DA8D0>","action":"suicide","victim_uid":"d2f11c88-0c4f-4d18-8100-b9e4b84b9eca","victim_name":"nookie","victim_faction":"SCR_CampaignFaction<0x00000213716DA8D0>"}
+,
+{"timestamp":"2025-06-12T01:23:33Z","killer_uid":"b9ceb668-b508-4c7f-923e-6cbe1b92403d","killer_name":"jace1009","killer_faction":"SCR_CampaignFaction<0x00000213716DA8D0>","action":"suicide","victim_uid":"b9ceb668-b508-4c7f-923e-6cbe1b92403d","victim_name":"jace1009","victim_faction":"SCR_CampaignFaction<0x00000213716DA8D0>"}
