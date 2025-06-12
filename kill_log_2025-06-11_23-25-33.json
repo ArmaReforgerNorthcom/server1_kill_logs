@@ -1,2 +1,8 @@
 [
 {"timestamp":"2025-06-12T00:03:15Z","killer_uid":"0afa264a-448e-47c5-afe5-218e323c5693","killer_name":"Maverick-AGM65","killer_faction":"SCR_CampaignFaction<0x00000213716DA8D0>","action":"suicide","victim_uid":"0afa264a-448e-47c5-afe5-218e323c5693","victim_name":"Maverick-AGM65","victim_faction":"SCR_CampaignFaction<0x00000213716DA8D0>"}
+,
+{"timestamp":"2025-06-12T00:16:12Z","killer_uid":"0afa264a-448e-47c5-afe5-218e323c5693","killer_name":"Maverick-AGM65","killer_faction":"SCR_CampaignFaction<0x00000213716DA8D0>","action":"teamkill","victim_uid":"b9ceb668-b508-4c7f-923e-6cbe1b92403d","victim_name":"jace1009","victim_faction":"SCR_CampaignFaction<0x00000213716DA8D0>"}
+,
+{"timestamp":"2025-06-12T00:16:12Z","killer_uid":"0afa264a-448e-47c5-afe5-218e323c5693","killer_name":"Maverick-AGM65","killer_faction":"SCR_CampaignFaction<0x00000213716DA8D0>","action":"suicide","victim_uid":"0afa264a-448e-47c5-afe5-218e323c5693","victim_name":"Maverick-AGM65","victim_faction":"SCR_CampaignFaction<0x00000213716DA8D0>"}
+,
+{"timestamp":"2025-06-12T00:20:05Z","killer_uid":"d2f11c88-0c4f-4d18-8100-b9e4b84b9eca","killer_name":"nookie","killer_faction":"SCR_CampaignFaction<0x00000213716DA8D0>","action":"suicide","victim_uid":"d2f11c88-0c4f-4d18-8100-b9e4b84b9eca","victim_name":"nookie","victim_faction":"SCR_CampaignFaction<0x00000213716DA8D0>"}
