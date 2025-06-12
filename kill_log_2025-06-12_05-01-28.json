@@ -1,1 +1,6 @@
 [
+{"timestamp":"2025-06-12T06:49:35Z","killer_uid":"83203ef0-1ba9-4b7c-83ab-7043228ca6ca","killer_name":"M9-SD","killer_faction":"SCR_CampaignFaction<0x000001A033AC68D0>","action":"kill","victim_uid":"2f219002-0c8b-4286-a0ea-43cca3327f53","victim_name":"LEDT_Zlodey","victim_faction":"SCR_CampaignFaction<0x000001A033AC6730>"}
+,
+{"timestamp":"2025-06-12T06:52:29Z","killer_uid":"83203ef0-1ba9-4b7c-83ab-7043228ca6ca","killer_name":"M9-SD","killer_faction":"SCR_CampaignFaction<0x000001A033AC68D0>","action":"kill","victim_uid":"2f219002-0c8b-4286-a0ea-43cca3327f53","victim_name":"LEDT_Zlodey","victim_faction":"SCR_CampaignFaction<0x000001A033AC6730>"}
+,
+{"timestamp":"2025-06-12T06:52:37Z","killer_uid":"","killer_name":"Guanie","killer_faction":"NULL","action":"kill","victim_uid":"83203ef0-1ba9-4b7c-83ab-7043228ca6ca","victim_name":"M9-SD","victim_faction":"SCR_CampaignFaction<0x000001A033AC68D0>"}
